@@ -19,7 +19,27 @@ import xml.etree.ElementTree as ET
 
 ARXIV_API_URL = "https://export.arxiv.org/api/query"
 DEFAULT_LOG_PATH = pathlib.Path("papers.md")
-DEFAULT_CATEGORIES = ("cs.LG",)
+DEFAULT_CATEGORIES = ("cs.HC",)
+HCI_KEYWORDS = (
+    "accessibility",
+    "collaboration",
+    "creativity",
+    "design",
+    "education",
+    "evaluation",
+    "experience",
+    "human",
+    "interaction",
+    "interface",
+    "mixed reality",
+    "participatory",
+    "social",
+    "usability",
+    "user",
+    "visualization",
+    "vr",
+    "xr",
+)
 ATOM = {"atom": "http://www.w3.org/2005/Atom"}
 ARXIV = {"arxiv": "http://arxiv.org/schemas/atom"}
 
@@ -134,9 +154,32 @@ def choose_daily_paper(papers: list[dict[str, object]], seen_ids: set[str], run_
     if not unseen:
         raise RuntimeError("No unseen papers found in the fetched arXiv results.")
 
-    digest = hashlib.sha256(run_date.isoformat().encode("utf-8")).hexdigest()
-    start_index = int(digest[:8], 16) % len(unseen)
-    return unseen[start_index]
+    scored = sorted(
+        unseen,
+        key=lambda paper: (
+            hci_relevance_score(paper),
+            str(paper["published"]),
+            stable_daily_tiebreaker(paper, run_date),
+        ),
+        reverse=True,
+    )
+    return scored[0]
+
+
+def hci_relevance_score(paper: dict[str, object]) -> int:
+    text = f"{paper['title']} {paper['summary']}".lower()
+    score = 0
+    if "cs.HC" in paper["categories"]:
+        score += 10
+    for keyword in HCI_KEYWORDS:
+        if keyword in text:
+            score += 1
+    return score
+
+
+def stable_daily_tiebreaker(paper: dict[str, object], run_date: dt.date) -> str:
+    value = f"{run_date.isoformat()}:{paper['id']}:{paper['title']}"
+    return hashlib.sha256(value.encode("utf-8")).hexdigest()
 
 
 def format_entry(paper: dict[str, object], run_date: dt.date) -> str:
@@ -180,7 +223,7 @@ def parse_args() -> argparse.Namespace:
         "--category",
         action="append",
         dest="categories",
-        help="arXiv CS category to search. Repeat to add more. Defaults to a broad CS set.",
+        help="arXiv CS category to search. Repeat to add more. Defaults to cs.HC for HCI papers.",
     )
     parser.add_argument(
         "--date",
