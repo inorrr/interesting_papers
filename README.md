@@ -1,41 +1,59 @@
-# Interesting Papers
+# Interesting HCI Papers
 
-This repository keeps a daily Markdown log of real human-computer interaction papers from arXiv.
+A daily reading log of human-computer interaction papers from arXiv.
 
-## Files
+This repository is a small habit engine: each day, an automated workflow finds a recent paper from `cs.HC`, lightly ranks it for HCI relevance, and appends it to [papers.md](papers.md). The goal is not to make a definitive leaderboard. It is to keep a steady trail of papers worth opening, skimming, and thinking about.
 
-- `scripts/add_daily_paper.py` fetches recent HCI papers from arXiv, chooses one unseen paper for the day, and appends it to `papers.md`. By default it uses `cs.HC`; pass `--category` more than once to broaden the feed.
-- `.github/workflows/daily-paper.yml` runs the script every day and commits the updated log back to the repository.
-- `papers.md` is created automatically the first time the script writes an entry.
+## What Gets Logged
+
+Each entry includes:
+
+- the paper title
+- arXiv and PDF links
+- authors
+- publication date
+- arXiv categories
+- abstract summary
+
+The current focus is HCI and adjacent human-centered computing topics: interaction, interfaces, accessibility, design, evaluation, collaboration, visualization, education, mixed reality, and user experience.
+
+## Latest Log
+
+Read the paper log here:
+
+[papers.md](papers.md)
+
+## How It Works
+
+The daily update is powered by:
+
+- [scripts/add_daily_paper.py](scripts/add_daily_paper.py), which fetches recent arXiv papers and appends one unseen HCI-focused entry
+- [.github/workflows/daily-paper.yml](.github/workflows/daily-paper.yml), which runs the script on a schedule and commits the result
+
+The workflow runs every day at `13:00 UTC`, which is `9:00 AM` in New York during daylight saving time. Log dates use `America/New_York`, so entries match the local day rather than the GitHub runner's UTC clock.
 
 ## Run Locally
+
+Append a paper:
 
 ```bash
 python scripts/add_daily_paper.py
 ```
 
-Preview the entry without writing:
+Preview without writing:
 
 ```bash
 python scripts/add_daily_paper.py --dry-run
 ```
 
-By default, the log date uses `America/New_York`, even when the script runs on GitHub's UTC-hosted runners:
+Use a different timezone for the log date:
 
 ```bash
 python scripts/add_daily_paper.py --timezone America/Los_Angeles
 ```
 
-Pull from a different category set:
+Search a different category mix:
 
 ```bash
 python scripts/add_daily_paper.py --category cs.HC --category cs.CY
 ```
-
-## GitHub Setup
-
-1. Push these files to a GitHub repository.
-2. In the repository settings, make sure GitHub Actions has read and write permissions:
-   `Settings -> Actions -> General -> Workflow permissions -> Read and write permissions`.
-3. The workflow runs daily at `13:00 UTC`, which is `9:00 AM` in New York during daylight saving time.
-4. You can also run it manually from the Actions tab with `Run workflow`.
