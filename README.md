@@ -20,6 +20,12 @@ Preview the entry without writing:
 python scripts/add_daily_paper.py --dry-run
 ```
 
+By default, the log date uses `America/New_York`, even when the script runs on GitHub's UTC-hosted runners:
+
+```bash
+python scripts/add_daily_paper.py --timezone America/Los_Angeles
+```
+
 Pull from a different category set:
 
 ```bash

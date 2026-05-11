@@ -15,11 +15,13 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 
 ARXIV_API_URL = "https://export.arxiv.org/api/query"
 DEFAULT_LOG_PATH = pathlib.Path("papers.md")
 DEFAULT_CATEGORIES = ("cs.HC",)
+DEFAULT_TIMEZONE = "America/New_York"
 HCI_KEYWORDS = (
     "accessibility",
     "collaboration",
@@ -182,6 +184,14 @@ def stable_daily_tiebreaker(paper: dict[str, object], run_date: dt.date) -> str:
     return hashlib.sha256(value.encode("utf-8")).hexdigest()
 
 
+def local_run_date(timezone_name: str) -> dt.date:
+    try:
+        timezone = ZoneInfo(timezone_name)
+    except ZoneInfoNotFoundError as exc:
+        raise argparse.ArgumentTypeError(f"Unknown timezone: {timezone_name}") from exc
+    return dt.datetime.now(timezone).date()
+
+
 def format_entry(paper: dict[str, object], run_date: dt.date) -> str:
     authors = paper["authors"]
     author_text = ", ".join(authors[:6])
@@ -220,6 +230,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--log", type=pathlib.Path, default=DEFAULT_LOG_PATH)
     parser.add_argument("--max-results", type=int, default=75)
     parser.add_argument(
+        "--timezone",
+        default=DEFAULT_TIMEZONE,
+        help=f"Timezone used for the default log date. Defaults to {DEFAULT_TIMEZONE}.",
+    )
+    parser.add_argument(
         "--category",
         action="append",
         dest="categories",
@@ -228,7 +243,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--date",
         type=dt.date.fromisoformat,
-        default=dt.date.today(),
+        default=None,
         help="Date used to deterministically choose a paper, in YYYY-MM-DD format.",
     )
     parser.add_argument("--dry-run", action="store_true", help="Print the selected entry without writing.")
@@ -238,11 +253,12 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     args = parse_args()
     categories = args.categories or list(DEFAULT_CATEGORIES)
+    run_date = args.date or local_run_date(args.timezone)
 
     papers = fetch_recent_papers(categories, args.max_results)
     seen_ids = read_seen_ids(args.log)
-    paper = choose_daily_paper(papers, seen_ids, args.date)
-    entry = format_entry(paper, args.date)
+    paper = choose_daily_paper(papers, seen_ids, run_date)
+    entry = format_entry(paper, run_date)
 
     if args.dry_run:
         print(entry)
