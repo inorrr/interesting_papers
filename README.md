@@ -4,6 +4,8 @@ A daily reading log of human-computer interaction papers from arXiv.
 
 This repository is a small habit engine: each day, an automated workflow finds a recent paper from `cs.HC`, lightly ranks it for HCI relevance, and appends it to [papers.md](papers.md). The goal is not to make a definitive leaderboard. It is to keep a steady trail of papers worth opening, skimming, and thinking about.
 
+No one is actively monitoring this repository. Entries are added automatically and should be treated as unreviewed pointers, not endorsements or recommendations.
+
 ## What Gets Logged
 
 Each entry includes:
