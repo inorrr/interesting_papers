@@ -46,3 +46,31 @@ experience compared to existing online learning and support tools. This work adv
 our understanding of the design space of personalized, AI-driven educational tools and
 their potential impact on user experience.
 
+### 2026-05-13 - StartFlow: From Method Conception to Multi-Perspective Evaluation in UX Prototyping for Software Startups
+
+- **arXiv:** [2605.10824v1](http://arxiv.org/abs/2605.10824v1)
+- **PDF:** [2605.10824v1.pdf](https://arxiv.org/pdf/2605.10824v1)
+- **Authors:** Guilherme Corredato Guerino, João Pedro de Souza Olivo Tardivo, Renato Balancieri, Gislaine Camila Lapasini Leal
+- **Published:** 2026-05-11
+- **Categories:** cs.HC, cs.SE
+- **Summary:** Context. Software startups face significant challenges in building minimum viable
+products, particularly in the early stages, when resources are limited and expertise in
+user experience is scarce. Objective. Introduce StartFlow, a structured method that
+helps non-specialized professionals create MVP prototypes using the wireflow technique,
+a combination of wireframes and user flows. StartFlow consists of three steps: (i)
+organizing features; (ii) building wireflows; and (iii) verifying and refining them
+based on usability heuristics. Method. To assess the method Startflow, we first
+conducted a focus group with researchers in Software Engineering, Human-Computer
+Interaction, and Software Startups. Afterward, we conducted a proof-of-concept study,
+which consisted of an experiment and a heuristic evaluation with experts. Results. The
+qualitative analysis of the focus group revealed that participants found the method
+straightforward, flexible, and helpful in structuring user flows and identifying visual
+components. However, they also pointed out the need to improve its presentation, clarify
+its iterative nature, and strengthen its connection to broader UX principles. The
+results of the proof-of-concept indicate that participants who used StartFlow created
+clearer prototypes, adhered to the proposed user stories and business rules, and
+presented fewer usability defects. Furthermore, the method was well evaluated for its
+ease of use and intended future adoption. Conclusion. The study reinforces the potential
+of StartFlow as an accessible tool to support user-centered development in software
+startups from the earliest stages of their product development.
+
