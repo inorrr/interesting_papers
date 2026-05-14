@@ -74,3 +74,25 @@ ease of use and intended future adoption. Conclusion. The study reinforces the p
 of StartFlow as an accessible tool to support user-centered development in software
 startups from the earliest stages of their product development.
 
+### 2026-05-14 - "Like Taking the Path of Least Resistance": Exploring the Impact of LLM Interaction on the Creative Process of Programming
+
+- **arXiv:** [2605.13776v1](http://arxiv.org/abs/2605.13776v1)
+- **PDF:** [2605.13776v1.pdf](https://arxiv.org/pdf/2605.13776v1)
+- **Authors:** Zeinabsadat Saghi, Run Huang, Souti Chattopadhyay
+- **Published:** 2026-05-13
+- **Categories:** cs.HC
+- **Summary:** Creativity is fundamentally human. As AI takes on more of the generative work that once
+required human imagination, despite documented limitations in creative ability, a
+critical question emerges: How does GenAI affect users' creativity? Through a within-
+subject study followed by retrospective interviews with (N=20) programmers, we
+investigated the impact of LLMs on participants' process of creative thinking in
+programming and the creativity of generated solutions. Across two conditions (LLM-
+assisted vs. unassisted), participants using LLMs had significantly shorter idea-
+generation periods (p=0.0004), leading to fewer creative moments (p=0.002). Qualitative
+analysis of participants' interactions and interviews revealed four different human-LLM
+collaboration modes supporting various problem-solving strategies. However, a
+comparative analysis of the generated solutions shows that while LLMs can help generate
+more correct and functional code, their solutions contain roughly the same number of
+ideas as participant-generated ones. Based on our findings, we discuss design
+implications and considerations for effectively using LLMs to support user creativity.
+
