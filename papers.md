@@ -113,3 +113,24 @@ originality and innovation. We concluded that GenAI can produce functional inter
 but tends to reinforce visual and structural patterns that affect perceptions of
 originality.
 
+### 2026-05-16 - "It became a self-fulfilling prophecy": How Lived Experiences are Entangled with AI Predictions in Menstrual Cycle Tracking Apps
+
+- **arXiv:** [2605.13261v1](http://arxiv.org/abs/2605.13261v1)
+- **PDF:** [2605.13261v1.pdf](https://arxiv.org/pdf/2605.13261v1)
+- **Authors:** Wendy Zhou, Pelin Karaturhan, Alexandra Weilenmann, Jichen Zhu
+- **Published:** 2026-05-13
+- **Categories:** cs.HC, cs.AI
+- **Summary:** In menstrual cycle tracking apps (MCTAs), AI-based predictions and insights have become
+increasingly popular. These features enable users to receive personalized information
+about their bodies and mental states. However, there is currently little research on how
+these predictive AI features and explanations affect users' lived experiences. This
+paper examines human-AI entanglement in MCTAs through 14 semi-structured user interviews
+and a group autoethnography. These methods uncover the processes leading to this
+phenomenon. Our results reveal that: (1) users understand their lived experiences in
+light of AI predictions, although these predictions can be faulty due to imperfect
+logging practices, (2) the user interface features and AI explanations do not support
+awareness or critical engagement with this entanglement and meaning-making, and (3) non-
+normative MCTA users report a sense of isolation in this entangled interaction. Based on
+our findings, we propose design implications for predictive AI features and
+explanations.
+
