@@ -192,3 +192,30 @@ findings suggest that prompting and AI literacy alone may be insufficient to ens
 epistemically independent AI support, highlighting the need for system-level approaches
 that better promote critical engagement in human-AI collaboration.
 
+### 2026-05-22 - Quantifying Full-Body Immersion
+
+- **arXiv:** [2605.22521v1](http://arxiv.org/abs/2605.22521v1)
+- **PDF:** [2605.22521v1.pdf](https://arxiv.org/pdf/2605.22521v1)
+- **Authors:** Alihan Bakir, Ekrem Yüksel, Fabio Zuliani, Neil Chennoufi, Francesco Bruno, Jamie Paik
+- **Published:** 2026-05-21
+- **Categories:** cs.RO, cs.HC
+- **Summary:** Humanity is at the forefront of yet another digital revolution, where the lines between
+real and virtual worlds are dissolving, reshaping how we perceive and interact with our
+surroundings. In this context, we introduce a transformative paradigm for immersive
+virtual experiences centered around whole-body kinetic interactions. Our approach
+redefines immersion through three distinct levels: audio-visual immersion, capturing
+sensory realism; physical immersion, delivering haptic feedback; and full-body immersion
+(FBI), where dynamic bodily interaction integrates seamlessly with virtual environments.
+At the core of this innovation lies a scalable, distributable platform based on modular
+robotic surface units inspired by the adaptive designs of nature. These units enable the
+rendering of immersive environments at any scale, from intimate personal experiences to
+expansive multi-user settings, dynamically adapting to interactions in real-time. The
+modular system distributes force, shape, and motion feedback throughout entire spaces,
+replicating the physical characteristics of the environment and enabling new depth of
+engagement through FBI. By combining scalability, adaptability, and dynamic physical
+engagement, this framework bridges the gap between real and virtual worlds. It offers an
+unprecedented level of immersion where users can engage their entire bodies in symbiotic
+interactions with the virtual space. This work not only advances immersive technology
+but also redefines how humans and virtual environments coexist, setting a foundation for
+a new era of human-environment synthesis.
+
