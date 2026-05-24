@@ -244,3 +244,26 @@ profiles. In a within-subject study, we found that, while the threat levels are
 perceived overall slightly higher in VR, the passing distance of 1.5 to 2 meters is
 preferred among the demonstrated profiles, as well as in the self-defined trajectories.
 
+### 2026-05-24 - Addressing the Synergy Gap: The Six Elements of the Design Space
+
+- **arXiv:** [2605.21635v1](http://arxiv.org/abs/2605.21635v1)
+- **PDF:** [2605.21635v1.pdf](https://arxiv.org/pdf/2605.21635v1)
+- **Authors:** Tommaso Turchi, Ben Wilson, Matt Roach, Alan Dix, Alessio Malizia
+- **Published:** 2026-05-20
+- **Categories:** cs.HC, cs.AI, cs.CY
+- **Summary:** AI is now embedded in healthcare, finance, policy, and many other domains, yet genuine
+human-AI synergy - combined performance that exceeds what either party achieves alone -
+is uncommon. Meta-analyses show that AI assistance tends to improve human performance
+compared to working alone, but studies finding true synergy are scarce. We call this
+persistent shortfall the synergy gap. Most current work treats human-AI combination as
+an engineering problem and concentrates on interpretability, trust calibration, or
+interface design. These matter, but they cover only part of what determines whether
+combination works. Closing the synergy gap, we argue, requires explicit engagement with
+a wider design space. We map that space through six interconnected elements:
+sociotechnical context, decision-making frameworks, human decision participants, AI
+capabilities, interaction, and holistic evaluation. For each element, we describe what
+it covers, how it shapes the others in practice, and what it implies for design. The
+result is a shared vocabulary for practitioners building hybrid systems, an analytical
+lens for researchers studying combination patterns, and a starting point for evaluators
+interested in the full quality of human-AI decision-making rather than accuracy alone.
+
