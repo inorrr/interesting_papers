@@ -267,3 +267,29 @@ result is a shared vocabulary for practitioners building hybrid systems, an anal
 lens for researchers studying combination patterns, and a starting point for evaluators
 interested in the full quality of human-AI decision-making rather than accuracy alone.
 
+### 2026-05-25 - MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing
+
+- **arXiv:** [2605.23535v1](http://arxiv.org/abs/2605.23535v1)
+- **PDF:** [2605.23535v1.pdf](https://arxiv.org/pdf/2605.23535v1)
+- **Authors:** Youqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, et al.
+- **Published:** 2026-05-22
+- **Categories:** cs.HC
+- **Summary:** Recent writing assistants are increasingly shifting from passive, prompt-driven
+interaction to proactive, suggestion-based completion, which integrates localized
+continuations into the writing flow and reduces coordination burden. However, existing
+evaluations simply focus on output quality, failing to capture how users accept, edit,
+or repair suggestions in real-time interaction, and thus obscuring the true usability of
+proactive co-writing systems. To address this gap, we adopt a sequential, behavior-
+centered view of interactive writing and formalize co-writing as a Human-in-the-Loop
+Markov Decision Process, modeling writing as an interaction shaped by user acceptance
+and editing decisions. Based on this formulation, we introduce the Co-Writing Fidelity
+Suite, an interaction-aware metric suite that captures both user-assistant alignment and
+cognitive editing effort, including Hierarchical Acceptance Rate and Knowledge-aware
+Editing Distance. We conduct a large-scale simulation study across 16 writing domains,
+using 1,688 controlled continuation queries sampled from different writing stages. Our
+analysis reveals systematic effects of interaction structure on acceptance behavior and
+editing cost. A follow-up user study with 30 participants confirms that these behavioral
+patterns align with real user experience. Together, our findings demonstrate that
+interaction-aware evaluation provides insights beyond output-only metrics and informs
+the design of more effective proactive writing assistants.
+
