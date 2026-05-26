@@ -293,3 +293,25 @@ patterns align with real user experience. Together, our findings demonstrate tha
 interaction-aware evaluation provides insights beyond output-only metrics and informs
 the design of more effective proactive writing assistants.
 
+### 2026-05-26 - "It Felt a Bit Eerie": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent
+
+- **arXiv:** [2605.24729v1](http://arxiv.org/abs/2605.24729v1)
+- **PDF:** [2605.24729v1.pdf](https://arxiv.org/pdf/2605.24729v1)
+- **Authors:** Michael Yin, Angela Chiang, Samuel Rhys Cox, Robert Xiao
+- **Published:** 2026-05-23
+- **Categories:** cs.HC
+- **Summary:** While human-AI collaboration systems have increasingly been built to increase efficiency
+or support creativity, little work has examined how the design of interactions shapes
+the social connection between human and artificial agent. We examine how the temporal
+and visual dimensions of collaboration shape the experience of a writing task.
+Specifically, we built three variants of an AI-assisted text editor along a spectrum of
+simulated humanlike interaction (synchronous and with a cursor) to machinelike
+interaction (asynchronous and without a cursor), and conducted a comparative user study
+(n=48). Our exploratory findings suggest that synchronous suggestions increased
+efficiency but led to contextual misalignment, while a visual cursor increased intent
+understanding but evoked feelings of surveillance. Taken together, humanlike design of
+artificial agents can create positive social expectations but also elicit social costs,
+especially without the alignment present in human-human collaboration. We extend our
+findings into design implications and ethical considerations when building human-AI
+collaboration systems.
+
