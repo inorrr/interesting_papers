@@ -346,3 +346,25 @@ design principles for future Human-Generative AI systems that emphasise not only
 quality, but also the explicit representation of the collaborative context in which
 outputs are produced.
 
+### 2026-05-31 - MOOSE-Copilot: A Web-Based Interactive Assistant for Unified Exploratory and Fine-Grained Scientific Hypothesis Discovery
+
+- **arXiv:** [2605.29475v1](http://arxiv.org/abs/2605.29475v1)
+- **PDF:** [2605.29475v1.pdf](https://arxiv.org/pdf/2605.29475v1)
+- **Authors:** Hongran An, Zonglin Yang
+- **Published:** 2026-05-28
+- **Categories:** cs.CL, cs.AI, cs.CE, cs.HC
+- **Summary:** Large language models (LLMs) show remarkable potential in scientific hypothesis
+discovery. However, existing approaches face two critical limitations: they treat
+divergent exploratory ideation and convergent fine-grained refinement as isolated tasks,
+and they operate autonomously with little to no human guidance. We present MOOSE-
+Copilot, the first unified framework to bridge this abstraction gap through a formalized
+human-AI interaction (HAII) protocol. Our system empowers scientists to steer the
+generative process via three explicit signals: initial blueprints, inter-stage routing,
+and regenerative feedback. Quantitative evaluations demonstrate that injecting these
+structured expert signals significantly outperforms purely autonomous baselines,
+establishing a performance ceiling under oracle guidance. Furthermore, to democratize
+this paradigm, we develop an intuitive web-based interface featuring interactive tree
+visualization. This explicitly eliminates the steep learning curve of complex command-
+line agentic tools, empowering interdisciplinary researchers to directly leverage,
+visually orchestrate, and accelerate end-to-end scientific breakthroughs.
+
