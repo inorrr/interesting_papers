@@ -368,3 +368,28 @@ visualization. This explicitly eliminates the steep learning curve of complex co
 line agentic tools, empowering interdisciplinary researchers to directly leverage,
 visually orchestrate, and accelerate end-to-end scientific breakthroughs.
 
+### 2026-06-02 - Guided Sensemaking: Agents in Collaborative Deliberation
+
+- **arXiv:** [2606.02260v1](http://arxiv.org/abs/2606.02260v1)
+- **PDF:** [2606.02260v1.pdf](https://arxiv.org/pdf/2606.02260v1)
+- **Authors:** Aaditya Bhatia, Navdeep Kaur Bhatia, Marc-Antoine Parent, Jack Park
+- **Published:** 2026-06-01
+- **Categories:** cs.HC
+- **Summary:** Generative AI systems are aggressively reshaping how students engage with information
+and perform cognitive work; convenience-oriented use has the potential to displace
+effortful reasoning, reflection, and learning, especially for those who lack domain
+expertise and effective human-AI interaction strategies. Current AI tools are heavily
+focused on chat-style interfaces geared towards answer generation and efficiency in a
+linear and fragmented stream of text, offering limited support for structured
+reflection, argument construction, and sensemaking in collaborative contexts. We
+introduce Guided Sensemaking, an AI-augmented multiagent discourse platform that
+facilitates composition of well-thought-out ideas around a central question, provides
+scaffolding for critical thinking, and enables visualization of argumentative structure
+to support critical thinking and collaborative deliberation. The system uses several
+interactive agents to provide context-sensitive questioning prompts and a scaffolding
+for thought that exposes thematic clusters, agreements, and points of contention without
+collapsing diverse perspectives. This paper proposes a conceptual design and interaction
+paradigm that positions generative AI not as a shortcut to answers but as a research
+partner that externalizes reasoning, preserves user agency, and fosters structured,
+traceable sensemaking in educational and civic contexts.
+
