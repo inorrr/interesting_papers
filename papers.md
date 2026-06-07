@@ -393,3 +393,26 @@ paradigm that positions generative AI not as a shortcut to answers but as a rese
 partner that externalizes reasoning, preserves user agency, and fosters structured,
 traceable sensemaking in educational and civic contexts.
 
+### 2026-06-07 - Ouvia: A User-centered Framework for Measuring Usability of Speech Translation in Real-World Communication Scenarios
+
+- **arXiv:** [2606.06177v1](http://arxiv.org/abs/2606.06177v1)
+- **PDF:** [2606.06177v1.pdf](https://arxiv.org/pdf/2606.06177v1)
+- **Authors:** Giuseppe Attanasio, Beatrice Savoldi, Daniel Chechelnitsky, Matteo Negri, Marine Carpuat, Maarten Sap, et al.
+- **Published:** 2026-06-04
+- **Categories:** cs.CL, cs.HC
+- **Summary:** Speech translation (ST) is increasingly adopted in user applications, yet its evaluation
+largely focuses on decontextualized testbeds and holistic quality, rather than end
+users' communication needs. We introduce Ouvia, an evaluation framework for measuring
+user-perceived usability of speech translation outputs in real-world settings. Ouvia
+focuses on one-to-one communication: an English speaker needs to convey a request to a
+Portuguese speaker, and the message is automatically translated. Through a custom web
+app and multi-phase study design, we collect more than 1,750 such interactions in
+healthcare and everyday situations, mediated by four ST systems, involving speakers from
+three English dialects and two genders. We find that modern ST serves people only to a
+limited extent -- only around half of interactions are rated as usable -- with
+significant gaps in reported usability across demographic groups. Moreover, among
+quality metrics, we find that QA-based evaluation is a substantially stronger predictor
+of real-world usability than standard approaches. Together, these findings stress the
+importance of situated, user-centered evaluation frameworks that go beyond holistic
+quality scores and attend to who the technology serves -- and how well.
+
