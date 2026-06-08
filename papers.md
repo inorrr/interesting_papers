@@ -416,3 +416,33 @@ of real-world usability than standard approaches. Together, these findings stres
 importance of situated, user-centered evaluation frameworks that go beyond holistic
 quality scores and attend to who the technology serves -- and how well.
 
+### 2026-06-08 - A Model of Integrated Information Processing in Human-AI Interaction
+
+- **arXiv:** [2606.07283v1](http://arxiv.org/abs/2606.07283v1)
+- **PDF:** [2606.07283v1.pdf](https://arxiv.org/pdf/2606.07283v1)
+- **Authors:** Tim Schrills. Thomas Franke
+- **Published:** 2026-06-05
+- **Categories:** cs.HC
+- **Summary:** For Human-AI Interaction (HAII) research to move forward, theoretical work linking
+psychological mechanisms to interface design is needed. Such work should extend rather
+than replace established HCI and automation research, adapting to the increasing
+autonomy and agency of AI systems. Building on prior frameworks focused on roles and
+levels in human interaction with automation, a gap remains from a psychological view: a
+task-centered, process-oriented account that links mechanisms of action regulation to
+concrete design and evaluation levers for human-AI coupling, expressed in a unified
+vocabulary for human and machine. Moreover, existing models may describe how a system is
+designed (e.g., function allocation in automation) but fall short in showing how this
+design affects human behavior. We present the Integrated Information Processing (IIP)
+model, a task-centered, cybernetic model that conceptualizes humans, machines, and their
+joint activity as coupled control loops. The IIP model uses a unified modeling language
+for human and artificial agents, making psychological models of action regulation
+accessible for AI system design. As a core feature, we argue that efficacy within a
+shared task is characterized by three integration qualities, input adequacy, reference
+consonance, and output operativity, which critically influence benchmarks of human-
+centeredness such as transparency and controllability. The model maps interface choices
+(e.g., XAI techniques) to theory-driven expectations of user behavior, guiding interface
+design and evaluation. To this end, we present (1) a continuity-preserving theoretical
+discourse that extends HAII to agency in AI; (2) the IIP model with three information-
+processing qualities; and (3) applications of the IIP model to exemplary use cases
+demonstrating implications for interface design.
+
