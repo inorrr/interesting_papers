@@ -446,3 +446,30 @@ discourse that extends HAII to agency in AI; (2) the IIP model with three inform
 processing qualities; and (3) applications of the IIP model to exemplary use cases
 demonstrating implications for interface design.
 
+### 2026-06-09 - Vibe Visualizing: How Visualization Novices Try (and Fail) to Generate and Interpret Visualizations with Conversational AI
+
+- **arXiv:** [2606.08914v1](http://arxiv.org/abs/2606.08914v1)
+- **PDF:** [2606.08914v1.pdf](https://arxiv.org/pdf/2606.08914v1)
+- **Authors:** Sam Yu-Te Lee, Yun-Hsin Kuo, Chifang Chou, Matthew Ward, Xiwei Xuan, Kwan-Liu Ma
+- **Published:** 2026-06-08
+- **Categories:** cs.HC
+- **Summary:** Conversational AI has enabled users to generate and interpret visualizations through
+natural language, significantly lowering the technical barrier to entry. The increased
+accessibility brings visualization novices into data visualization, but also exposes
+them to misinformation and misinterpretations. We are motivated to examine what issues
+can arise in interactions with current conversational AI, whether visualization novices
+can recognize such issues, and how they respond to them. To examine these questions, we
+conducted a user study on ChatGPT with 20 visualization novices, collecting their
+conversation logs, semi-structured interview transcripts, and Likert-scale questionnaire
+responses. Through thematic analysis, we developed a codebook that covers AI execution
+compliance, issues of AI-generated visualizations, patterns of AI responses, and
+prompting patterns of users. We summarized four themes, including the quality of
+outcomes, recurring errors from ChatGPT, misuse by users, factors that affect user
+trust, confidence, and verification behavior, and human-AI collaboration dynamics. To
+demonstrate the generalizability of our codebook and findings, we replayed the initial
+user prompts on Gemini and Claude and compared the outcomes, which revealed distinct
+failure modes for each model. Based on the results of all analyses, we derive a set of
+design recommendations for future AI-assisted visualization systems. We conclude with
+discussions on literacy gaps, diverse human-AI collaboration dynamics, and implications
+for agentic visualization.
+
