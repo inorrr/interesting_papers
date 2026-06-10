@@ -473,3 +473,25 @@ design recommendations for future AI-assisted visualization systems. We conclude
 discussions on literacy gaps, diverse human-AI collaboration dynamics, and implications
 for agentic visualization.
 
+### 2026-06-10 - Creativity in the BioFoundry: Supporting scientific creativity in the age of automation
+
+- **arXiv:** [2606.10182v1](http://arxiv.org/abs/2606.10182v1)
+- **PDF:** [2606.10182v1.pdf](https://arxiv.org/pdf/2606.10182v1)
+- **Authors:** Mingyan Claire Tian, Sarah Sterman
+- **Published:** 2026-06-08
+- **Categories:** cs.HC
+- **Summary:** Biofoundries automate biological experimentation at unprecedented scale, promising
+speed, reproducibility, and access. Yet automation also reshapes how scientists
+experience experimentation and creativity. Through in-depth interviews with nine
+scientists and experts across academia and industry (including biofoundry developers,
+automation engineers, and end-users), we examine how scientific creativity is enacted
+under automation. Biofoundries displace sensory cues, redistribute responsibility
+between humans and machines, and transform troubleshooting from an embodied, local
+practice into a predictive, social, and interpretive one. Rather than framing
+biofoundries as automation factories, we argue that they should be understood as
+Creativity Support Tools, whose design directly shapes how researchers notice
+breakdowns, exercise judgment, learn from failure, and progress through success. By
+connecting biofoundry practice with prior HCI work on automation, debugging, and
+distributed creativity, this paper demonstrates biofoundries as a distinctive and timely
+site for creativity research in science.
+
