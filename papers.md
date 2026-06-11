@@ -495,3 +495,24 @@ connecting biofoundry practice with prior HCI work on automation, debugging, and
 distributed creativity, this paper demonstrates biofoundries as a distinctive and timely
 site for creativity research in science.
 
+### 2026-06-11 - Somewhere Over the Desktop: A Research Agenda for Ubiquitous Analytics
+
+- **arXiv:** [2606.11980v1](http://arxiv.org/abs/2606.11980v1)
+- **PDF:** [2606.11980v1.pdf](https://arxiv.org/pdf/2606.11980v1)
+- **Authors:** Niklas Elmqvist, Panagiotis D. Ritsos, Peter W. S. Butcher
+- **Published:** 2026-06-10
+- **Categories:** cs.HC
+- **Summary:** Spatial computing, generative AI, and open web standards are converging. Three spatial
+operating systems -- Android XR, Meta Horizon OS, and Apple visionOS -- now ship with
+platform-level scene understanding. Wearable displays span the range from full headsets
+to slim smartglasses. Agentic AI operates on the same spatial substrates as the human
+user. This convergence enables new opportunities for \textit{ubiquitous analytics} (UA):
+the use of many, physically distributed, networked devices to support data sensemaking
+anytime and anywhere. But proprietary platforms are settling design conventions that
+will calcify without evidence-based alternatives. UA has now matured to the point where
+its intellectual history can be read as a structured genealogy of foundations,
+contributions, and lineages. We trace this genealogy and organize it into clusters
+spanning cognition, context, interaction, platforms, visualization, collaboration, and
+evaluation. Finally, we cross these clusters with each other, yielding a total of 42
+future research challenges.
+
