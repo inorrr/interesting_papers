@@ -516,3 +516,30 @@ spanning cognition, context, interaction, platforms, visualization, collaboratio
 evaluation. Finally, we cross these clusters with each other, yielding a total of 42
 future research challenges.
 
+### 2026-06-12 - Mod-Guide: An LLM-based Content Moderation Feedback System to Address Insensitive Speech toward Indigenous Ethnic and Religious Minority Communities
+
+- **arXiv:** [2606.13397v1](http://arxiv.org/abs/2606.13397v1)
+- **PDF:** [2606.13397v1.pdf](https://arxiv.org/pdf/2606.13397v1)
+- **Authors:** Dipto Das, Achhiya Sultana, Ankit Singh Chauhan, Saadia Binte Alam, Mohammad Shidujaman, Shion Guha, et al.
+- **Published:** 2026-06-11
+- **Categories:** cs.HC, cs.AI, cs.CY
+- **Summary:** Language operates as a mechanism of both marginalization and resistance, especially for
+minority communities navigating insensitive and harmful speech online. As content
+moderation increasingly depends on large language models (LLMs), concerns arise about
+whether these systems can recognize culturally insensitive speech-language that
+disregards or marginalizes the cultural and religious perspectives of historically
+underrepresented communities, often through implicit erasure, misrepresentation, or
+normative framing, rather than overt hostility. Focusing on Bangladesh's Hindu and
+Chakma communities -- the country's largest religious and Indigenous ethnic minorities,
+respectively -- this paper investigates the epistemic limits of LLM-based moderation
+systems and explores methods for incorporating minority perspectives. We co-created a
+culturally grounded corpus of insensitive speech with community members and integrated
+their narratives into moderation pipelines using retrieval augmented generation (RAG).
+Our tool, Mod-Guide, improves LLM sensitivity to minority viewpoints by leveraging
+contextual cues derived from lived experience. Through mixed-method evaluations
+involving both minority and majority participants, we demonstrate that RAG-enhanced
+moderation responses are more contextually accurate and perceived differently across
+ethnic lines. This work advances research in human-computer interaction, AI ethics, and
+social computing by foregrounding restorative justice and hermeneutical inclusion in the
+design of content moderation systems.
+
