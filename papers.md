@@ -543,3 +543,31 @@ ethnic lines. This work advances research in human-computer interaction, AI ethi
 social computing by foregrounding restorative justice and hermeneutical inclusion in the
 design of content moderation systems.
 
+### 2026-06-13 - Understanding and Supporting Online Discussion with Opinionated Chatbots
+
+- **arXiv:** [2606.11693v1](http://arxiv.org/abs/2606.11693v1)
+- **PDF:** [2606.11693v1.pdf](https://arxiv.org/pdf/2606.11693v1)
+- **Authors:** Tianqi Song, Chi-Lan Yang, Zihan Liu, Zhengtao Xu, Yibin Feng, Yi-Chieh Lee
+- **Published:** 2026-06-10
+- **Categories:** cs.HC
+- **Summary:** Opinionated chatbots are increasingly present on online platforms and have the potential
+to shape public discourse by influencing individuals' viewpoints before they engage in
+discussions. Despite their growing presence, the impact of interacting with opinionated
+chatbots on subsequent online interactions remains largely unexplored. This study
+investigated how exposure to different types of opinionated chatbots, specifically those
+expressing opposing, reinforcing, or balanced viewpoints, affected participants'
+subsequent online discussions. In a controlled experiment with 83 participants, we found
+that interacting with an opinionated chatbot that consistently opposed participants'
+arguments led to greater shifts in opinion, indicating enhanced openness to revising
+one's initial stance. Conversely, participants who interacted with a chatbot that
+consistently reinforced their views were more likely to adopt more agreeable
+communication styles in subsequent conversations with others. Furthermore, interactions
+with different types of opinionated chatbots resulted in varying levels of trust, as
+well as different perceptions of chatbots and human interlocutors. Our findings indicate
+that opinionated chatbots can influence both individuals' opinions on social topics and
+their communication behaviors in online environments. This presents a trade-off for
+future designers seeking to facilitate cognitive flexibility in changing opinions while
+maintaining positive user experiences and trust in the chatbots during public discourse.
+We discuss the implications for designing opinionated chatbots to promote more
+constructive and less polarized online
+
