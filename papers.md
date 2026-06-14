@@ -571,3 +571,34 @@ maintaining positive user experiences and trust in the chatbots during public di
 We discuss the implications for designing opinionated chatbots to promote more
 constructive and less polarized online
 
+### 2026-06-14 - "Where is this coming from?" Uncovering Trustworthiness Ideals in AI-powered Peripartum Information Seeking
+
+- **arXiv:** [2606.10158v1](http://arxiv.org/abs/2606.10158v1)
+- **PDF:** [2606.10158v1.pdf](https://arxiv.org/pdf/2606.10158v1)
+- **Authors:** Vaibhav Balloli, Julia Erickson, Xinyi Li, Erin MacMurray van Liemt, Alex Peahl, Elizabeth Bondi-Kelly
+- **Published:** 2026-06-08
+- **Categories:** cs.CY, cs.HC
+- **Summary:** AI-powered tools increasingly promise to fill information gaps in health, especially in
+domains like maternal and reproductive health that demand timely, accurate, and
+actionable information. This is extremely important, as the United States leads peer
+nations in preventable deaths, with stark racial disparities. However, current AI and
+NLP-powered systems aim to improve access to vetted maternal health information by
+routing user queries to a factual response while under-specifying the socio-technical
+governance structures that shape trust, use, and harm in practice. We report findings
+from four synchronous focus groups ($n=24$) with three stakeholder groups central to
+peripartum information support: birthing people, clinicians, and health workers (e.g.,
+doulas, social workers, community health workers) exploring topics around information
+seeking, experience with current clinical infrastructure, misinformation, and an AI-
+enabled factual answering tool design probe. Our inductive analysis surfaces a central
+finding: in high-stakes health contexts shaped by historical inequities, trustworthiness
+must be inspectable and not asserted. While stakeholders diverge on what makes
+information credible, they converge on the need for transparency, recourse, and
+ecosystem complementarity. Based on the discussions, we identify four themes and
+governance requirements: (1) support for social and identity-based sensemaking, (2)
+pluralistic verification practices, (3) inspectable governance with recourse mechanisms,
+and (4) ecosystem-aware integration that avoids shifting burden. Building on these
+findings, we propose design artifacts that are mistrust-aware and promote principled
+governance mechanisms for transparent, pluralistic AI systems. Finally, we discuss the
+implications of our findings for expanding human-AI evaluations and improving the
+transparency of deployed AI systems.
+
