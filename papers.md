@@ -602,3 +602,29 @@ governance mechanisms for transparent, pluralistic AI systems. Finally, we discu
 implications of our findings for expanding human-AI evaluations and improving the
 transparency of deployed AI systems.
 
+### 2026-06-15 - Verifiable User Simulation for Search and Recommendation Systems
+
+- **arXiv:** [2606.14474v1](http://arxiv.org/abs/2606.14474v1)
+- **PDF:** [2606.14474v1.pdf](https://arxiv.org/pdf/2606.14474v1)
+- **Authors:** Chenglong Ma, Xinye Wanyan, Danula Hettiachchi, Ziqi Xu, Yongli Ren, Jeffrey Chan
+- **Published:** 2026-06-12
+- **Categories:** cs.IR, cs.HC
+- **Summary:** Large-language-model (LLM) based user simulation is increasingly adopted for evaluating
+search engines, recommender systems, and retrieval-augmented generation pipelines, yet
+most simulators remain opaque: it is difficult to determine why a simulated user made a
+particular choice or whether that choice is consistent with the intended user profile.
+Compounding this, recent research shows that LLMs can produce biased or discriminatory
+responses depending on user background characteristics such as language, education
+level, and cultural context, raising concerns about the equitable treatment of minority
+and disadvantaged groups. This half-day, in-person tutorial introduces a proposed
+design-and-audit framework that treats a user simulator as a verifiable engineering
+artefact composed of seven auditable components - structured Persona, task-aware
+Contract, matched human-vs-agent Execution, auditable Trace, persona-aligned
+Verification, structured Feedback, and a Refinement loop that updates personas and
+contracts. Through two hands-on mini-labs on recommendation-list evaluation and search-
+query formulation, participants will inspect simulator behaviour end-to-end, distinguish
+diagnostic discrepancy analysis from statistical validation, and apply checks for
+fidelity, credibility, and demographic bias. The tutorial targets information retrieval
+and recommender systems researchers and practitioners interested in user behaviour
+simulation and responsible AI.
+
