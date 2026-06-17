@@ -649,3 +649,26 @@ exceptionally high usability (SUS). We synthesize a UXR point of view: for vulne
 users, "engagement" can mask ecological downsides. Success should be judged not by
 retention, but by designed separation that bridges back to human relationships.
 
+### 2026-06-17 - Bridging the Usability Gap: Lessons from Interpreting Studies for Machine Interpreting Design
+
+- **arXiv:** [2606.16009v2](http://arxiv.org/abs/2606.16009v2)
+- **PDF:** [2606.16009v2.pdf](https://arxiv.org/pdf/2606.16009v2)
+- **Authors:** Claudio Fantinuoli
+- **Published:** 2026-06-14
+- **Categories:** cs.CL, cs.HC
+- **Summary:** Machine interpreting (MI), the live, real-time application of speech translation, has
+achieved remarkable progress on standard benchmarks, with some systems approaching human
+parity on textual fidelity. Yet the user experience remains far inferior to interpreter-
+mediated communication, revealing what we term the accuracy illusion: systems that
+appear accurate on paper but fail in practice to support smooth, goal-oriented
+interaction. This paper defines MI as a distinct subfield of speech translation, with
+its own characteristics and the need for evaluation methods grounded in communicative
+effectiveness rather than isolated fidelity metrics. Drawing on insights from
+interpreting studies, we identify critical dimensions of professional interpreting
+practice that are overlooked by current systems, and consolidate them into three
+interdependent design priorities for future MI: agency (context-sensitive initiative and
+repair), grounding (multimodal and discourse-level situational awareness), and
+experience (adaptive improvement through real interaction). Together, these priorities
+chart a path toward closing the usability gap and enabling systems that can sustain
+authentic multilingual communication in real time.
+
