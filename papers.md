@@ -672,3 +672,26 @@ experience (adaptive improvement through real interaction). Together, these prio
 chart a path toward closing the usability gap and enabling systems that can sustain
 authentic multilingual communication in real time.
 
+### 2026-06-18 - An Augmented Reality Brain-Robot Interface for Generalist Robot Arm Manipulation
+
+- **arXiv:** [2606.16413v1](http://arxiv.org/abs/2606.16413v1)
+- **PDF:** [2606.16413v1.pdf](https://arxiv.org/pdf/2606.16413v1)
+- **Authors:** Shangkai Zhang, Rousslan Fernand Julien Dossa, Luca Nunziante, Marina Di Vincenzo, Kai Arulkumaran
+- **Published:** 2026-06-15
+- **Categories:** cs.RO, cs.HC
+- **Summary:** The integration of augmented reality (AR) and EEG-based brain-computer interfaces (BCIs)
+offers a promising path for enabling intuitive control of robots for assistive purposes.
+However, existing AR brain-robot interface (BRI) systems are often constrained to task-
+specific structures, limiting their utility in real-world environments. We present an AR
+BRI designed for generalist robot arm manipulation that combines gaze-based object
+selection with motor imagery action control. Our system uses eye-tracking for intuitive
+object targeting and context-aware visual overlays ("Place" and "Use") to guide the user
+through tasks within a shared autonomy framework. We evaluated the interface through a
+feasibility study with 18 healthy participants performing three multi-step activities of
+daily living: drinking, using a drawer, and operating an oven. Our results demonstrate
+that this interaction paradigm enables effective sequential task execution and high user
+engagement, achieving a "Good" usability rating (SUS > 70). These findings support the
+feasibility of the proposed interaction paradigm for complex BCI-driven robotic
+assistance, and motivate future evaluation with the intended target population. Project
+website: https://ar-bri-manip.github.io/.
+
