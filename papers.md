@@ -722,3 +722,23 @@ and structured provenance-based data Q&A, transforming one-way videos into explo
 interactive data interfaces. Evaluation on 109 real-world samples validates the
 effectiveness of the DataMagic. Homepage: https://datamagic-home.github.io/
 
+### 2026-06-20 - Designing for Interconnected Islamic Learning: A Qualitative Study of Muslim Women's Experiences with Qur'an, Hadith, and Seerah Apps
+
+- **arXiv:** [2606.19745v1](http://arxiv.org/abs/2606.19745v1)
+- **PDF:** [2606.19745v1.pdf](https://arxiv.org/pdf/2606.19745v1)
+- **Authors:** Ishrat Jahan Easha, Nabil Mosharraf Hossain, Araf Mohammad Mahbub, Fairoze Bint Abu Hassan, Zunaid Aslam, Yemin Sajid, et al.
+- **Published:** 2026-06-18
+- **Categories:** cs.HC
+- **Summary:** Islamic learning often depends on reading the Qur'an, Hadith, and Seerah together, yet
+digital tools typically separate these sources across apps, screens, and search
+pathways. We examine this as a human-computer interaction problem through five semi-
+structured interviews with Muslim women recruited from an online Islamic learning
+community. Participants described a recurring tension: they wanted Qur'an-Hadith-Seerah
+context at the point of reading, but only when contextual expansion remained
+trustworthy, optional, and did not interrupt reading. Interpreting the interviews
+through gendered digital religion, epistemic trust, and seamless learning, we identify
+five themes concerning contextual understanding, authenticity, interface clutter, study
+modes, and guidance features. We introduce layered contextuality as an HCI account of
+this domain: contextual expansion must be balanced with interpretive accountability,
+devotional flow, and continuity across devices and study intensities.
+
