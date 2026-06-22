@@ -771,3 +771,28 @@ verification instruments, offering toggleable abstraction levels, and framing to
 signal disciplinary legitimacy. More broadly, the themes help explain why cognitively
 sound visualization tools may fail to engage the students they are designed to help.
 
+### 2026-06-22 - A Clinician-Centered Pipeline for Annotation and Evaluation in Ultrasound AI Studies
+
+- **arXiv:** [2606.19174v1](http://arxiv.org/abs/2606.19174v1)
+- **PDF:** [2606.19174v1.pdf](https://arxiv.org/pdf/2606.19174v1)
+- **Authors:** Fangyijie Wang, Jianjun Yu, Wentao Shi, Haixia Huang, Ran Shi, Guénolé Silvestre, et al.
+- **Published:** 2026-06-17
+- **Categories:** cs.HC, cs.AI
+- **Summary:** Clinician-centered evaluation is critical for validating medical AI systems, especially
+in ultrasound imaging where quantitative metrics do not always capture clinical
+usability. Existing medical image platforms primarily focus on dataset labeling. They
+lack integrated support for blinded model comparison and reproducible evaluation
+workflows. We present a clinician-centered pipeline for remote annotation and evaluation
+in ultrasound AI studies. The proposed pipeline uses a centralized server and
+lightweight browser interfaces to enable clinicians to perform annotation, blinded
+ranking, and review without local dataset downloads. The pipeline also supports multi-
+rater participation, centralized result aggregation, and automated statistical analysis.
+We validate the pipeline in a fetal ultrasound segmentation study with six raters
+spanning expert, generalist, and non-expert experience levels. The system automatically
+generated Spearman correlation, Kendall's $τ$, and top-1 selection statistics. Results
+indicated moderate to strong agreement across experts and other groups. The blinded
+evaluation results showed a tendency for later active learning models to be preferred.
+These outcomes suggest that the pipeline can support clinician-centered annotation and
+reproducible human-\ac{AI} evaluation studies in ultrasound imaging. The proposed
+pipeline is available on \href{https://github.com/13204942/SonoRate}{GitHub}.
+
