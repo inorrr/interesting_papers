@@ -796,3 +796,25 @@ These outcomes suggest that the pipeline can support clinician-centered annotati
 reproducible human-\ac{AI} evaluation studies in ultrasound imaging. The proposed
 pipeline is available on \href{https://github.com/13204942/SonoRate}{GitHub}.
 
+### 2026-06-23 - Measuring What Matters: A Quantitative UX Evaluation Framework for AI-Assisted Home Search
+
+- **arXiv:** [2606.21663v1](http://arxiv.org/abs/2606.21663v1)
+- **PDF:** [2606.21663v1.pdf](https://arxiv.org/pdf/2606.21663v1)
+- **Authors:** Matilda Nkoom
+- **Published:** 2026-06-19
+- **Categories:** cs.HC
+- **Summary:** AI-assisted conversational search is rapidly displacing filter-based interfaces across
+the major home search portals. Redfin's deployment of conversational search produced a
+47\% lift in tour requests, and Zillow launched "AI Mode" in March 2026. Recent consumer
+surveys indicate that a large majority of Americans now use AI tools for housing market
+information. Yet the evaluation frameworks practitioners apply to these products remain
+borrowed from general-purpose usability testing, tools designed for deterministic,
+filter-driven interfaces that do not capture the distinctive failure modes of AI-driven
+experiences. This paper proposes a four-layer quantitative evaluation framework purpose-
+built for AI-assisted home search: recommendation system quality, interaction
+efficiency, attitudinal measurement, and trust calibration. For each layer, validated
+instruments, production-derived benchmarks, and practitioner-ready implementation
+guidance are provided. A minimum viable metric set and a worked example illustrating the
+framework's application to a mid-sized portal are included to support immediate
+adoption.
+
