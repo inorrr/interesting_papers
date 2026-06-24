@@ -818,3 +818,34 @@ guidance are provided. A minimum viable metric set and a worked example illustra
 framework's application to a mid-sized portal are included to support immediate
 adoption.
 
+### 2026-06-24 - Virtual Simulation for Mental Health
+
+- **arXiv:** [2606.24826v1](http://arxiv.org/abs/2606.24826v1)
+- **PDF:** [2606.24826v1.pdf](https://arxiv.org/pdf/2606.24826v1)
+- **Authors:** Anna Fang
+- **Published:** 2026-06-23
+- **Categories:** cs.HC
+- **Summary:** Poorly designed interventions or those deployed without adequate safeguards can harm the
+communities they aim to serve, thus exacerbating existing vulnerabilities and leaving
+individuals unsupported. This is especially the case for the mental health context,
+where there is a growing trend of relying on technological interventions due to their
+accessibility and ability to deliver large-scale support. However, the mental health
+context is also particularly sensitive to change and risks of failure are dire; at their
+worst, failures in mental health interventions can result in lasting negative outcomes
+for individuals and tragic losses as people fall through the cracks. Thus, enabling safe
+ways to experiment in the mental health context is vital to allow both individuals and
+communities to engage with new interventions without risk of their real-world
+consequences. Virtual simulation, which uses virtual environments to replicate real-
+world interactions, processes, and behaviors, offers a promising opportunity for
+enabling safe, controlled experimentation with its ability to accurately replicate
+social situations, fears, stressors, and the potential outcomes of specific
+interactions. This work explores how simulation approaches can support emerging mental
+health processes through (1) evaluating community-level outcomes using agent-based
+modeling and (2) individual training in the mental health context through embodied,
+controlled spaces. I demonstrate this use of virtual simulation systems through a
+grounded human-centered approach, where system design is guided by empirical
+understanding of current real-world needs and challenges. By leveraging simulation to
+create environments where mental health strategies can be safely tested and practiced,
+this work aims to open new possibilities for designing scalable, user-centered systems
+that are effective and safe.
+
