@@ -877,3 +877,34 @@ demonstrate that, when paired with our developed ODM to prevent real-world obstr
 the situated analytics in ARTOO-DARTU can significantly enhance efficiency and user
 experience in AR-HRC warehouse scenarios.
 
+### 2026-06-26 - Continuous Behavioral Synthesis for Adaptive Health Dashboards: An LLM-Mediated Architecture Integrating Explicit Preference, Spatial Reorganization, and Attention Allocation Signals
+
+- **arXiv:** [2606.26937v1](http://arxiv.org/abs/2606.26937v1)
+- **PDF:** [2606.26937v1.pdf](https://arxiv.org/pdf/2606.26937v1)
+- **Authors:** Tiziano Santilli, Mina Alipour, Mahyar T. Moghaddam
+- **Published:** 2026-06-25
+- **Categories:** cs.HC
+- **Summary:** The engineering of adaptive user interfaces has traditionally relied on either rule-
+based systems encoding designer intuitions about user needs or machine learning
+approaches requiring substantial historical data before achieving effective
+personalization. We present a technical architecture that leverages Large Language
+Models as behavioral synthesis engines to enable immediate adaptation from sparse,
+heterogeneous user signals. Our system integrates three distinct behavioral channels, i)
+explicit micro-feedback on individual interface elements, ii) spatial priority inferred
+from manual widget reorganization through drag-and-drop interaction, iii) and
+attentional investment measured through dwell time during hover events, within a
+structured prompt engineering framework that continuously regenerates dashboard layouts
+while maintaining explanatory coherence. The architecture addresses the technical
+challenge of translating low-level interaction patterns into high-level design decisions
+through a layered prompt construction methodology that separates temporal context
+determination, behavioral signal extraction, explicit preference enforcement, and user
+profile synthesis. The approach combines manually specified behavioral interpretations
+and temporal heuristics with LLM-mediated synthesis, enabling the reconciliation of
+multiple simultaneous signals that would be difficult to encode through explicit rules
+alone. We demonstrate the system through an instantiation in the personal health
+monitoring domain, including an analytical evaluation of adaptation behavior across
+multiple scenarios and a working implementation managing fourteen distinct health
+metrics across seven widget visualization modalities. The evaluation compares profile-
+driven initialization, multi-signal behavioral adaptation, and presents the resulting
+interfaces through representative post-adaptation screenshots.
+
