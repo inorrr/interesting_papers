@@ -908,3 +908,31 @@ metrics across seven widget visualization modalities. The evaluation compares pr
 driven initialization, multi-signal behavioral adaptation, and presents the resulting
 interfaces through representative post-adaptation screenshots.
 
+### 2026-06-27 - Optimizing Human-Machine Interface for Real-Time AI Support in the Operating Room: the CVS Copilot
+
+- **arXiv:** [2606.26886v1](http://arxiv.org/abs/2606.26886v1)
+- **PDF:** [2606.26886v1.pdf](https://arxiv.org/pdf/2606.26886v1)
+- **Authors:** Lorenzo Arboit, Nicolas Chanel, Aditya Murali, Pietro Mascagni, Nicolas Padoy
+- **Published:** 2026-06-25
+- **Categories:** cs.HC
+- **Summary:** Artificial intelligence (AI) systems for automated Critical View of Safety (CVS)
+assessment in laparoscopic cholecystectomy are nearing clinical translation. Beyond
+algorithmic performance, clinical safety and effectiveness depend on the quality of the
+human-machine interface (HMI). This work examines how AI-generated predictions should be
+presented and controlled intraoperatively. Seventeen surgeons, including residents,
+attending surgeons, and professors, took part in a mixed-methods, user-centered design
+study to optimize an intraoperative HMI for AI-assisted safe laparoscopic
+cholecystectomy. Interviews explored interaction modalities, timing of assistance,
+visualization strategies, and control mechanisms across surgical roles, and were
+analyzed using reflexive thematic analysis and human-factors heuristics. Most surgeons
+(16/17) supported the use of AI for intraoperative decision support while rejecting
+autonomous decision-making. Attendings preferred minimal AI feedback at decisive moments
+(13/14), whereas residents favored optional guidance (3/3) with confidence indicators
+and on-demand anatomical overlays. Across interviews, surgeons consistently prioritized
+visual, surgeon-controlled, minimally intrusive displays, with the strongest support for
+a minimal overlay (16/17) and on-demand anatomical segmentation (13/17). Recurrent
+concerns included persistent overlays, haptic feedback, and numeric confidence displays,
+although these were not uniformly raised across the cohort. These findings informed the
+design of CVS Copilot, a surgeon-controlled, role-adaptive HMI that provides AI-based
+CVS assessment with minimal default visualization and optional overlays.
+
