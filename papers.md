@@ -936,3 +936,29 @@ although these were not uniformly raised across the cohort. These findings infor
 design of CVS Copilot, a surgeon-controlled, role-adaptive HMI that provides AI-based
 CVS assessment with minimal default visualization and optional overlays.
 
+### 2026-06-28 - HiLSVA: Design and Evaluation of a Human-in-the-Loop Agentic System for Scientific Visualization
+
+- **arXiv:** [2606.26614v1](http://arxiv.org/abs/2606.26614v1)
+- **PDF:** [2606.26614v1.pdf](https://arxiv.org/pdf/2606.26614v1)
+- **Authors:** Kuangshi Ai, Patrick Phuoc Do, Chaoli Wang
+- **Published:** 2026-06-25
+- **Categories:** cs.HC, cs.AI, cs.GR
+- **Summary:** Large language model (LLM) agents enable natural language interaction for scientific
+visualization (SciVis). Still, prior systems have essentially prioritized autonomy over
+human analytical control, thereby limiting transparency and human oversight. We present
+HiLSVA, a human-in-the-loop agentic system that supports mixed-initiative SciVis
+workflows. HiLSVA integrates a plan-first multi-agent architecture with explicit human
+oversight, stepwise provenance tracking, and learn-at-test-time adaptation from user
+feedback. The system supports fluid handoff between humans and agents through both
+natural language and direct manipulation of visualizations, while sandboxed execution
+ensures safe, reproducible workflows. In doing so, HiLSVA reframes agentic SciVis as a
+collaborative process that augments, rather than replaces, human analytical reasoning.
+We evaluate HiLSVA through representative case studies and a controlled user study with
+twelve participants of varying expertise across multiple autonomy settings. Results show
+that mixed-initiative interaction improves task completion, user control, and workflow
+transparency across different levels of user expertise, while revealing a tradeoff
+between execution efficiency and human oversight. These findings highlight the
+importance of human-centered design in agentic SciVis and guide the development of
+future collaborative visualization systems. We encourage readers to explore our demo
+video, case studies, and source code at https://hilsva.github.io/.
+
