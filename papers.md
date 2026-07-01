@@ -1011,3 +1011,32 @@ reactive interaction as do introverted participants. These findings demonstrate 
 effects of robot initiative are simultaneously shaped by users' prior experience,
 personality traits and more generally by the needs of the group.
 
+### 2026-07-01 - "If I Can See You": Understanding Spatially Situated Virtual Embodiment in Close Human-AI Relationships
+
+- **arXiv:** [2606.28714v1](http://arxiv.org/abs/2606.28714v1)
+- **PDF:** [2606.28714v1.pdf](https://arxiv.org/pdf/2606.28714v1)
+- **Authors:** Yulin Chen, Yang Zhan, Qiao Jin
+- **Published:** 2026-06-27
+- **Categories:** cs.HC
+- **Summary:** AI companions are increasingly used for emotional support, companionship, and intimate
+interaction. While prior work has examined text- and voice-based AI companionship and
+emerging XR companion designs, less is known about how users with existing close AI
+companion relationships expect those relationships to change when companions become
+virtually embodied and spatially situated in everyday environments. To address this gap,
+we conducted a qualitative study with 17 AI companion users recruited from Reddit AI
+companion communities. We frame spatially situated virtual embodiment as a form of
+relational escalation: embodiment can make AI companionship more present, socially
+legible, and risk-sensitive in everyday life. Our findings show that: (1) embodiment
+creates tensions between support and intrusion, concreteness and imaginative openness,
+and growth and consistency; (2) embodiment can turn private AI companionship into a
+socially legible relational arrangement, requiring visibility, form, interaction style,
+and mode of access to be negotiated across social contexts; and (3) embodiment can
+intensify risks of emotional dependence, sensitive disclosure, social judgment, and
+misguided spatial action by increasing the companion's perceived relational presence,
+intimacy, public legibility, and spatial authority. We argue that future system design
+should first consider when embodiment is warranted, how embodied presence should be
+staged, how visibility and role boundaries should be negotiated, and how embodied
+companionship can remain safe. This work contributes to HCI research on human-AI
+intimacy by showing how virtual embodiment can transform close AI companionship into a
+spatial, socially visible, and risk-sensitive relationship.
+
