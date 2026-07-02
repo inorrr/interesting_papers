@@ -1040,3 +1040,21 @@ companionship can remain safe. This work contributes to HCI research on human-AI
 intimacy by showing how virtual embodiment can transform close AI companionship into a
 spatial, socially visible, and risk-sensitive relationship.
 
+### 2026-07-02 - Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning
+
+- **arXiv:** [2607.00979v1](http://arxiv.org/abs/2607.00979v1)
+- **PDF:** [2607.00979v1.pdf](https://arxiv.org/pdf/2607.00979v1)
+- **Authors:** Mohammad Abu Nasir Rakib, Sharmin Akter, Eshwara Prasad Sridhar, Somik Biswas, Md Rassel Raihan, Mahmudur Rahman
+- **Published:** 2026-07-01
+- **Categories:** cs.HC
+- **Summary:** This study examined students' experiences with mixed-reality applications and physical
+toolkits in Engineering Mechanics to inform design guidelines for educational tools. In
+a user study with 24 participants, we compared classroom instruction alone, classroom
+instruction with a mixed-reality application, and classroom instruction with physical
+toolkits. Thematic analysis of participant feedback revealed that learners' workflows
+and engagement with fundamental mechanics problems varied across instructional
+modalities. Participants valued multimodal and interactive experiences that combined
+visualization with hands-on interaction, while reporting challenges with complex or
+unclear visualizations. These insights support the human-centered design of mixed-
+reality and physical tools for engineering education.
+
