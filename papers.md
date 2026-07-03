@@ -1058,3 +1058,30 @@ visualization with hands-on interaction, while reporting challenges with complex
 unclear visualizations. These insights support the human-centered design of mixed-
 reality and physical tools for engineering education.
 
+### 2026-07-03 - Copewell: A Multi-Agent Swarm Architecture for Equitable Mental Wellness Support
+
+- **arXiv:** [2607.02245v1](http://arxiv.org/abs/2607.02245v1)
+- **PDF:** [2607.02245v1.pdf](https://arxiv.org/pdf/2607.02245v1)
+- **Authors:** Seren Yenikent, Jack Vinijtrongjit, Katherine Ng
+- **Published:** 2026-07-02
+- **Categories:** cs.AI, cs.CY, cs.HC
+- **Summary:** Mental health disorders affect nearly one billion people globally, yet 75% of
+individuals in low- and middle-income countries receive no treatment due to workforce
+shortages, cost barriers, and stigma. Current AI-powered wellness solutions
+predominantly rely on single-mode conversational interfaces that suffer high abandonment
+rates and fail to provide measurable, immediate relief calibrated to users' dynamic
+emotional states. This paper presents Copewell, a novel multi-agent swarm system
+designed to expand access to mental wellness support through human-centered AI
+principles. Our architecture introduces three technical innovations: (1) a multi-source
+assessment framework integrating self-reported, physiological, and contextual data to
+mitigate algorithmic bias; (2) valence-arousal emotion mapping using Russell's
+Circumplex Model of Affect to route users to specialized AI agents; and (3) dual-mode
+intervention delivery combining conversational support with evidence-based sensory
+wellness protocols. We examine the sociotechnical design considerations underlying
+Copewell's development, including a privacy-first architecture, embedded ethical
+oversight through a dedicated Ethics Supervisor agent, and participatory design informed
+by mental health practitioners. Early practitioner engagement and beta deployment inform
+design decisions and identify directions for future empirical evaluation. This work
+contributes to responsible AI discourse by demonstrating how technical architecture can
+operationalize equity and safety principles from inception.
+
