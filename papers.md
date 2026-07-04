@@ -1085,3 +1085,25 @@ design decisions and identify directions for future empirical evaluation. This w
 contributes to responsible AI discourse by demonstrating how technical architecture can
 operationalize equity and safety principles from inception.
 
+### 2026-07-04 - From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments
+
+- **arXiv:** [2607.01692v1](http://arxiv.org/abs/2607.01692v1)
+- **PDF:** [2607.01692v1.pdf](https://arxiv.org/pdf/2607.01692v1)
+- **Authors:** Yuming Feng, Yuan Tian, Erica Zhao
+- **Published:** 2026-07-02
+- **Categories:** cs.HC
+- **Summary:** The rapid integration of Large Language Models (LLMs) into educational technology
+threatens to reduce mathematical learning to mere answer generation. This paper presents
+a generative study, usability study, and 12-participant field deployment of AITutor, an
+interactive system that translates theoretical pedagogical mechanisms into concrete user
+interface features. We explore how junior-high students preparing for high-stakes exams
+(Zhongkao) interact with AI tutoring. Through mixed-methods triangulation (7,379
+telemetry events, 8 contextual observations, 10 interviews), we reveal that students
+actively resist traditional Socratic dialogue under time pressure, repurposing "answer-
+first" shortcuts as vital diagnostic checkpoints. We demonstrate how features like
+layered worked examples, step-linked visual grounding, and metacognitive scaffolding
+lower the interaction cost of reasoning repair. We contribute a "Reasoning-Centered
+Product Loop," offering actionable implications for designing AI that structurally
+supports the inspection, local repair, curriculum verification, and delayed retrieval of
+mathematical reasoning in the wild.
+
