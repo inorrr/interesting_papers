@@ -1107,3 +1107,24 @@ Product Loop," offering actionable implications for designing AI that structural
 supports the inspection, local repair, curriculum verification, and delayed retrieval of
 mathematical reasoning in the wild.
 
+### 2026-07-05 - OrchestrXR: A Multi-Agent System for Idea-to-Prototype XR Study Authoring
+
+- **arXiv:** [2607.01588v1](http://arxiv.org/abs/2607.01588v1)
+- **PDF:** [2607.01588v1.pdf](https://arxiv.org/pdf/2607.01588v1)
+- **Authors:** Shuqi Liao, Chenfei Zhu, Karthik Ramani, Voicu Popescu
+- **Published:** 2026-07-02
+- **Categories:** cs.HC
+- **Summary:** Extended Reality (XR) has become an important interaction paradigm in Human-Computer
+Interaction (HCI). XR studies are used to investigate interaction, perception, and user
+behavior in immersive environments, and typically involve experimental tasks, 3D scenes,
+and interactive logic. However, turning an initial XR study idea into a runnable
+prototype remains fragmented across study design, scene construction, and interaction
+implementation. We present OrchestrXR, a multi-agent human-AI workflow for early-stage
+idea-to-prototype XR study authoring. Rather than treating XR study creation as one-shot
+generation, OrchestrXR supports a controllable workflow across study design, scene
+generation, and interaction generation through structured schemas, multi-agent
+orchestration, and interactive human-agent interfaces, producing a Unity-based prototype
+from a researcher's idea. A user study with 12 XR researchers suggests that OrchestrXR
+provides effective support for early-stage XR study authoring with strong intent
+preservation across stages.
+
