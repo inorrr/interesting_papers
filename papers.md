@@ -1128,3 +1128,29 @@ from a researcher's idea. A user study with 12 XR researchers suggests that Orch
 provides effective support for early-stage XR study authoring with strong intent
 preservation across stages.
 
+### 2026-07-06 - Sign in the Air to Unlock: An Interface for authentication in Virtual and Augmented Reality Powered by Point-Voxel Cross-Attention Network
+
+- **arXiv:** [2607.01435v1](http://arxiv.org/abs/2607.01435v1)
+- **PDF:** [2607.01435v1.pdf](https://arxiv.org/pdf/2607.01435v1)
+- **Authors:** Neda Abdolrahimi, Thiru Siddharth, Frank Sicongchen, Vir V Phoha
+- **Published:** 2026-07-01
+- **Categories:** cs.CV, cs.CR, cs.HC, cs.LG
+- **Summary:** Significant advancement of immersive technologies such as Virtual and Augmented Reality
+(VR/AR) and their integration into diverse aspects of modern life need authentication
+interfaces that are secure, intuitive, and compatible with embodied interaction.
+Traditional methods such as passwords, PINs, and device-based logins, break immersion
+and rely on external hardware. Recent 3D-specific behavioral approaches, such as hand-
+gesture, eye-tracking, and electroencephalography (EEG)-based methods, offer promising
+alternatives but often require specialized sensors or constrain natural movement,
+limiting usability in dynamic environments. We present Sign in the Air to Unlock, an in-
+air signature interface that enables users to authenticate by signing naturally in 3D
+space which is a familiar, personal, and reproducible gesture. To realize this
+interface, we design a point-voxel Cross-Attention Network (PV-Net) that jointly models
+local motion dynamics and global spatial structure from 3D trajectories. The model is
+evaluated on two datasets: the public DeepAirSig dataset (1,800 signatures from 40
+users) and ImmAirsig, a new dataset collected using Meta Quest 2 in immersive VR (880
+samples from 22 users). PV-Net achieves an Equal Error Rate of 2.5% on DeepAirSig and
+76% classification accuracy on ImmAirSig. These findings highlight the potential of 3D
+behavioral interfaces for seamless, user-centric authentication that merges security
+with natural interaction in immersive environments.
+
