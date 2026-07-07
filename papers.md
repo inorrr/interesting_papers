@@ -1154,3 +1154,25 @@ samples from 22 users). PV-Net achieves an Equal Error Rate of 2.5% on DeepAirSi
 behavioral interfaces for seamless, user-centric authentication that merges security
 with natural interaction in immersive environments.
 
+### 2026-07-07 - The User-In-Context Framework: Understanding Variation in How Users Respond to AI Chatbots
+
+- **arXiv:** [2607.04547v1](http://arxiv.org/abs/2607.04547v1)
+- **PDF:** [2607.04547v1.pdf](https://arxiv.org/pdf/2607.04547v1)
+- **Authors:** Richard A. Fabes, Carol Lynn Martin, Philip Costanzo
+- **Published:** 2026-07-05
+- **Categories:** cs.HC
+- **Summary:** People respond to artificial intelligence chatbots (AICs) in highly variable ways. In
+this paper, we adapt Bronfenbrenner's theory into a heuristic framework for
+understanding this variation. The framework places the human user at the center while
+also placing the AI there and reconceptualizing the proximal processes as the repeated,
+reciprocal, and coadaptive interactions between the user and a personalized AIC. The
+surrounding systems identify the contextual factors that shape how the user experiences,
+interprets, responds to, and is changed by these interactions. Because stateful AICs
+learn from accumulated exchanges with their users and have memory, users are responding
+not only to an AIC but also to a version of the AIC that their own prior interactions
+have helped create. This extension preserves Bronfenbrenner's emphasis on proximal
+processes while accounting for the unique dynamics of personalized AICs. The resulting
+framework provides a structured map of where and how variation in human and AIC
+relationships arises, as well as having implications for researchers, practitioners, and
+AIC designers.
+
