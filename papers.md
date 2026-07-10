@@ -1200,3 +1200,28 @@ challenges. By structuring both the design space and risk landscape of personali
 this work provides a foundation for more systematic, transparent, and ethically grounded
 approaches to personalised robot behaviour.
 
+### 2026-07-10 - Creativity from Friction: Human-AI Interaction for Exploratory Structural Design
+
+- **arXiv:** [2607.07521v1](http://arxiv.org/abs/2607.07521v1)
+- **PDF:** [2607.07521v1.pdf](https://arxiv.org/pdf/2607.07521v1)
+- **Authors:** Ricardo Maia Avelino, Rita Sevastjanova, Tom Van Mele, Philippe Block, Mennatallah El-Assady
+- **Published:** 2026-07-08
+- **Categories:** cs.HC, cs.AI
+- **Summary:** AI agents that generate final answers based on user input often do not meet the needs of
+creative fields. Fields such as structural design and architecture need interactive
+systems that help users externalise and develop ideas, explore alternatives, and refine
+partial solutions. The final product of such designs needs to comply with many
+constraints concerning, e.g., spatial configuration, mechanical behaviour, material
+quantities, and costs. These constraints create friction in the design process, which
+can stimulate novel and creative solutions. In this paper, we discuss the misalignment
+between current generative AI goals to remove friction and provide final solutions and
+the needs of creators, such as structural designers, who develop ideas through iterative
+work. We present the design dimensions of systems allowing for constrained human-AI co-
+creation that rely on vision-language models making structural exploration
+conversational, multimodal, and responsive to evolving human intent in ways that follow
+and augment the discipline's creative process. Through a pilot design interface based on
+these principles and a study with experts in the field, this paper shows how structural
+designers perceive interactive AI systems and how such systems can support design space
+exploration by reducing repetitive modelling friction while preserving reflective design
+friction.
+
