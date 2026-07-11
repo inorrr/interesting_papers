@@ -1225,3 +1225,25 @@ designers perceive interactive AI systems and how such systems can support desig
 exploration by reducing repetitive modelling friction while preserving reflective design
 friction.
 
+### 2026-07-11 - Creating a Mixed-Reality Installation with Families through Theatrical Co-Design
+
+- **arXiv:** [2607.06754v1](http://arxiv.org/abs/2607.06754v1)
+- **PDF:** [2607.06754v1.pdf](https://arxiv.org/pdf/2607.06754v1)
+- **Authors:** Pavlos Panagiotidis, Roma Patel, Boriana Koleva, Steve Benford, Jocelyn Spence, Paul Tennent, et al.
+- **Published:** 2026-07-07
+- **Categories:** cs.HC
+- **Summary:** Co-designing with families for environmental sustainability relies on participatory
+imagination, yet habitual family roles and uneven participation, especially between
+adults and young children, often constrain it. A second challenge is continuity:
+workshop relationships and embodied ways of working do not easily survive into the final
+design, where artefacts travel more readily than roles or interactional dynamics. We
+report on a nationally toured mixed-reality installation developed through applied-
+theatre-led co-design with families. Across three workshops and user testing, applied
+theatre methods supported families to co-create narratives, artefacts, and interactional
+roles that shaped the public event. We show how theatrical co-design can rebalance
+child-adult participation through playful status shifts, and how selected workshop
+dynamics can be re-staged within a public mixed-reality installation. We contribute a
+theatrical account of participatory design in which designers work not only with
+artefacts and ideas, but with roles, rhythms, authority, and the social conditions that
+support collective imagination.
+
