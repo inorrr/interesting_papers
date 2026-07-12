@@ -1247,3 +1247,24 @@ theatrical account of participatory design in which designers work not only with
 artefacts and ideas, but with roles, rhythms, authority, and the social conditions that
 support collective imagination.
 
+### 2026-07-12 - Video-Based Detection of squint and cataract for accessibility-aware adaptive web interface rendering
+
+- **arXiv:** [2607.07099v1](http://arxiv.org/abs/2607.07099v1)
+- **PDF:** [2607.07099v1.pdf](https://arxiv.org/pdf/2607.07099v1)
+- **Authors:** Amar Ranjan Dash, Manas Ranjan Patra
+- **Published:** 2026-07-08
+- **Categories:** cs.CV, cs.HC
+- **Summary:** Squint and cataract are major ocular disorders that majorly affect visual perception and
+interaction capability. This paper proposes a real-time video-based automated detection
+system for squint and cataract detection based on computer vision and image processing
+methods. The proposed system uses a media-pipe face-mesh (a 478-point facial landmark
+detection model) to extract geometric ocular features for multi-class squint
+classification. Simultaneously, The presence and severity cataract is estimated through
+grayscale intensity and histogram-based lens opacity analysis. The system records short
+video sequences with standard laptop or mobile cameras, which can be deployed at low
+costs and on a large scale. The experimental performance has shown great accuracy in the
+detection of squint (98.39%) and classification of cataract (96.90%). Besides automatic
+ocular analysis, the proposed framework is also made accessible for visual impairment
+inference which will be integrated with future adaptive user interface and Web
+accessibility systems for people with visual impairment.
+
