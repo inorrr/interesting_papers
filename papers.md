@@ -1268,3 +1268,24 @@ ocular analysis, the proposed framework is also made accessible for visual impai
 inference which will be integrated with future adaptive user interface and Web
 accessibility systems for people with visual impairment.
 
+### 2026-07-13 - KnitID: Machine-Knitted RFID Antennas for Battery-Free Authentication, Localization and Interaction
+
+- **arXiv:** [2607.09584v1](http://arxiv.org/abs/2607.09584v1)
+- **PDF:** [2607.09584v1.pdf](https://arxiv.org/pdf/2607.09584v1)
+- **Authors:** Weiye Xu, Yue Xu, Devin Murphy, Sen Zhang, Te-yen Wu, Yiyue Luo
+- **Published:** 2026-07-10
+- **Categories:** cs.HC
+- **Summary:** Battery-free RFID systems offer a scalable and maintenance-free approach to interaction.
+We present KnitID, a machine-knitted textile RFID antenna design that enables on-body
+authentication, localization, and interaction. Unlike prior antenna designs, KnitID
+achieves a compact antenna form factor (60mm by 8mm) by integrating magnet wire into the
+unique loop-over-loop structure of machine knitting. This structure reduces the size of
+conventional loop antennas by around 90\%, while also providing 30\% longer sensing
+ranges than standard dipole designs with similar size on the human body. The compact
+form factor creates new opportunities to embed multiple RFID tags across the human body,
+enriching backscatter signals and supporting a broader range of battery-free on-body
+interactions. To demonstrate this capability, we build an interactive sleeve to support
+wearer authentication, spatial localization, and interaction detection. Through
+technical evaluations, we show the feasibility of KnitID to provide diverse and battery-
+free interactions on knitted user interfaces.
+
