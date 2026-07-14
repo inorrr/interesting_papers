@@ -1289,3 +1289,27 @@ wearer authentication, spatial localization, and interaction detection. Through
 technical evaluations, we show the feasibility of KnitID to provide diverse and battery-
 free interactions on knitted user interfaces.
 
+### 2026-07-14 - FIERO: Empowering Creative Writing Through Collaborative Game Play
+
+- **arXiv:** [2607.11837v1](http://arxiv.org/abs/2607.11837v1)
+- **PDF:** [2607.11837v1.pdf](https://arxiv.org/pdf/2607.11837v1)
+- **Authors:** Chu Zhang, XiaoKe Zeng, Jin Zhang, Ruoyu Wen, Vince Siu, Richard William Allen, et al.
+- **Published:** 2026-07-13
+- **Categories:** cs.HC
+- **Summary:** Creativity often flourishes in collaboration, such as when designers brainstorm a new
+app together, or storytellers collectively build a world with elements of each person's
+narrative. However, collaborative storytelling can have challenges for its participants,
+such as when they disagree about the plot proposed, or when different ideas become
+fragmented when voiced individually. While current tools for creative collaboration
+focus on synchronous online text sharing, they often neglect the social dynamics of in-
+person collaboration critical to creative synergy. To address this, we created FIERO, a
+multiplayer web-based card game. Physical cards provide tangible scaffolding and social
+interaction, while the digital interface generates contextual visuals, facilitate group
+decisions, ensure narrative coherence, and synthesize different idea contributions using
+generative AI. Compared against online collaborative writing alone, the game
+significantly enhanced intuitive stimulation, idea fluency, and novelty generation, and
+also improved the content of the stories produced, leading to greater plot coherence
+(N=60). The cards provided creative structure and social engagement, while the interface
+provided contextualized augmentation without affecting player agency. This work shows
+how collaborative play can be utilized to foster creative support.
+
