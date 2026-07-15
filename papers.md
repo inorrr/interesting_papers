@@ -1313,3 +1313,33 @@ also improved the content of the stories produced, leading to greater plot coher
 provided contextualized augmentation without affecting player agency. This work shows
 how collaborative play can be utilized to foster creative support.
 
+### 2026-07-15 - GraphPolaris: A System for Query, Analysis, and Visualization of Graph Databases
+
+- **arXiv:** [2607.12845v1](http://arxiv.org/abs/2607.12845v1)
+- **PDF:** [2607.12845v1.pdf](https://arxiv.org/pdf/2607.12845v1)
+- **Authors:** Michael Behrisch, Sjoerd Vink, Leonardo Christino, Remco Chang
+- **Published:** 2026-07-14
+- **Categories:** cs.HC
+- **Summary:** Graph databases are increasingly adopted as alternatives to tabular, aggregation-focused
+data models used in business intelligence (BI) systems such as Tableau, Power BI, and
+Looker. They capture complex relationships between entities, processes, and events,
+enabling analysis of information propagation in networks. As a result, graph analysis is
+central to applications such as fraud detection, social influence analysis, and supply
+chain resilience. Despite these advantages, existing tools do not adequately support
+interactive analysis of graph databases. Tabular BI systems lack mechanisms for
+reasoning over nodes and edges, while graph databases require specialized query
+languages and fragmented workflows that hinder accessibility. We present GraphPolaris, a
+no-code Visual Analytics system that enables users to explore, analyze, and visualize
+graph databases without programming skills. At its core, GraphPolaris features the
+GRAPHPOLARIS QUERY LANGUAGE (GPQL), a formal query grammar that facilitates flexible and
+composable graph queries, providing a formal foundation for analyzing relationships and
+graph patterns. GPQL serves as an intermediary between user interactions and the
+underlying database. Its formal foundation enables no-code query construction, database-
+agnostic query generation, and guarantees that every interaction produces a valid
+executable query. Informed by a formative user study, we designed GraphPolaris'
+interface and visualizations to lower technical barriers and foster iterative,
+collaborative exploration of complex networks. We evaluate GraphPolaris through two
+real-world case studies in telecommunications and supply-chain analysis and a 22-month-
+long formative mixed-method study, including a MILC-based assessment of its fit to
+analysts' graph analytics workflows.
+
