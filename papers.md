@@ -1367,3 +1367,26 @@ reduce reliance on prior UX expertise, standardize the prototyping process, and 
 teams in building MVPs aligned with user needs. As future work, a feasibility study with
 software professionals is currently underway.
 
+### 2026-07-18 - Conversational Tactile Data Interfaces: Co-Designing Accessible Data Experiences with Blind Users Using Refreshable Tactile Displays and Conversational AI
+
+- **arXiv:** [2607.14588v1](http://arxiv.org/abs/2607.14588v1)
+- **PDF:** [2607.14588v1.pdf](https://arxiv.org/pdf/2607.14588v1)
+- **Authors:** Samuel Reinders, Munazza Zaib, Bongshin Lee, Ingrid Zukerman, Matthew Butler, Thien Autran, et al.
+- **Published:** 2026-07-16
+- **Categories:** cs.HC
+- **Summary:** Combining refreshable tactile displays (RTDs) with conversational AI offers a promising
+approach to accessible data visualization for people who are blind or have low vision
+(BLV). However, it remains an open question how these modalities should be integrated to
+support accessible data experiences. We address this through a co-design process with
+three BLV co-designers. Building on our prior Wizard-of-Oz study, we created a
+conversational tactile data interface (CTDI) that combines an RTD with an LLM-powered
+conversational agent, refined through four workshops over eight months. In addition to
+the resulting system, Graphy, we contribute design knowledge and recommendations for
+CTDIs. Co-designers used touch as the primary sensemaking channel for spatial
+understanding of the data's shape, trends, and relationships, reserved the agent for
+what touch could not resolve (e.g., calculation and analysis), and used the chart on the
+RTD to verify the agent's responses. Key findings include: a layered presentation that
+scaffolds chart exploration through progressive, interactive layers; a feedback grammar
+that distinguishes user- and agent-initiated tactile feedback; and a sequential
+interaction pattern -- select, confirm, ask, verify -- where each step grounds the last.
+
