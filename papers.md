@@ -1390,3 +1390,34 @@ scaffolds chart exploration through progressive, interactive layers; a feedback 
 that distinguishes user- and agent-initiated tactile feedback; and a sequential
 interaction pattern -- select, confirm, ask, verify -- where each step grounds the last.
 
+### 2026-07-19 - Skeleton: Visual Authoring of Non-visual Data Experiences
+
+- **arXiv:** [2607.14579v1](http://arxiv.org/abs/2607.14579v1)
+- **PDF:** [2607.14579v1.pdf](https://arxiv.org/pdf/2607.14579v1)
+- **Authors:** Frank Elavsky, Chieri Nnadozie, Lucas Nadolskis, Patrick Carrington, Dominik Moritz
+- **Published:** 2026-07-16
+- **Categories:** cs.HC, cs.CV
+- **Summary:** When sighted practitioners author accessible data visualizations, they build navigation
+structures (the nodes, edges, and input bindings that govern how assistive technologies
+traverse an interface) entirely in code, with no visual representation. Without a
+representation to react to, practitioners cannot develop judgment about what makes
+navigation good or bad, and the quality ceiling of non-visual experiences is set by the
+absence of a feedback loop. We address this problem through longitudinal co-design with
+practitioners across cartography, design systems, and open-source visualization, and
+make three contributions. First, we introduce an Inspector that renders navigation
+graphs as interactive node-link diagrams, and a Dimensions API that expresses navigation
+in terms of data dimensions rather than explicit graph construction. Second we present
+Skeleton, a direct-manipulation authoring environment in which the properties of an
+accessible navigation structure are translated into visual representations authors can
+observe and manipulate. Key techniques include a dual-view editor that simultaneously
+shows the system's navigation model and the end user's spatial experience, a scaffolding
+engine that automates spatial node placement by repurposing a visualization rendering
+pipeline, a live label-template editor with real-time screen-reader-output preview, and
+a testing mode that makes traversal sequence visually trackable. Third, we evaluate
+Skeleton through an in-situ study with 8 practitioners across visualization design,
+engineering, and research. Making navigation structure visible changed how practitioners
+engaged with accessible design: they reconsidered the architecture of their own
+visualizations, attended to a broader range of input modalities, and shifted from
+treating accessibility as a compliance task to treating it as a design problem.
+(abstract shortened for arxiv)
+
