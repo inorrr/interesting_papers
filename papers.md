@@ -1421,3 +1421,26 @@ visualizations, attended to a broader range of input modalities, and shifted fro
 treating accessibility as a compliance task to treating it as a design problem.
 (abstract shortened for arxiv)
 
+### 2026-07-20 - From Product-Centred Retrieval to Experience-Led Commerce:Twelve Candidate Design Principles for Fashion E-Commerce User Experience
+
+- **arXiv:** [2607.14429v1](http://arxiv.org/abs/2607.14429v1)
+- **PDF:** [2607.14429v1.pdf](https://arxiv.org/pdf/2607.14429v1)
+- **Authors:** Nafiul I. Khan, Mansura Habiba, Rafflesia Khan
+- **Published:** 2026-07-15
+- **Categories:** cs.HC
+- **Summary:** This paper proposes twelve candidate Experience-Led Commerce design principles for high-
+constraint, relational fashion e-commerce, surfaced through design-led induction while
+building VogueDrop, a multi-vendor prototype. The principles address multi-entry
+discovery, experience continuity, relational exploration, preference sovereignty,
+evidence-scoped correspondence, recommendation-time feasibility, customer-compatible
+commercial ranking, adaptive but stable workspaces, attributable transaction authority,
+outcome-linked learning, shared composition authoring, and accountable human to agent
+handoff. The paper uses fashion as an intentionally bounded domain in which fit,
+composition, material, identity-sensitive preference, seller fragmentation, visual
+correspondence, and delivery timing make the interaction breakdown observable; it does
+not claim universal applicability across e-commerce. Each candidate principle is paired
+with a prespecified hypothesis, primary behavioural outcome, and rejection condition. A
+formative critical-incident study and a preregistered matched-interface experiment are
+specified, with user-experience and platform-facing outcomes reported separately. No
+empirical superiority is claimed before those studies are completed.
+
