@@ -1444,3 +1444,27 @@ formative critical-incident study and a preregistered matched-interface experime
 specified, with user-experience and platform-facing outcomes reported separately. No
 empirical superiority is claimed before those studies are completed.
 
+### 2026-07-21 - Sidekick: Designing Communication for Effective Multitasking with Computer Use Agents
+
+- **arXiv:** [2607.17527v1](http://arxiv.org/abs/2607.17527v1)
+- **PDF:** [2607.17527v1.pdf](https://arxiv.org/pdf/2607.17527v1)
+- **Authors:** Ruei-Che Chang, Wenqian Xu, Dingzeyu Li, Bryan Wang, Anhong Guo
+- **Published:** 2026-07-20
+- **Categories:** cs.HC
+- **Summary:** Computer Use Agents (CUAs) can autonomously execute complex, multi-step tasks within
+GUIs, enhancing efficiency through parallel multitasking. However, our formative studies
+with CUA experts and GenAI users indicated that current feedback is primarily text-
+based, requiring sustained attention to monitor progress and offering limited visibility
+to trace past GUI interactions. Based on the findings, we developed a prototype system,
+Sidekick, for communicating CUAs' status with multimodal feedback across different
+stages of interaction: (i) When CUAs run in the background, Sidekick signals its
+execution state through ambient cues. (ii) Upon resuming interaction with CUAs, Sidekick
+provides multimodal summaries of completed actions to support rapid context resumption.
+(iii) When CUAs operate in the foreground, Sidekick enhances transparency by verbalizing
+and visualizing the agent's reasoning. A study with 30 participants demonstrated that
+Sidekick significantly improved multitasking performance with CUAs compared to baseline
+systems that presented textual feedback either in a typical chat or in an ambient
+display. Sidekick supported progress awareness, and error and action traceability more
+effectively. Finally, we demonstrate the promise of Sidekick through several example
+applications, and discuss implications for long-horizon human-agent collaboration.
+
