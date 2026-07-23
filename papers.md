@@ -1468,3 +1468,21 @@ display. Sidekick supported progress awareness, and error and action traceabilit
 effectively. Finally, we demonstrate the promise of Sidekick through several example
 applications, and discuss implications for long-horizon human-agent collaboration.
 
+### 2026-07-23 - A Framework of User Experience Principles for Human-AI Agent Interaction in the Workplace
+
+- **arXiv:** [2607.19941v1](http://arxiv.org/abs/2607.19941v1)
+- **PDF:** [2607.19941v1.pdf](https://arxiv.org/pdf/2607.19941v1)
+- **Authors:** Kathrin Paimann, Elizangela Valarini, Sebastian Juhl
+- **Published:** 2026-07-22
+- **Categories:** cs.HC, cs.AI
+- **Summary:** As AI agents become integral to business workflows, establishing guiding user experience
+(UX) principles is crucial for ensuring user trust and successful adoption. To address
+this, our study uses a multi-method approach - combining participatory design workshop,
+paper-and-pencil, expert review, meta-analysis, and in-depth interviews - to identify
+and validate a design framework of eight core UX principles for human-AI agent
+interaction in the workplace. Together with their underlying criteria, these principles
+provide actionable guardrails for designers and software engineers, creating a
+foundation for developing effective and human-centered AI agent interactions. This study
+contributes to a structured foundation for future empirical studies on agentic AI in
+enterprise settings.
+
