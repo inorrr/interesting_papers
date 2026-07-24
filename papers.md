@@ -1486,3 +1486,31 @@ foundation for developing effective and human-centered AI agent interactions. Th
 contributes to a structured foundation for future empirical studies on agentic AI in
 enterprise settings.
 
+### 2026-07-24 - Reimagining the Augmented Reality Accessibility Ecosystem for Deaf Students: Service Provider Perspectives in Experiential Learning
+
+- **arXiv:** [2607.21289v1](http://arxiv.org/abs/2607.21289v1)
+- **PDF:** [2607.21289v1.pdf](https://arxiv.org/pdf/2607.21289v1)
+- **Authors:** Roshan Mathew, Roshan Peiris
+- **Published:** 2026-07-23
+- **Categories:** cs.HC
+- **Summary:** In experiential learning environments, Deaf and hard of hearing (DHH) students often
+experience ``split attention,'' dividing their focus among tasks, instructors, and
+access providers. Augmented reality (AR) has been proposed as a means to centralize
+communication access within the student's field of view; however, little is known about
+how such systems affect the instructors, interpreters, and captioners who support access
+in these settings. We present a formative, expert-based evaluation of ARRAE, an AR-
+mediated communication access ecosystem, examining the experiences of an instructor, an
+American Sign Language (ASL) interpreter, and a real-time captioner in a simulated
+laboratory environment. Comparing in-person, traditional remote, and AR-mediated access,
+our findings suggest that AR reconfigures accessibility labor and interactional
+practices by redistributing communication, attention, and awareness across participants.
+While AR-mediated access supported integrated, in-situ communication and enhanced
+contextual awareness, it also altered interactional feedback mechanisms, such as gaze
+coordination and pacing, that support shared understanding during instruction. These
+observations highlight trade-offs between access, control, and coordination, and suggest
+that AR-mediated systems may be most effective when considered as part of a broader,
+hybrid ecosystem rather than as standalone replacements for existing modalities. This
+work contributes initial insights into how AR reshapes communication access in
+experiential learning and informs the design of systems that support coordinated, multi-
+user interaction in hands-on educational contexts.
+
