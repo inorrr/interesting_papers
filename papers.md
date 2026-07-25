@@ -1514,3 +1514,28 @@ work contributes initial insights into how AR reshapes communication access in
 experiential learning and informs the design of systems that support coordinated, multi-
 user interaction in hands-on educational contexts.
 
+### 2026-07-25 - HARP: The Human--AI Research Platform
+
+- **arXiv:** [2607.20773v1](http://arxiv.org/abs/2607.20773v1)
+- **PDF:** [2607.20773v1.pdf](https://arxiv.org/pdf/2607.20773v1)
+- **Authors:** Zeshu Zhu, Natalie Friedman, Kevin Weatherwax, Emily Eiben
+- **Published:** 2026-07-22
+- **Categories:** cs.HC, cs.AI
+- **Summary:** Large language models (LLMs) have shifted human--computer interaction from
+`traditional'' interface journeys toward more conversational exchanges. Researchers
+studying HCI and UI use moderated usability sessions, interviews, surveys, transcript
+analysis, and static prototypes. However, static prototypes provide limited
+opportunities to study interaction with live AI systems or systematically control how an
+LLM behaves across participants and scenarios. Conversation transcripts reveal little
+about how users formulate, revise, and hesitate over prompts before submission. We
+designed the Human--AI Research Platform (HARP) for researchers, designers, and anyone
+who has ever wondered, `What if AI did this?' HARP places participants in controlled
+mock scenarios with live, configurable AI agents. Researchers can control agent prompts,
+model parameters, response characteristics, and experimental conditions; trigger surveys
+at predefined moments; and record prompt composition time, response latency, deletions,
+and keystroke pauses. Planned capabilities include voice, facial expression, gesture,
+and, where legally and ethically appropriate, emotion analysis. We illustrate HARP
+through a study examining how technical specificity and response length affect retention
+of LLM output. By pairing controllable live agents with behavioral and self-report
+measures, HARP enables systematic testing of how AI design choices affect users.
+
