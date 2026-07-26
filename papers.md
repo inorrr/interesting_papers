@@ -1539,3 +1539,29 @@ through a study examining how technical specificity and response length affect r
 of LLM output. By pairing controllable live agents with behavioral and self-report
 measures, HARP enables systematic testing of how AI design choices affect users.
 
+### 2026-07-26 - BlurDriving: Investigating How Personalized Blur Techniques Impact Drivers' Performance in Virtual Reality
+
+- **arXiv:** [2607.18628v1](http://arxiv.org/abs/2607.18628v1)
+- **PDF:** [2607.18628v1.pdf](https://arxiv.org/pdf/2607.18628v1)
+- **Authors:** Yuan Li, Mark Colley, Xinyue Gui, Cristian Camilo Rendon Cardona, Pascal Jansen, Christian Sandor, et al.
+- **Published:** 2026-07-21
+- **Categories:** cs.HC
+- **Summary:** Distracted driving remains a major safety concern, motivating approaches that aim to
+reduce visual overload before attention breaks down. However, visual overload varies
+across individuals, making it difficult to determine appropriate interventions for each
+driver. We investigate whether controllable visual blur can simplify the driving scene
+and mitigate distraction. To address this challenge, we propose BlurDriving, a target-
+selective, distance-aware blur system in a Virtual Reality (VR) urban driving simulator,
+and employ a Human-in-the-Loop Multi-Objective Bayesian Optimization (HITL-MOBO)
+framework to personalize blur configurations. Across two VR user studies, we evaluated
+driving under normal conditions in Study 1 and under cognitively demanding conditions in
+Study 2. We found that personalization revealed strong individual differences in blur
+preference but did not lead to significant improvements in objective driving performance
+compared to a no-blur baseline. Qualitative feedback revealed polarized responses: some
+drivers reported improved focus, while others experienced uncertainty, fatigue, or
+discomfort. These findings suggest that visual blur is not universally effective.
+Instead, its benefits depend on individual perceptual strategies and tolerance for
+visual uncertainty. This work highlights the limits of personalized visual
+simplification in safety-critical driving and informs adaptive in-vehicle interface
+design.
+
