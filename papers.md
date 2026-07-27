@@ -1565,3 +1565,32 @@ visual uncertainty. This work highlights the limits of personalized visual
 simplification in safety-critical driving and informs adaptive in-vehicle interface
 design.
 
+### 2026-07-27 - Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children
+
+- **arXiv:** [2607.22377v1](http://arxiv.org/abs/2607.22377v1)
+- **PDF:** [2607.22377v1.pdf](https://arxiv.org/pdf/2607.22377v1)
+- **Authors:** Kadharmoideen Fadurudeen
+- **Published:** 2026-07-24
+- **Categories:** cs.HC, cs.CY, cs.SD
+- **Summary:** Most educational technology for children is built around visual interfaces, which
+excludes the many children worldwide who live with visual impairment -- an estimated 1.4
+million children are blind and many more have low vision. We present Kutti AI, a voice-
+first learning companion designed so that audio is the primary and sufficient interface:
+children learn curriculum concepts through spoken conversation, respond by speaking, and
+receive spoken feedback, with no reliance on visual elements. The system contributes
+three practical mechanisms for accessible, adaptive learning on commodity mobile
+hardware: (1) a multi-signal struggle-detection engine that combines response-latency
+analysis, wrong-attempt tracking, and keyword-based hesitation detection to decide, in
+real time, when to offer hints or simplify a question; (2) a multi-layered cross-
+language answer-matching pipeline that combines language-aware
+translation/transliteration, Levenshtein-based fuzzy matching, and text normalization so
+that children are not penalized for code-switching or pronunciation variation; and (3)
+an offline-first speech pipeline using an on-device automatic speech recognition (ASR)
+model, enabling use in low-connectivity settings common in underserved communities. We
+describe the architecture, the interaction flow, and the design decisions that
+prioritize accessibility, and we report qualitative observations from a hackathon
+prototype supporting English and Tamil. We discuss lessons learned and outline a path
+toward formal evaluation with target users. Kutti AI illustrates how a small, carefully-
+engineered voice-first system can lower both accessibility and financial barriers to
+early education.
+
