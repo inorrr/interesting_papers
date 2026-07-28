@@ -1594,3 +1594,28 @@ toward formal evaluation with target users. Kutti AI illustrates how a small, ca
 engineered voice-first system can lower both accessibility and financial barriers to
 early education.
 
+### 2026-07-28 - SHARE: Towards Head-Mounted AR with User-Centric SLAM in Shared Human-Robot Workspaces
+
+- **arXiv:** [2607.23901v1](http://arxiv.org/abs/2607.23901v1)
+- **PDF:** [2607.23901v1.pdf](https://arxiv.org/pdf/2607.23901v1)
+- **Authors:** Tianyuan Du, Tianyi Hu, Hanting Ye, Maria Gorlatova
+- **Published:** 2026-07-27
+- **Categories:** cs.HC, cs.RO
+- **Summary:** Human-Robot Collaboration (HRC) in shared physical spaces using Augmented Reality (AR)
+interfaces is powered by Simultaneous Localization and Mapping (SLAM). Existing multi-
+agent SLAM systems rely on an edge server to combine visual findings of multiple
+resource-constrained agents, perform computation, and schedule updates to their local
+maps. However, the edge treats all agents uniformly and ignores the fundamentally
+different latency requirements of heterogeneous HRC agents: robots and head-mounted AR
+users. This uniform resource allocation often results in high lag for user manipulation,
+as it does not meet the stringent latency requirements of AR. In this work, we design,
+implement, and evaluate SHARE, a user-centric SLAM system that strategically prioritizes
+AR user experience while maintaining accurate tracking performance for robots. SHARE
+builds a first-of-its-kind experience model for HRC agents and adaptively adjusts
+transmission priorities to match it. To reduce end-to-end latency, SHARE leverages the
+redundancy of visual features acquired by agents in shared human-robot workspaces to
+reduce computation time induced by edge-based processing. Real-world deployment with
+commercial AR headsets and a ground robot achieves 13.22 ms average latency for AR users
+(43.3% reduction from baseline) while maintaining sub-2-centimeter tracking accuracy.
+User studies further reveal statistically significant improvements in user perception.
+
