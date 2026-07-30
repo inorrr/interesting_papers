@@ -1619,3 +1619,26 @@ commercial AR headsets and a ground robot achieves 13.22 ms average latency for 
 (43.3% reduction from baseline) while maintaining sub-2-centimeter tracking accuracy.
 User studies further reveal statistically significant improvements in user perception.
 
+### 2026-07-30 - FleetScape: A Mixed Reality Sandtable for Spatial Supervision and Control of Scalable Drone Fleets
+
+- **arXiv:** [2607.26423v1](http://arxiv.org/abs/2607.26423v1)
+- **PDF:** [2607.26423v1.pdf](https://arxiv.org/pdf/2607.26423v1)
+- **Authors:** Peisen Xu, Jérémie Garcia, Peter Cleveland, Ooi Wei Tsang, Christophe Jouffrais
+- **Published:** 2026-07-29
+- **Categories:** cs.HC, cs.RO
+- **Summary:** As autonomous drone deployments scale from individual units to coordinated swarms, the
+human operator's role shifts from direct piloting to high-level supervision. Current
+interfaces often treat multi-drone control as a scaled-up version of single-drone
+operation. We instead investigate how reframing fleet supervision as spatial interaction
+can better support the spatial, temporal, and safety demands of complex missions. We
+present FleetScape, a Mixed Reality (MR) sandtable system that externalizes layered
+real-time mission, safety, and environmental data while enabling fluid transitions
+between manual intervention and autonomous supervision. We developed a high-fidelity
+building inspection simulation that generates and streams synchronized multi-drone and
+environmental data for MR visualizations. We used this prototype to conduct a user study
+with six experienced drone pilots managing fleets of up to 15 drones. Our findings show
+that FleetScape supports situational awareness through layered spatial representations
+and clarifies control mode transitions. However, a limit to situational awareness was
+observed as fleet size increases, leading to different supervisory strategies. Finally,
+we derive design implications for supporting scalable drone fleet supervision.
+
