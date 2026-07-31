@@ -1642,3 +1642,32 @@ and clarifies control mode transitions. However, a limit to situational awarenes
 observed as fleet size increases, leading to different supervisory strategies. Finally,
 we derive design implications for supporting scalable drone fleet supervision.
 
+### 2026-07-31 - VizPilot: Automated Onboarding for SVG-based Composite Visualizations using Multimodal LLMs
+
+- **arXiv:** [2607.27938v1](http://arxiv.org/abs/2607.27938v1)
+- **PDF:** [2607.27938v1.pdf](https://arxiv.org/pdf/2607.27938v1)
+- **Authors:** Nishaanthini Gnanavel, Yong Wang
+- **Published:** 2026-07-30
+- **Categories:** cs.HC
+- **Summary:** Composite visualizations integrate multiple visualizations to represent complex datasets
+effectively, but their intrinsic composite designs often impose a high initial cognitive
+load on novice users. Existing visualization onboarding approaches are typically
+platform-dependent, require substantial manual authoring effort, and struggle with the
+structural complexity of composite visualizations, limiting their general applicability.
+We present VizPilot, an automated visualization onboarding approach that reverse-
+engineers composite visualization structure to generate interactive onboarding
+experiences directly from raw visualization artifacts. VizPilot consists of two modules:
+a Composite Visualization Analyzer and an Onboarding Interface. Leveraging Multimodal
+Large Language Models (MLLMs), the Analyzer employs a two-stage pipeline that decomposes
+a visualization into visual components, extracts structured explanations, and maps them
+to precise SVG elements for reliable highlighting and interaction. Implemented as a
+browser extension, VizPilot requires only a brief visualization description and optional
+interaction source code from the visualization developer to automatically generate
+onboarding content. The Onboarding Interface supports both guided narrative
+scrollytelling and free exploration, enabling users to learn visualization components
+progressively or on demand. We evaluate VizPilot through a comparative analysis of
+different input modalities, a usage scenario demonstrating reduced authoring effort, and
+a user study assessing its impact on users' cognitive load. The results demonstrate that
+VizPilot effectively automates the authoring of onboarding experiences while improving
+the usability and accessibility of composite visualizations.
+
