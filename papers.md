@@ -1671,3 +1671,29 @@ a user study assessing its impact on users' cognitive load. The results demonstr
 VizPilot effectively automates the authoring of onboarding experiences while improving
 the usability and accessibility of composite visualizations.
 
+### 2026-08-01 - Beyond Feeling Better: Capability-Sustaining Emotional Dialogue as a Longitudinal Research Paradigm
+
+- **arXiv:** [2607.27851v1](http://arxiv.org/abs/2607.27851v1)
+- **PDF:** [2607.27851v1.pdf](https://arxiv.org/pdf/2607.27851v1)
+- **Authors:** Ming Wang, Jiaqi Wu Young, Wenfang Wu, Daling Wang, Shi Feng
+- **Published:** 2026-07-30
+- **Categories:** cs.CL, cs.HC, cs.SI
+- **Summary:** Emotional dialogue research includes two influential strategy traditions. Empathetic
+dialogue prioritizes understanding a speaker's emotional experience. Emotional support
+conversation selects and sequences support for the seeker's current needs. Sustained use
+introduces a further goal. Effective support should sustain users' capacities for
+emotion regulation, coping, self-endorsed decisions, and social connection across the
+interaction lifecycle. We propose capability-sustaining emotional dialogue (CSED) as a
+longitudinal research paradigm that aligns supportive strategy with this goal and
+organizes data, models, system design, evaluation, and governance around repeated use,
+non-use, transition, and termination. A targeted literature-and-corpus audit motivates
+this position. In a PRISMA-ScR-guided sample, 95% of 60 system-building papers pursue
+relief-oriented goals. None evaluates capability or longitudinal outcomes, and only 1
+considers dependency, autonomy, or termination risk. In 300 ESConv supporter turns,
+capability-relevant functions appear in 43.0%, while generic suggestions account for
+22.0%, compared with 4.0% reappraisal, 6.7% self-efficacy support, and 0.3% boundary
+behavior. We release a protocol for extending the audit to model behavior. An
+illustrative process model connects latent user capability to six design commitments,
+four evaluation timescales, and lifecycle constraints. The resulting agenda makes CSED
+testable across data, policy design, training, evaluation, and governance.
+
