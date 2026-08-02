@@ -1697,3 +1697,28 @@ illustrative process model connects latent user capability to six design commitm
 four evaluation timescales, and lifecycle constraints. The resulting agenda makes CSED
 testable across data, policy design, training, evaluation, and governance.
 
+### 2026-08-02 - A Design Study on Voice-based Interaction for Immersive Network Visualization and Analysis
+
+- **arXiv:** [2607.26526v1](http://arxiv.org/abs/2607.26526v1)
+- **PDF:** [2607.26526v1.pdf](https://arxiv.org/pdf/2607.26526v1)
+- **Authors:** Sam Yu-Te Lee, Hsin-Ai Chen, Sarah Yuniar, David Bauer, Kwan-Liu Ma
+- **Published:** 2026-07-29
+- **Categories:** cs.HC
+- **Summary:** Visual network analysis leverages network visualization authoring techniques to
+facilitate sensemaking, serendipitous discovery, and hypothesis verification on network
+data. However, transferring the same paradigm to immersive environments is non-trivial
+due to insufficient UI affordance for authoring operations. Researchers have studied
+combining multiple modalities for interactions, but the high learning curve of such
+input systems limits their adoption by typical data analysts, let alone for network
+analytics. In this work, we investigate the advantages and limitations of voice as the
+primary input modality with a research-through-design (RtD) study, in which we design a
+system that supports voice-based interactions for immersive network visualization
+facilitated by Large Language Models (LLMs). Through a user study on social network data
+analysis with participants from social science and computer science backgrounds, we find
+that voice interactions can improve perceived usability relative to controller-based
+interaction and lower the cognitive effort of formulating commands, since users can
+express intent in natural language rather than compressing it into terse instructions.
+We discuss design implications for immersive visualizations, highlighting how usability
+limits adoption while simplified interactions and voice-based controls enhance fluidity
+and support complex, multi-parameter operations.
+
