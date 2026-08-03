@@ -1722,3 +1722,34 @@ We discuss design implications for immersive visualizations, highlighting how us
 limits adoption while simplified interactions and voice-based controls enhance fluidity
 and support complex, multi-parameter operations.
 
+### 2026-08-03 - Designing a digital word-learning intervention with neurodiverse children: Experiences and ideas from children with developmental language disorder
+
+- **arXiv:** [2607.29113v1](http://arxiv.org/abs/2607.29113v1)
+- **PDF:** [2607.29113v1.pdf](https://arxiv.org/pdf/2607.29113v1)
+- **Authors:** Rafiah Ansari, Rina R. Wehbe, Lizbeth Olivia Escobedo
+- **Published:** 2026-07-31
+- **Categories:** cs.HC
+- **Summary:** Introduction - Developmental language disorder (DLD) is a neurodevelopmental condition
+often characterised by word-learning difficulties that can lead to significant social
+and academic challenges. The disorder shares some features with other neurodevelopmental
+conditions such as autism spectrum disorder (ASD). Despite affecting 7 percent of
+children, the condition has received little coverage in participatory design research.
+This paper addresses this by reporting on the emotional responses and design outputs of
+children with DLD following participatory sessions to inform a word-learning
+intervention. Method - Principles from learner-centred, cooperative, and accessible co-
+design approaches were integrated to tailor activities for four children with DLD.
+Design sessions were refined through ongoing monitoring of the children's experiences.
+The data that informed the findings included design artefacts such as children's
+drawings, structured feedback obtained using sentence-starter prompts, and researcher
+field notes. Reflexive thematic analysis was applied to the data, complemented by
+findings from an emotion scale completed before and after sessions. Results - Children
+responded positively to design activities that incorporated familiar story characters
+and videogames, and that allowed a direct contribution of design ideas. Activities with
+higher cognitive demand led to reduced interactions. Key design requirements for the
+word-learning intervention included multimodal, personalised learning opportunities and
+the use of progress markers. Aligning digital and real-world learning, such as providing
+in-person adult support, was also important. Conclusions - Through careful planning and
+refinement, a bespoke participatory design approach proved meaningful and rewarding for
+children with DLD, whilst also yielding valuable insights for the development of the
+intervention.
+
