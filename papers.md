@@ -1753,3 +1753,28 @@ refinement, a bespoke participatory design approach proved meaningful and reward
 children with DLD, whilst also yielding valuable insights for the development of the
 intervention.
 
+### 2026-08-04 - Visualizing Placement Proposals for Window Arrangement in Mixed Reality: A Comparative User Study
+
+- **arXiv:** [2608.00403v1](http://arxiv.org/abs/2608.00403v1)
+- **PDF:** [2608.00403v1.pdf](https://arxiv.org/pdf/2608.00403v1)
+- **Authors:** Abdelrahman Zaky, Tiare Feuchtner
+- **Published:** 2026-08-01
+- **Categories:** cs.HC
+- **Summary:** Adaptive mixed reality (MR) interfaces typically optimize window layouts on behalf of
+the user, with limited consideration for individual preferences. A promising alternative
+keeps users in the loop by presenting layout proposals for them to select from, but how
+these proposals should be visualized remains underexplored. We compare three proposal-
+visualization techniques for window placement, Situated Icon Preview, Situated Window
+Preview, and 3D Preview, against a Manual Positioning baseline. The techniques differ in
+level of detail and degree of interaction-space context. In a within-subjects user
+study, 24 participants completed a multi-stage trip-planning task in VR, individually
+placing seven sequentially introduced windows using each technique. We thereby focus on
+single-window placement under predefined proposal positions. We measured layouting time,
+number of layout changes, task load, user experience, and preference, complemented by
+semi-structured interviews. Although Situated Icon Preview and Situated Window Preview
+reduced layouting time compared to Manual Positioning - with Situated Window Preview
+also faster than 3D Preview - participants preferred direct manual control. We discuss
+the factors shaping this preference (perceived control, cognitive cost, familiarity, and
+informativeness of the proposal) and outline implications for hybrid approaches, as a
+promising combination of proposal-based suggestions with manual refinement.
+
