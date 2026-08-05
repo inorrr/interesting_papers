@@ -1778,3 +1778,34 @@ the factors shaping this preference (perceived control, cognitive cost, familiar
 informativeness of the proposal) and outline implications for hybrid approaches, as a
 promising combination of proposal-based suggestions with manual refinement.
 
+### 2026-08-05 - Beyond Score-Based Gamification: Designing Spatiotemporal and Musical Experiences for VR Neck Rehabilitation
+
+- **arXiv:** [2608.01688v1](http://arxiv.org/abs/2608.01688v1)
+- **PDF:** [2608.01688v1.pdf](https://arxiv.org/pdf/2608.01688v1)
+- **Authors:** David Perron, Pascal Spiegler, Haitham Abdel-Salam, Chanelle Montpetit, Gabriel Vigliensoni, Maryse Fortin, et al.
+- **Published:** 2026-08-03
+- **Categories:** cs.HC
+- **Summary:** Pain-related anxiety and fear of movement are major barriers to adherence and
+therapeutic outcomes in rehabilitation exercises for chronic neck pain. Virtual reality
+enables the design of immersive experiences that can transform repetitive therapeutic
+movements into engaging and emotionally supportive interactions. In this exploratory
+work, we investigate how experience-oriented gamification can reduce anxiety and improve
+user experience during VR-based neck range-of-motion exercises. We introduce two novel
+interaction paradigms that embed therapeutic neck movements within multisensory VR
+experiences. The first paradigm, Spatiotemporal Progression, couples head-tracked
+trajectories with environmental progression in a tropical island setting, where movement
+segments dynamically transform time of day, weather, and spatial location as
+experiential rewards. The second paradigm, Musical Interaction, maps movement segments
+to meditative music notes layered with relaxing ambient soundscapes. We evaluate these
+designs against a conventional score-based gamification baseline in a controlled user
+study with 20 non-patient participants. We assess usability and user experience through
+subjective measures, exercise performance with motion tracking, and anxiety modulation
+using the Subjective Units of Distress Scale, heart rate, and skin conductance. Our
+findings suggest that, in comparison with traditional score-based gamification design,
+immersive environmental and musical feedback show better potential to reduce anxiety and
+improve user experience, with little to no impact on successful performance of the
+exercise. Our preliminary results highlight the potential value of experience-based
+interaction design for VR rehabilitation, suggesting an alternative to performance-
+centric gamification that prioritizes emotional engagement without compromising
+therapeutic efficacy.
+
