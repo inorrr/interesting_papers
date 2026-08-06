@@ -1809,3 +1809,29 @@ interaction design for VR rehabilitation, suggesting an alternative to performan
 centric gamification that prioritizes emotional engagement without compromising
 therapeutic efficacy.
 
+### 2026-08-06 - Exploring Cross-Reality Transitions between Projections and Head-Mounted Displays for Immersive Digital Art
+
+- **arXiv:** [2608.04971v1](http://arxiv.org/abs/2608.04971v1)
+- **PDF:** [2608.04971v1.pdf](https://arxiv.org/pdf/2608.04971v1)
+- **Authors:** Xiangpeng Fu, Mads Haahr
+- **Published:** 2026-08-05
+- **Categories:** cs.HC, cs.GR
+- **Summary:** Immersive exhibitions increasingly combine large-scale projections with mixed reality
+(MR) head-mounted displays (HMDs), but how users perceive transitions across these
+heterogeneous visualization environments remains underexplored. We investigate cross-
+reality (CR) object- and scene-level transitions in a hybrid immersive art installation
+spanning projection, augmented reality (AR), and virtual reality (VR). In a within-
+subjects study (N=24), we compared a calibrated condition with a bundled inconsistency
+condition introducing noticeable differences in spatial alignment, visual appearance,
+and cross-device latency. This contrast was used not to establish perceptual thresholds
+or hardware targets, but as a diagnostic probe to make transition disruptions more
+perceptible and discussable. The inconsistency condition reduced presence and increased
+workload. Interviews showed that spatial misalignment disrupted action-outcome
+predictability, appearance mismatch reduced aesthetic coherence, and latency weakened
+perceived responsiveness. Effects also varied by asset type: rigid static assets exposed
+inconsistencies more clearly, animated skeletal assets shifted attention toward motion,
+and particle effects often masked small discrepancies. These findings clarify how users
+perceive projection-MR transitions and support asset-aware design strategies for
+coherent hybrid immersive art. We also release HUICRSync, an open-source Unreal Engine
+plugin for prototyping projection-MR CR experiences.
+
