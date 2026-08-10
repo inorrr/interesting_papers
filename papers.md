@@ -1928,3 +1928,26 @@ the interaction environment. These findings highlight the need to validate
 perceptuomotor interaction techniques separately in VR and MR-VPT, even when they are
 implemented on the same hardware.
 
+### 2026-08-10 - Social Facilitation of Creative Reflection: AI-agents and Humans
+
+- **arXiv:** [2608.06980v1](http://arxiv.org/abs/2608.06980v1)
+- **PDF:** [2608.06980v1.pdf](https://arxiv.org/pdf/2608.06980v1)
+- **Authors:** Olga Sutskova, Corey Ford
+- **Published:** 2026-08-07
+- **Categories:** cs.HC
+- **Summary:** Social collaboration can support people's reflection and is a crucial component of
+creativity. Creative technologies have been designed to support more collaborative ways
+of working, including using AI to simulate social partners. As human-AI creative
+collaborations increase, further investigation is needed into how different social
+interactions influence creative reflection and at which stage a social intervention is
+crucial to improve creative outcomes. Considering that non-verbal communication is the
+bedrock of human cognition and influence, non-verbal social dynamics should be examined
+in detail in the age of AI-companionship. For example, during social interaction, the
+social facilitation effect describes how the mere presence or observation of others
+influences how a person behaves and feels in the context. Whether changes in technology-
+mediated social environments influence how people reflect on their creative work needs
+further exploration, as does whether social AI-companionship elicits similar effects as
+humans. This paper discusses how theoretical mechanisms relating to social facilitation
+could influence creative practice and reflection, proposing ways of further testing
+these effects.
+
