@@ -1951,3 +1951,24 @@ humans. This paper discusses how theoretical mechanisms relating to social facil
 could influence creative practice and reflection, proposing ways of further testing
 these effects.
 
+### 2026-08-11 - Imagining the Musical Metaverse: a study on the needs and creative practices of composers and musicians
+
+- **arXiv:** [2608.08938v1](http://arxiv.org/abs/2608.08938v1)
+- **PDF:** [2608.08938v1.pdf](https://arxiv.org/pdf/2608.08938v1)
+- **Authors:** Alberto Boem, Matteo Tomasetti, Alessio Gabriele, Agostino Di Scipio, Alessandra Micalizzi, Luca Turchet
+- **Published:** 2026-08-09
+- **Categories:** cs.HC
+- **Summary:** This study explores user needs for the Musical Metaverse (MM) through a series of
+workshops with electroacoustic composers, classical musicians, and music producers.
+Using a design approach based on the prompt "as if by magic," participants were invited
+to reflect on how the MM could impact their practice in composition, performance, and
+education domains. While groups maintain distinct priorities based on their roles, they
+share interests in educational applications and creative learning environments. Key
+themes include preference for mixed reality over purely virtual environments, virtual
+space as a creative paradigm, and tensions between democratizing tools and maintaining
+authentic musical experiences. Education emerged as the most promising initial use case,
+particularly for understanding complex musical concepts. However, participants expressed
+skepticism about fully virtual performances, emphasizing physical connections to
+instruments and spaces. Results suggest MM development should enhance rather than
+replace traditional practices while supporting embodied creativity.
+
