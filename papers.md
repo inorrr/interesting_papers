@@ -1972,3 +1972,28 @@ skepticism about fully virtual performances, emphasizing physical connections to
 instruments and spaces. Results suggest MM development should enhance rather than
 replace traditional practices while supporting embodied creativity.
 
+### 2026-08-12 - FZ-VIS: A Visual Analytics Framework for Quantities-of-Interest-Aware Scientific Lossy Compression
+
+- **arXiv:** [2608.08386v1](http://arxiv.org/abs/2608.08386v1)
+- **PDF:** [2608.08386v1.pdf](https://arxiv.org/pdf/2608.08386v1)
+- **Authors:** Guoxi Liu, Yuxiao Li, Congrong Ren, Robert Underwood, Xin Liang, Bei Wang, et al.
+- **Published:** 2026-08-09
+- **Categories:** cs.HC, cs.GR
+- **Summary:** Modern scientific simulations generate massive volumes of data, making lossy compression
+essential for efficient storage and transmission. However, preserving critical
+quantities of interest (QoIs) under lossy compression is inherently data- and task-
+dependent, requiring domain scientists to navigate complex trade-offs between
+compression ratio and data fidelity. Exploring these trade-offs often involves large
+design and evaluation spaces, motivating human-in-the-loop approaches that combine
+interactive exploration with quantitative analysis. To address this challenge, we
+present FZ-VIS, an interactive framework for human-in-the-loop feature-oriented lossy
+compression design and visual analytics. FZ-VIS provides a web-based interface for
+rapidly generating and comparing compression configurations, along with integrated
+visualization tools for assessing reconstruction fidelity and QoI preservation through
+both visual inspection and quantitative metrics. We demonstrate the utility of FZ-VIS
+through case studies involving three representative user groups: novice users selecting
+compression methods, compressor developers examining internal pipeline behavior, and
+domain scientists investigating feature preservation. The case studies show how FZ-VIS
+helps users efficiently navigate complex design spaces and make informed decisions that
+balance compression performance with application-specific QoI requirements.
+
