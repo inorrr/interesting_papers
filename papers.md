@@ -1997,3 +1997,25 @@ domain scientists investigating feature preservation. The case studies show how 
 helps users efficiently navigate complex design spaces and make informed decisions that
 balance compression performance with application-specific QoI requirements.
 
+### 2026-08-13 - A Browser-Based Gesture-Driven Avatar Interaction Framework for Metaverse Onboarding Environments
+
+- **arXiv:** [2608.11708v1](http://arxiv.org/abs/2608.11708v1)
+- **PDF:** [2608.11708v1.pdf](https://arxiv.org/pdf/2608.11708v1)
+- **Authors:** Deepti Parachuri, Chhayank Sahu, Sameer Singh Choudhary
+- **Published:** 2026-08-12
+- **Categories:** cs.HC, cs.GR
+- **Summary:** Avatar interaction shapes how engaging and immersive a metaverse experience feels, and
+for that interaction to feel natural, avatars need to respond to users without forcing
+them through a controller-based interface first. This paper describes a gesture-driven
+interaction layer built for a browser-based metaverse onboarding environment, where
+users explore a set of virtual rooms as an avatar and interact with embedded video,
+document, and quiz content using hand, arm, and head gestures instead of a keyboard or
+controller. The system combines real-time gesture recognition (Google MediaPipe) with
+two alternative locomotion techniques - hand-raise navigation and in-place walking - so
+users can trade off precision against physical immersion depending on the task. The
+contribution is the integration, deployment, and evaluation of these techniques as a
+single lightweight, web-deployable, controller-free interaction model, assessed through
+a structured internal onboarding session with five participants. We report what worked,
+what didn't, and the design trade-offs that came out of combining these techniques in
+one deployed system.
+
