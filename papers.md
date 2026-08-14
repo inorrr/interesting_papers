@@ -2019,3 +2019,33 @@ a structured internal onboarding session with five participants. We report what 
 what didn't, and the design trade-offs that came out of combining these techniques in
 one deployed system.
 
+### 2026-08-14 - Locomotion Variability and User Experience in Smart Wheelchair Human-Robot Interaction
+
+- **arXiv:** [2608.11417v1](http://arxiv.org/abs/2608.11417v1)
+- **PDF:** [2608.11417v1.pdf](https://arxiv.org/pdf/2608.11417v1)
+- **Authors:** Sean Kille, Adina M. Panchea, Balint Varga, Sören Hohmann
+- **Published:** 2026-08-11
+- **Categories:** cs.RO, cs.HC
+- **Summary:** Human movement is inherently variable, with variability structured according to task
+relevance: movements are typically more consistent at task-critical points and more
+flexible elsewhere. In human-robot interaction (HRI), however, model-based assistance
+strategies commonly assume deterministic human behavior and suppress such variability,
+potentially altering how interactions are experienced and lowering sense of agency.
+While movement variability is increasingly recognized as functionally meaningful, its
+deliberate preservation in assisted interaction, and its consequences for user
+experience, remain underexplored. In this paper, we empirically investigate how
+different assistance strategies shape human movement variability, task performance, and
+subjective interaction experience in a shared control setting. We introduce an autonomy-
+supportive shared control strategy that preserves users' natural movement structure.
+This approach is evaluated in a user study in which participants push an intelligent
+powered wheelchair under three conditions: no assistance, conventional variability-
+reducing assistance, and variability-preserving assistance. While task-relevant
+performance remained comparable across assisted modes, preserving natural movement
+variability led to more favorable interaction experiences. In particular, participants
+reported significantly higher perceived agency compared to conventional assistance and
+highest perceived usefulness. These findings suggest that variability-aware assistance
+can support both performance and user autonomy in physical human-robot collaboration.
+More broadly, the results highlight the importance of designing assistive robotic
+systems that respect the embodied structure of human movement rather than treating
+variability as noise to be neglected or eliminated.
+
