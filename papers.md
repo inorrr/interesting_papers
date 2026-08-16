@@ -2078,3 +2078,24 @@ accessibility evaluation, accessibility-native rather than retrofitted interface
 user-controlled data agency -- recommendations intended not to accommodate blind users
 but to design DMH tracking services with them from the start.
 
+### 2026-08-16 - How Children Collaborate within Programmable AR Environments with Co-Located Collaborative Features
+
+- **arXiv:** [2608.11442v1](http://arxiv.org/abs/2608.11442v1)
+- **PDF:** [2608.11442v1.pdf](https://arxiv.org/pdf/2608.11442v1)
+- **Authors:** Romina Mahinpei, Diya Ajay Hundiwala, Sandy Zhang, Lana Glisic, Andrés Monroy-Hernández
+- **Published:** 2026-08-11
+- **Categories:** cs.HC
+- **Summary:** Programmable augmented reality (AR) environments are emerging as a promising way to
+support children's creative learning through embodied interaction with digital
+characters and physical space. At the same time, AR systems are increasingly capable of
+supporting co-located collaborative experiences. However, little is known about how
+children collaborate within programmable AR environments offering co-located
+collaborative features. In response, we extended Capybara, an existing programmable AR
+application for children, with co-located collaborative features supporting shared
+visibility and interaction across devices. We then conducted workshops with 9 children
+to examine whether and how collaboration emerges during use. Across our workshops,
+collaboration was often lightweight and implicit, emerging through three complementary
+forms: parallel play with social awareness, iterative remixing, and spontaneous peer
+support. Together, our findings provide insights for designing future child-centered
+programmable AR systems that better support co-located collaborative experiences.
+
