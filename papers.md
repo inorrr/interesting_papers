@@ -2099,3 +2099,34 @@ forms: parallel play with social awareness, iterative remixing, and spontaneous 
 support. Together, our findings provide insights for designing future child-centered
 programmable AR systems that better support co-located collaborative experiences.
 
+### 2026-08-17 - AppLooper: An Agentic Application Engineering Loop for Accountable Release with Virtual-User Feedback
+
+- **arXiv:** [2608.14093v1](http://arxiv.org/abs/2608.14093v1)
+- **PDF:** [2608.14093v1.pdf](https://arxiv.org/pdf/2608.14093v1)
+- **Authors:** Zihong He, Chen Liang, Hai-Ning Liang
+- **Published:** 2026-08-14
+- **Categories:** cs.HC
+- **Summary:** Much existing research on coding agents organizes application development as an
+iterative loop of requirement interpretation, implementation, tool execution,
+evaluation, and repair. As these loops run longer, requirements may drift; users may
+lose awareness of the current state and rationale for changes; and generated
+applications may remain insufficiently grounded in target users' contexts and needs.
+Application engineering therefore requires a mechanism connecting owner intent, target-
+user experience, development changes, and responsibility for release. We present
+AppLooper, a human--coding-agent--virtual-user application engineering loop for
+accountable release. An application owner confirms frozen requirements, supplies
+feedback, inspects candidates, and retains final release authority. A development agent
+produces and revises versioned candidates. A virtual-user agent cohort executes
+interface scenarios grounded in target users and contexts of use. Besides, an owner-
+intent simulation agent retests only requirements, constraints, and feedback explicitly
+confirmed by the owner, abstaining when evidence is insufficient. A testing agent
+performs read-only developmental checks by reproducing reported failures, running
+existing regression tests, and exercising the current candidate through its browser
+interface. The orchestration layer groups the resulting findings and routes them into
+development revision, targeted retesting, and owner inspection. AppLooper binds
+requirements, feedback sources, interface targets, development changes, retesting
+outcomes, owner interactions, and release decisions to specific versions. It thereby
+extends sustained coding-agent iteration into a traceable and reviewable lifecycle in
+which humans retain final responsibility for release. Source code is available at
+https://github.com/ZihongHe/applooper.
+
