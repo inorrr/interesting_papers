@@ -2130,3 +2130,21 @@ extends sustained coding-agent iteration into a traceable and reviewable lifecyc
 which humans retain final responsibility for release. Source code is available at
 https://github.com/ZihongHe/applooper.
 
+### 2026-08-18 - Pluralistic Human-Robot Interaction: Designing for Robot Interaction with Diverse Communities
+
+- **arXiv:** [2608.16049v1](http://arxiv.org/abs/2608.16049v1)
+- **PDF:** [2608.16049v1.pdf](https://arxiv.org/pdf/2608.16049v1)
+- **Authors:** Raj Korpan
+- **Published:** 2026-08-17
+- **Categories:** cs.HC, cs.CY, cs.RO
+- **Summary:** Social robots are being developed for homes, schools, and other environments where they
+will interact with diverse users. While Human-Robot Interaction (HRI) research often
+emphasizes natural communication, engagement, personalization, and task success, these
+goals do not fully address the social complexity of real-world deployment. This paper
+proposes \emph{Pluralistic HRI}, a framework for designing social robots that treat
+human diversity as a foundational design concern. The framework brings together
+pluralism, civic dialogue, perspective-taking, empathy, intercultural competence,
+cultural humility, and moral imagination to guide inclusive, adaptive, and ethically
+grounded interaction. We outline how pluralistic HRI can inform design, evaluation, and
+deployment in diverse human communities.
+
