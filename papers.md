@@ -2173,3 +2173,31 @@ progresses, tensions become less visible as user participation diminishes. Our f
 highlight the need for dynamic designs that balance safety and autonomy in AI-supported
 care.
 
+### 2026-08-20 - ComponentBench: Diagnosing Component-Level Failures in Computer-Use Agents
+
+- **arXiv:** [2608.18307v1](http://arxiv.org/abs/2608.18307v1)
+- **PDF:** [2608.18307v1.pdf](https://arxiv.org/pdf/2608.18307v1)
+- **Authors:** Tianchen Guan, Xinlei Lin, Royce Cheng-Yue, Xiangjun Wang, Shuyan Zhou
+- **Published:** 2026-08-18
+- **Categories:** cs.AI, cs.CL, cs.HC
+- **Summary:** Current evaluation of computer-use agents is split between long-horizon workflow
+benchmarks and atomic GUI-grounding tests. This leaves an under-instrumented middle
+layer: realistic component-centered interactions (e.g., toggle a button set) that are
+short enough to diagnose and rich enough to capture the burdens of modern interfaces. We
+present ComponentBench, a benchmark and diagnostic pipeline for component-level
+evaluation of computer-use agents on modern web UIs. ComponentBench is organized around
+a library-agnostic ontology of 97 canonical UI components instantiated as 2,910
+programmatically verified tasks across widely used component libraries, paired with
+cleaned human reference trajectories that enable evaluation of both task success and
+interaction efficiency. Beyond task collection, we introduce a scalable pipeline for
+auditing realized structural difficulty after implementation and synthesizing structured
+failure analyses across tasks and component families. Evaluating seven models --
+GPT-5.4, Gemini 3 Flash, GPT-5.4 mini, GPT-5 mini, Gemini 3.1 Flash-Lite, Qwen3-VL-235B,
+and UI-TARS-1.5-7B -- across four observation and action spaces, we show that these
+design choices critically impact performance. Within a single shared harness, changing
+only the observation and action space shifts task success by more than 30% for the same
+model: GPT-5 mini falls from 83.1% with accessibility-tree observations to 48.9% with
+coordinate-only Pixel control. Moreover, even the fastest configuration takes 3.7x as
+long as the matched human reference, and spatial manipulations that are trivial for
+humans continue to challenge current agents.
+
