@@ -2201,3 +2201,26 @@ coordinate-only Pixel control. Moreover, even the fastest configuration takes 3.
 long as the matched human reference, and spatial manipulations that are trivial for
 humans continue to challenge current agents.
 
+### 2026-08-21 - Cyber-Physical Systems for Accessibility and Ability Augmentation: Bridging Diverse Communities
+
+- **arXiv:** [2608.19422v1](http://arxiv.org/abs/2608.19422v1)
+- **PDF:** [2608.19422v1.pdf](https://arxiv.org/pdf/2608.19422v1)
+- **Authors:** Shuchang Xu, Riku Arakawa, Mina Huh, Nandi Zhang, Tianyu Zhang, Wazeer Zulfikar, et al.
+- **Published:** 2026-08-19
+- **Categories:** cs.HC
+- **Summary:** The powerful convergence of wearables, robotics, extended reality, and smart
+environments is expanding the design space for cyber-physical systems (CPS) that support
+and augment human abilities in daily life. By sensing real-world contexts, modeling user
+needs, and providing situated assistance, these systems can improve accessibility for
+people with disabilities while enhancing broader human abilities such as perception,
+memory, learning, and mobility. However, realizing this potential requires addressing
+key challenges in context sensing, user modeling, adaptive interaction, privacy, and
+evaluation to ensure that CPS are reliable and effective in real-world contexts. This
+workshop will bring together researchers and practitioners across HCI, AI, wearables,
+robotics, XR, smart environments, accessibility, and ability augmentation to examine
+shared strategies and challenges for designing accessibility- and ability-centered CPS.
+Through panel discussions, interactive demos, and mixed-group design activities,
+participants will identify recurring design principles, technical challenges, and future
+directions for CPS that support and augment human abilities in real-world settings. For
+details, please visit: https://cps4all.github.io.
+
