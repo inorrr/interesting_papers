@@ -2276,3 +2276,33 @@ practical activities. Preliminary findings suggest that human-mediated AI guidan
 support context-sensitive family preparedness while preserving parents' responsibility
 for interpreting, adapting, and communicating AI-generated information.
 
+### 2026-08-24 - From Search Agents to Dissemination Interfaces: Understanding Human Trust in Health Information from Conversational Search
+
+- **arXiv:** [2608.21177v1](http://arxiv.org/abs/2608.21177v1)
+- **PDF:** [2608.21177v1.pdf](https://arxiv.org/pdf/2608.21177v1)
+- **Authors:** Xin Sun, Rongjun Ma, Xiaochang Zhao, Janne Lindqvist, Jan de Wit, Zhuying Li, et al.
+- **Published:** 2026-08-21
+- **Categories:** cs.HC
+- **Summary:** Large Language Models (LLMs) deployed through Conversational User Interfaces (CUIs) are
+transforming health information-seeking by offering immediate, interactive experiences
+compared to traditional search engines like Google. However, how trust is influenced by
+both the types of search agents and the interface used to disseminate the information
+remains underexplored. This research integrates two mixed-methods studies (lab sessions
+and interviews) to comprehensively explore trust perceptions in health information
+across different search agents and dissemination interfaces. In Study 1 (N=21), we
+investigated trust in health information sourced from ChatGPT and Google across three
+types of health-related search tasks. Results showed significantly higher trust in
+health information from ChatGPT, highlighting the promise of LLM-powered conversational
+search. Building on this, Study 2 (N=20) extended the investigation to explore how the
+dissemination interface influences trust in LLM-sourced health information by comparing
+three interfaces: text-based, speech-based, and embodied, all sourcing from the same
+LLM. Findings revealed significant trust variations across the dissemination interfaces.
+Interviews from both studies revealed key factors influencing trust in LLM-powered
+conversational search, including source credibility, participants' search autonomy, and
+prior knowledge as well as the interaction style and modality. Our findings highlight
+the potential of LLM-powered conversational search to transform health information-
+seeking, underscoring the interplay between the credible search agents and the
+thoughtfully designed dissemination interfaces in shaping trust. These insights are
+crucial for developing effective, trustworthy LLM-powered health tools to enhance the
+health information-seeking experience.
+
