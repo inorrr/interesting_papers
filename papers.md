@@ -2389,3 +2389,31 @@ inaccurate concept detection may undermine users' trust in the model. Overall, t
 provides practical guidance for the deployment of CBMs as effective decision-support
 tools.
 
+### 2026-08-28 - EmoSay: Artificial Intelligence-Driven Text-to-Emotional-Speech System for Affective Communication in Extended Reality
+
+- **arXiv:** [2608.26566v1](http://arxiv.org/abs/2608.26566v1)
+- **PDF:** [2608.26566v1.pdf](https://arxiv.org/pdf/2608.26566v1)
+- **Authors:** Sikiru Ademola Adewale, Sunday D. Ubur, Nikitha Donekal Chandrashekar, Onyeka Emebo, Denis Gračanin
+- **Published:** 2026-08-27
+- **Categories:** cs.HC
+- **Summary:** While contemporary neural text-to-speech (TTS) systems have achieved high levels of
+intelligibility, they frequently lack the emotional nuance required for authentic
+affective communication. This limitation is particularly critical in Extended Reality
+(XR), where the absence of emotionally expressive audio can diminish user presence and
+spatial immersion. We present EmoSay, an Artificial Intelligence-driven Text-to-
+Emotional-Speech (TTES) system designed to bridge the semantic-affective gap in
+immersive environments. EmoSay modulates a neural synthesis pipeline using discrete
+emotional prompts, delivering the output through a Unity-based interface featuring high-
+fidelity spatialized audio. The system was evaluated through a comprehensive user study
+focusing on perception, engagement, and the subjective sense of empathy. Our results
+demonstrate that EmoSay significantly enhances the immersive experience, achieving a
+System Usability Scale (SUS) score of 74.76, indicating strong usability and seamless
+integration within the XR workflow. Subjective assessments reveal a high degree of
+perceived naturalness and a strong positive correlation between emotional expressiveness
+and user engagement. Regression analysis identifies vocal naturalness as the strongest
+of the tested predictors of user satisfaction, suggesting that EmoSay's affective
+prosody helps meet the heightened expectations for realism in immersive settings. This
+work contributes a scalable, affect-aware framework for inclusive XR design and
+demonstrates the role synthetic emotion can play in fostering human-computer rapport
+through voice-first interaction.
+
