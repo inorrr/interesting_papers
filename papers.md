@@ -2417,3 +2417,25 @@ work contributes a scalable, affect-aware framework for inclusive XR design and
 demonstrates the role synthetic emotion can play in fostering human-computer rapport
 through voice-first interaction.
 
+### 2026-08-29 - Beyond Harassment: Exploring the Harm Experienced by People with Disabilities in Social Virtual Reality
+
+- **arXiv:** [2608.27390v1](http://arxiv.org/abs/2608.27390v1)
+- **PDF:** [2608.27390v1.pdf](https://arxiv.org/pdf/2608.27390v1)
+- **Authors:** Xinran Adeline Li, Kexin Zhang, Yuhang Zhao, Yaxing Yao
+- **Published:** 2026-08-27
+- **Categories:** cs.HC
+- **Summary:** People with disabilities (PWD) are increasingly engaging in social virtual reality (VR)
+platforms, where immersive and embodied interactions can intensify negative experiences.
+While prior work has examined harassment in VR, little is known about the harms
+experienced by PWD and the perceived severity associated with different harassment and
+disability types. Unlike harassment, which represents behaviors, harm is more critical
+to designing effective protections, as it reflects the consequences and impact; the
+realism of VR and the vulnerability resulting from disability identity can further
+amplify such impact. To characterize and model harms for PWD, we conducted a literature
+review, followed by an online survey with 67 PWD to understand participants' harassment
+experiences and resulting harms in social VR. We identified 19 types of harm in 5
+categories, and reported the severity perception of each type of harm. Finally, we
+analyzed our results from the critical disability theory perspective, summarized the
+uniqueness of harm in social VR, and discussed design implications for specialized
+safety mechanisms that mitigate harm for PWD.
+
