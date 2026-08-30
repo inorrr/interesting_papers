@@ -2439,3 +2439,28 @@ analyzed our results from the critical disability theory perspective, summarized
 uniqueness of harm in social VR, and discussed design implications for specialized
 safety mechanisms that mitigate harm for PWD.
 
+### 2026-08-30 - Comparative Evaluation of 3D Reconstruction Methods for Immersive Visualization of Laboratory Objects
+
+- **arXiv:** [2608.27301v1](http://arxiv.org/abs/2608.27301v1)
+- **PDF:** [2608.27301v1.pdf](https://arxiv.org/pdf/2608.27301v1)
+- **Authors:** Brian De La Cruz, Aaron Y. Zhao, Maitrey Gramopadhye, Sawyer J. Lazar, Xianming Tan, Daniel Szafir, et al.
+- **Published:** 2026-08-27
+- **Categories:** cs.GR, cs.CV, cs.HC
+- **Summary:** In this study, we examined whether current 3D reconstruction methods can support the
+creation of realistic holographic representations of laboratory objects for educational
+use. In this regard, we compared four approaches: photogrammetry, a neural radiance
+field (NeRF)-based method, Gaussian splatting, and LiDAR. These methods were used to
+generate holographic models of common laboratory items and their fidelity was evaluated
+by graduate students. Participants assessed the models for shape, color, texture, and
+visual defects using a repeated-measures design. Across objects, the NeRF-based method
+produced the most consistently high-fidelity representations, particularly for
+transparent, reflective, or low-texture items that were difficult to capture with other
+approaches. Shape and color were generally reproduced more successfully than texture,
+suggesting that some visual properties remain more challenging to represent accurately
+in educational holograms. Beyond identifying the strengths and limitations of each
+reconstruction method, the study demonstrates a practical workflow for creating
+immersive learning objects that may support pre-laboratory preparation, spatial
+reasoning, and student engagement in AR/MR-based educational environments. These
+findings offer design-relevant insights for educators and researchers developing
+immersive digital learning experiences.
+
