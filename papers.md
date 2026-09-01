@@ -2495,3 +2495,26 @@ awareness about the topic. By exposing the risks and mechanisms of these pattern
 research seeks to promote awareness among users and designers towards ethical interface
 design practices.
 
+### 2026-09-01 - User Experience in Human-Machine Interaction: Insights from Field Studies in Autonomous Mobility
+
+- **arXiv:** [2608.30526v1](http://arxiv.org/abs/2608.30526v1)
+- **PDF:** [2608.30526v1.pdf](https://arxiv.org/pdf/2608.30526v1)
+- **Authors:** Helen Schneider, Svetlana Pavlitska, J. Marius Zöllner
+- **Published:** 2026-08-31
+- **Categories:** cs.HC
+- **Summary:** Autonomous vehicles (AVs) promise safer, cleaner, and more inclusive mobility, yet
+large-scale adoption is hindered by user acceptance rather than by technical challenges.
+Prior studies on acceptance and user experience largely rely on surveys, simulators or
+Wizard-of-Oz setups, often over-representing technologically enthusiastic participants
+and focusing on drivers instead of passengers. We address this gap with real-world field
+studies with AVs in real traffic, totaling 144 participants. Using multi-modal sensing,
+we evaluated EGG, heartbeat, breathing, camera and voice signals for affect inference in
+combination with vehicle data. Our results show that breathing, camera and voice
+measurements are reliable and pratical in naturalistic passenger contexts. We further
+contribute a validated study protocol, a self-assessment app for real-time assessment
+during human-machine interaction, and a tailored questionnaire to capture participant
+attitudes towards AVs. By grounding UX evaluation in real-world contexts, this work lays
+a foundation for user-centered design of autonomous mobility systems and robotics in
+general. Our work bridges the gap between affective computing and technical
+implementation of autonomous vehicles.
+
