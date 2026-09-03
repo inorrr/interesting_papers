@@ -2548,3 +2548,29 @@ Transparency, Point-of-Use Guidance, and Phased Feature Disclosure. These heuris
 help developers manage complexity, provide contextual support, and improve accessibility
 for multidisciplinary research teams.
 
+### 2026-09-03 - Better Situational Awareness in AR-HRC? A Comparative Study of Augmented Reality and Mobile Interfaces for Human-Robot Collaboration
+
+- **arXiv:** [2609.01461v1](http://arxiv.org/abs/2609.01461v1)
+- **PDF:** [2609.01461v1.pdf](https://arxiv.org/pdf/2609.01461v1)
+- **Authors:** Zhehan Qu, Christian Fronk, Jaewoong Jeong, Pavel Manakhov, Maria Gorlatova
+- **Published:** 2026-09-01
+- **Categories:** cs.HC
+- **Summary:** Augmented reality (AR) facilitates human-robot collaboration (HRC) by enabling in-situ
+spatial visualizations of the robot and the joint task. However, in safety-critical HRC
+scenarios such as search-and-rescue, spatial visualizations may also reshape visual
+attention in ways that create competing situational awareness (SA) demands, potentially
+introducing new safety concerns. While prior AR-HRC work suggests potential benefits for
+SA, rigorous evaluations that jointly consider robot and environmental awareness across
+multiple levels of SA remain limited. We address this through a between-subjects study
+with 30 participants comparing custom AR and mobile interfaces presenting equivalent
+information, measuring robot and environmental SA with the Situation Awareness Global
+Assessment Technique (SAGAT) across all three levels, with concurrent eye tracking to
+identify the attentional mechanisms underlying any SA differences. Both interfaces
+achieved high usability; relative to the mobile baseline, AR improved perception-level
+awareness of the robot but yielded no gains in higher-level robot awareness or in
+environmental awareness at any level. Gaze analysis explained this: AR freed attention
+from the map, but that attention was re-invested in the conformal visuals rather than
+the physical environment. Freeing the eyes from a screen is not the same as directing
+them to the world, a distinction AR interfaces for safety-critical HRC must design
+around.
+
