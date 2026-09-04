@@ -2574,3 +2574,28 @@ the physical environment. Freeing the eyes from a screen is not the same as dire
 them to the world, a distinction AR interfaces for safety-critical HRC must design
 around.
 
+### 2026-09-04 - ReRoom: Blending Virtual and Physical Contexts for In Situ Room Planning in Mixed Reality
+
+- **arXiv:** [2609.03596v1](http://arxiv.org/abs/2609.03596v1)
+- **PDF:** [2609.03596v1.pdf](https://arxiv.org/pdf/2609.03596v1)
+- **Authors:** Hongliang Yang, Yanjing Xu, Anhang Zhang, Hui Ye, Pengfei Xu
+- **Published:** 2026-09-03
+- **Categories:** cs.GR, cs.HC
+- **Summary:** Planning a real domestic space is an in situ authoring process: users evaluate candidate
+layouts at true scale, refine their intent, and carry accepted decisions into later
+iterations. Existing approaches either separate layout editing from the physical room or
+provide limited support for evaluating and refining whole-room proposals in situ. We
+present ReRoom, a mixed-reality system for in situ room-layout authoring. ReRoom
+presents a shared layout state through a virtual room proxy spatially registered to the
+target room, allowing interaction and layout generation to remain grounded in the
+physical context. Users refine the current proposal through direct manipulation or
+language and preserve accepted placements, allowing each generated update to continue
+the same evolving design. To balance layout quality with generation efficiency, ReRoom
+uses a skill-guided layout agent whose room-layout design skill operationalizes three
+principles that we formulate by synthesizing established interior-design guidance for
+real-room layout generation. The skill grounds these principles in a normalized
+representation of the scanned room and reusable geometric checks. Evaluations show that
+ReRoom produces high-quality layouts for non-rectangular rooms, while its in situ
+workflow improves the room-planning experience over an otherwise equivalent off-site VR
+workflow. Code will be released upon acceptance of the paper.
+
