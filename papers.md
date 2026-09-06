@@ -2621,3 +2621,34 @@ finds it reduces perceived cognitive workload by half (NASA-TLX = 2.7) at high p
 usability (SUS = 86.5), suggesting AI fatigue is not just a model-quality issue but an
 interaction-flow cost that interfaces can remove.
 
+### 2026-09-06 - Making Gender-Inclusive Practices Actionable: Evaluating a Research-Informed Computing Education Toolkit
+
+- **arXiv:** [2609.03936v1](http://arxiv.org/abs/2609.03936v1)
+- **PDF:** [2609.03936v1.pdf](https://arxiv.org/pdf/2609.03936v1)
+- **Authors:** Alina Berry, Susan McKeever, Brenda Murphy, Sarah Jane Delany
+- **Published:** 2026-09-03
+- **Categories:** cs.CY, cs.HC
+- **Summary:** The persistent gender imbalance in computing remains a global concern, and universities
+offer a key part of the pipeline to address it. Although research has identified
+practices that support under-represented student groups, translating this evidence into
+actionable guidance remains challenging. This paper first presents a novel web- based
+toolkit (TechMate) designed to address this gap by helping computing educators implement
+gender- inclusive initiatives through practical research-informed guidance. The toolkit
+defines over 25 actions, ranging from operational to strategic, and provides case
+studies and implementation resources. Second, this work reports on the evaluation of
+TechMate, capturing educators first impressions of its usefulness and usability through
+authentic tasks, and eliciting unanticipated insights about structural barriers to
+gender-inclusive practice in computing higher education. Eighteen computing educators of
+varying seniority from eight universities in Ireland assessed the toolkit using nine
+research-driven attributes: four usefulness measures (novelty, relevance,
+trustworthiness, actionability) and five usability measures (effectiveness, aesthetics,
+navigation, terminology, user satisfaction). Data was analysed using mixed methods:
+deductive coding, quantitative sentiment scoring, and inductive thematic analysis.
+Educators rated TechMate highly for user satisfaction and praised its novelty and
+trustworthiness, with over 60% of participants reporting positively on all attributes,
+suggesting that research -informed tools can be designed for real-world use. Thematic
+analysis highlighted other challenges, including women students isolation, institutional
+resistance to change, and the scarcity of women role models, while also surfacing
+proposed solutions such as leveraging student ambassadors and fostering supportive
+learning environments.
+
