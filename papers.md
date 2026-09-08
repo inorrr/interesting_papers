@@ -2677,3 +2677,26 @@ Furthermore, we evaluate the framework's expressiveness and efficiency through e
 case studies with HCI and VA researchers, demonstrating how MIVAIS effectively lowers
 the barrier to prototyping and evaluating intelligent, co-adaptive interfaces.
 
+### 2026-09-08 - PlanePivoting: Exploration and Optimization of Gaze-Mouse Cursor Alignment for Spatial Object Translation
+
+- **arXiv:** [2609.03665v1](http://arxiv.org/abs/2609.03665v1)
+- **PDF:** [2609.03665v1.pdf](https://arxiv.org/pdf/2609.03665v1)
+- **Authors:** Jinwook Kim, Sangmin Park, Jihyeon Lee, Sang Ho Yoon, Jeongmi Lee
+- **Published:** 2026-09-03
+- **Categories:** cs.HC
+- **Summary:** As XR matures into a ubiquitous computing platform, the disconnect between 2D and 3D
+input modalities remains a critical barrier to seamless workflow. Frequent transitions
+between the mouse for 2D precision and hand gestures for 3D manipulation induce
+significant physical fatigue and cognitive load. To address this, we introduce
+PlanePivoting, a multimodal interaction technique that extends standard mouse input into
+3D space by leveraging gaze-mouse alignment. This technique dynamically modulates the
+translation plane based on the spatial overlap between the gaze and mouse cursor,
+eliminating the need for physical input modality switching. To systematically explore
+the foundational design space of gaze-mouse coordination and optimize key variables, we
+conducted a user study comparing PlanePivoting with a standard 3D Gizmo interface across
+two translation mapping profiles and two gaze cursor apertures. Results demonstrate that
+PlanePivoting outperforms the Gizmo on efficiency metrics while maintaining comparable
+precision and yielding higher subjective satisfaction. This study demonstrates the
+potential of gaze-mouse alignment for efficient spatial manipulation between 2D and 3D
+environments.
+
