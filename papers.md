@@ -2700,3 +2700,32 @@ precision and yielding higher subjective satisfaction. This study demonstrates t
 potential of gaze-mouse alignment for efficient spatial manipulation between 2D and 3D
 environments.
 
+### 2026-09-10 - Designing for Healthy, Affordable, and Sustainable Human-HVAC Interactions for Heating in Smart Homes
+
+- **arXiv:** [2609.07936v1](http://arxiv.org/abs/2609.07936v1)
+- **PDF:** [2609.07936v1.pdf](https://arxiv.org/pdf/2609.07936v1)
+- **Authors:** Delong Korus-Du
+- **Published:** 2026-09-07
+- **Categories:** cs.HC, cs.CY, cs.MM, cs.SI
+- **Summary:** As geopolitical tensions, energy crises, and energy-intensive AI infrastructure
+intensify concerns about demand, affordability, and resilience, communities increasingly
+encounter these challenges through everyday energy practices, particularly winter
+heating. Against this background, the doctoral exposé, "Designing Human-HVAC Interaction
+for Healthy, Affordable, and Sustainable Heating in Smart Homes", is structured around
+four chapters. First, a multidisciplinary literature review defines and positions Human-
+HVAC Interaction, focusing on heating in smart homes. Second, longitudinal living lab
+studies with design probes examine everyday heating practices, thermal comfort, and
+indoor environmental quality, with attention to thermally vulnerable groups such as
+older adults, pregnant or menopausal women, parents with infants, and people affected by
+allergies or airborne pollutants. Third, a VR-based smart home demonstrator explores how
+heating and IEQ scenarios can be prototyped and evaluated as a virtual living lab, while
+critically examining the limits of representing bodily indoor climate conditions through
+VR. Fourth, follow-up design studies examine how VR-based insights can be translated
+into physical-digital prototypes that combine digital fabrication, distributed
+environmental sensing, and diverse interface forms for critical heating and IEQ
+contexts. The thesis aims to contribute a design-oriented understanding of Human-HVAC
+Interaction by building from a multidisciplinary literature review to empirical living
+lab and co-design studies, VR-based prototyping, and physical system development,
+examining how smart home users make sense of, negotiate, and respond to smart HVAC
+system.
+
