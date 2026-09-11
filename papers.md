@@ -2729,3 +2729,26 @@ lab and co-design studies, VR-based prototyping, and physical system development
 examining how smart home users make sense of, negotiate, and respond to smart HVAC
 system.
 
+### 2026-09-11 - AI Soccer Analyst: Stage-Aware and Verifiable Human-AI Collaboration for Soccer Data Analysis
+
+- **arXiv:** [2609.11224v1](http://arxiv.org/abs/2609.11224v1)
+- **PDF:** [2609.11224v1.pdf](https://arxiv.org/pdf/2609.11224v1)
+- **Authors:** Calvin Yeung, Keisuke Fujii
+- **Published:** 2026-09-10
+- **Categories:** cs.HC, cs.AI
+- **Summary:** Sports data analysts translate domain questions into insights by combining computation
+with sport-specific domain expertise. Large language models ease programming, but
+prompt-to-report workflows may obscure decisions and evidence. We present AI Soccer
+Analyst, a mixed-initiative system with revisable stages: Data Understanding, Problem
+Definition, Structured Planning, Execution, Evidence-Grounded Reporting, and Interaction
+and Refinement. A formative study with five analysts first informed design goals for
+automation, verifiability, human control, and accessibility. Subsequently, a task-based
+evaluation with 16 participants combined system logs, retained artifacts, ratings, and
+open responses; 33 of 48 tasks met the operational completion criteria. Exploratory
+tests supported favorable participant perceptions of completed-task output quality, task
+achievement, reliability, and verifiability after Holm correction. Interaction records
+showed domain knowledge emerging through clarification, planning, and refinement. These
+findings position stage-aware human-AI collaboration as a practical approach for
+producing inspectable, revisable, and verifiable analyses while retaining domain-expert
+involvement in consequential decisions.
+
