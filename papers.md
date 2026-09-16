@@ -2752,3 +2752,34 @@ findings position stage-aware human-AI collaboration as a practical approach for
 producing inspectable, revisable, and verifiable analyses while retaining domain-expert
 involvement in consequential decisions.
 
+### 2026-09-16 - Towards Scalable Measurement of Durable Skills
+
+- **arXiv:** [2609.15864v1](http://arxiv.org/abs/2609.15864v1)
+- **PDF:** [2609.15864v1.pdf](https://arxiv.org/pdf/2609.15864v1)
+- **Authors:** Amir Globerson, Amy Keeling, Anisha Choudhury, Anna Iurchenko, Aviad Segal, Avinatan Hassidim, et al.
+- **Published:** 2026-09-14
+- **Categories:** cs.HC
+- **Summary:** Durable skills, such as collaboration, creativity and critical thinking, are
+instrumental to success in the modern workforce. Yet, measuring these skills remains a
+persistent challenge. Moreover, because what is not measured is often not taught, these
+skills are often overlooked in mainstream educational curricula. Designing effective
+assessments for these skills necessitates balancing two often-conflicting requirements:
+ecological validity and psychometric rigor. On the one hand, the assessment environment
+should emulate natural real-world human interaction between humans. On the other hand,
+it should be scalable, controllable and reproducible. Here we argue that LLMs can be
+used to better capture both of these aims. Concretely, we develop a framework where the
+subject converses with AI teammates in a way that resembles human-human interaction for
+authenticity, while also offering the psychometric control required for informative and
+robust assessment. Importantly, the AI participants not only act as teammates but also,
+in an "Executive LLM" setup, steer the conversation towards eliciting a high density of
+observable evidence for skill proficiency. We complement this with an AI evaluator that
+can be used to measure skill proficiency in such interactions. We evaluate our
+assessment protocol based on transcripts of interactions of human participants with our
+AI framework, for multiple durable skills. For the skill of creativity, we further
+demonstrate the efficacy of an autorater for evaluating complex tasks performed by real
+students. Our analysis shows that the use of the Executive LLM significantly increases
+elicited evidence and that LLM-automated scoring of conversations largely agrees with
+that of expert annotators. This research demonstrates the utility of orchestrated LLMs
+approaches for measuring complex social and cognitive constructs in a scalable and
+controllable manner.
+
