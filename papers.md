@@ -2840,3 +2840,31 @@ difficult. These findings establish environmental interfaces as a distinct inter
 modality and point to a broader transition from designing interfaces for operating
 intelligent systems to designing environments for inhabiting them.
 
+### 2026-09-30 - A Task-Driven Framework for Multiscale Ocean Flow Dynamics through Integrated Simulation and Visualization
+
+- **arXiv:** [2609.37964v1](http://arxiv.org/abs/2609.37964v1)
+- **PDF:** [2609.37964v1.pdf](https://arxiv.org/pdf/2609.37964v1)
+- **Authors:** James Kress, Jithendra Nadimpalli, Shehzad Afzal, Sohaib Ghani, Ibrahim Hoteit
+- **Published:** 2026-09-29
+- **Categories:** cs.HC
+- **Summary:** Internal waves are large-amplitude gravity waves that occur below the ocean surface and
+propagate along interfaces separating water layers of different densities. Understanding
+their generation, propagation, and evolution is essential, as these waves play a vital
+role in the ocean system by contributing to nutrient transport, biological productivity,
+and the transfer of energy across the ocean and continental shelf. Domain scientists use
+high-resolution numerical ocean models, to study internal-wave dynamics and associated
+coastal and nearshore processes on hybrid computational grids. These models generate
+large-scale, three-dimensional spatiotemporal datasets that capture internal wave flow
+behavior and interactions with multiple ocean variables. These datasets are generally
+analyzed using command-line tools with limited interactivity. To address these
+challenges, we in collaboration with domain scientists designed a task-driven
+visualization methodology for analyzing multiscale, multivariate flow data on hybrid
+grids. The framework incorporates a hybrid-grid volumetric reconstruction method,
+enabling continuous 3D analysis and a coordinated multi-view design that supports
+interactive exploration of complex flow structures. An insight-based evaluation with
+domain experts demonstrates that the system enables the identification of previously
+difficult-to-observe phenomena, including transverse wave propagation, energy transport
+pathways, and shoaling-driven mixing. Beyond the application domain, our contributions
+provide generalizable techniques and design principles for visual analysis of
+multiscale, multivariate flow data on irregular grids.
+
