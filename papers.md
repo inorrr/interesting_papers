@@ -2868,3 +2868,32 @@ pathways, and shoaling-driven mixing. Beyond the application domain, our contrib
 provide generalizable techniques and design principles for visual analysis of
 multiscale, multivariate flow data on irregular grids.
 
+### 2026-10-01 - Conversational Capture: A Trajectory-Level Framework for Evaluating Generative Engine Optimization in Multi-turn Human-Agent Interaction
+
+- **arXiv:** [2609.40069v1](http://arxiv.org/abs/2609.40069v1)
+- **PDF:** [2609.40069v1.pdf](https://arxiv.org/pdf/2609.40069v1)
+- **Authors:** Junwei Yu, Jieyu Zhou, Mufeng Yang, Yepeng Ding, Hiroyuki Sato
+- **Published:** 2026-09-30
+- **Categories:** cs.HC, cs.IR
+- **Summary:** Generative Engine Optimization (GEO) shapes content to increase its likelihood of being
+cited by answer engines built on retrieval-augmented large language models. GEO is
+typically evaluated as a single-turn property: for a fixed query, an evaluator measures
+a source's visibility in one answer. We argue that the single answer is an inadequate
+unit of analysis. Human-agent information seeking forms a closed loop: the agent's
+answer changes the user's beliefs and therefore the next question, which in turn
+determines what the agent retrieves. We introduce conversational capture, a phenomenon
+in which a source cited early becomes substantially more likely to be cited again.
+Capture operates through a machine-side channel, history-conditioned retrieval, and a
+human-side channel, follow-up questions directed toward the captured source. We
+formalize the interaction as a two-layer closed-loop system and derive trajectory-level
+constructs: cumulative conversational visibility; a direct/feedback decomposition of
+trajectory gain; a nested split of the feedback term into machine-side and human-side
+channels; a capture coefficient; a compounding ratio; and a misranking diagnostic. Using
+reinforcement-process (Pólya-urn) theory, we prove that the feedback term is zero under
+single-turn evaluation and that GEO's cumulative payoff grows superlinearly with
+conversation length while capture develops. A model-derived illustration shows that the
+feedback term can exceed the direct term, the compounding ratio exceeds two within ten
+turns, and single-turn and trajectory rankings agree only weakly (Kendall's $τ= 0.4$).
+We connect the human channel to information foraging, trust calibration, and Bayesian
+persuasion, and discuss design implications for answer engines.
+
