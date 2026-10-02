@@ -2897,3 +2897,27 @@ turns, and single-turn and trajectory rankings agree only weakly (Kendall's $τ=
 We connect the human channel to information foraging, trust calibration, and Bayesian
 persuasion, and discuss design implications for answer engines.
 
+### 2026-10-02 - SPHERE: Adaptive VR Indoor Scene Generation via LLM-Enhanced Spatial Preference Learning and Human-in-the-Loop RL
+
+- **arXiv:** [2610.02023v1](http://arxiv.org/abs/2610.02023v1)
+- **PDF:** [2610.02023v1.pdf](https://arxiv.org/pdf/2610.02023v1)
+- **Authors:** Hyeonmin Lee, Zheng Wei, Kyungmin Kwon, Jumin Seo, Jiwon Park, Hayoung Oh
+- **Published:** 2026-10-01
+- **Categories:** cs.AI, cs.HC
+- **Summary:** While Large Language Models (LLMs) advance 3D indoor scene synthesis, current pipelines
+fail to retain user-specific preferences across sessions, making immersive authoring a
+repetitive and physically fatiguing process. We present SPHERE, an adaptive VR
+generation framework that transforms isolated synthesis into continuous human-AI co-
+creation. SPHERE extracts persistent spatial preferences from natural multimodal
+interactions (speech and controller edits). To ensure geometric resilience against
+spatial distortions, it abstracts these raw edits into hierarchical constraints modeling
+both local functional and global topological contexts. Furthermore, a human-in-the-loop
+reinforcement learning mechanism dynamically updates retrieval policies based on the
+user's final edited scenes. A mixed-design user study ($N=42$) and an offline ablation
+demonstrate that SPHERE significantly reduces corrective edits and physical demand,
+preventing bias toward shallow object-level traits to yield geometrically resilient,
+profile-aligned layouts. Ultimately, SPHERE demonstrates how capturing demonstrated
+spatial logic enables controlled spatial adaptation, establishing a reliable, governed
+human-AI collaboration framework for immersive authoring. Project page and source code
+will be available at: https://github.com/hyeonmin11/SPHERE
+
