@@ -2921,3 +2921,24 @@ spatial logic enables controlled spatial adaptation, establishing a reliable, go
 human-AI collaboration framework for immersive authoring. Project page and source code
 will be available at: https://github.com/hyeonmin11/SPHERE
 
+### 2026-10-04 - LeanSide: A Formally Verified Co-Reasoning System for Natural-language Proofs
+
+- **arXiv:** [2610.00760v1](http://arxiv.org/abs/2610.00760v1)
+- **PDF:** [2610.00760v1.pdf](https://arxiv.org/pdf/2610.00760v1)
+- **Authors:** Chenjun Guo, Manooshree Patel, Arnav Mehta, Krishiv Kothari, Thomas Lu, Niels Voss, et al.
+- **Published:** 2026-09-30
+- **Categories:** cs.HC
+- **Summary:** Large language models are increasingly used as collaborators on deductive-reasoning
+tasks, but their outputs can hallucinate or pull users away from intended reasoning.
+Formal proof assistants provide machine-checked verification, but have a steep learning
+curve and require more granular reasoning than human written proofs. We explore an
+interface that combines these strengths, allowing users to write and revise free-form
+natural-language proofs while a verified backend checks their reasoning and returns
+feedback at the user's granularity. We study this interface in the context of
+undergraduate mathematics education by developing LeanSide, a formally verified co-
+reasoning system, which auto-formalizes student reasoning into Lean and informalizes
+verifier output into understandable feedback. We conducted user studies through
+classroom deployment and analyzed which system properties helped students make progress
+and which caused them to get stuck. We use these findings to derive design implications
+for using a formally verified backend in human-AI co-reasoning systems.
+
