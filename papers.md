@@ -2942,3 +2942,30 @@ classroom deployment and analyzed which system properties helped students make p
 and which caused them to get stuck. We use these findings to derive design implications
 for using a formally verified backend in human-AI co-reasoning systems.
 
+### 2026-10-06 - DataWeave: Deploying Human-LLM Analytics for Exploratory Structured Data Analysis
+
+- **arXiv:** [2610.02679v1](http://arxiv.org/abs/2610.02679v1)
+- **PDF:** [2610.02679v1.pdf](https://arxiv.org/pdf/2610.02679v1)
+- **Authors:** Raquib Bin Yousuf, Harith Laxman, Vitaliy Shkremetko, Eunice Son, Shambhavi Verma, Brian O'Leary, et al.
+- **Published:** 2026-10-02
+- **Categories:** cs.AI, cs.HC
+- **Summary:** Data journalism, the practice of using data analysis to surface newsworthy stories,
+depends increasingly on the ability of reporters and investigative journalists to
+uncover trends, disparities, and accountability narratives. In practice, exploring large
+structured datasets remains slow and brittle: journalists must navigate hundreds of
+variables across many datasets over years, understand data coding conventions, and write
+non-trivial analysis code while hypotheses evolve. Although LLMs are often touted as
+"ask in English, get SQL/answers," real newsroom workflows expose recurring failures,
+e.g., schema mismatches and drift, misread domain semantics and units, and silent
+assumptions. We present DataWeave, a system that addresses these needs by combining
+conversational interaction, schema grounding, analytical planning, and executable query
+generation to support exploratory analysis over structured data. Rather than treating
+LLMs as autonomous answer engines, DataWeave frames them as interactive partners whose
+outputs can be inspected, corrected, and steered as hypotheses shift. We present a case
+study with professional journalists using our system to analyze the U.S. Department of
+Education's Integrated Postsecondary Education Data System (IPEDS), a high-stakes public
+dataset with substantial domain semantics and frequent schema updates. We also report
+how deployment experience and iterative refinement shaped the current DataWeave
+architecture and its analytical workflow. Our findings distill design principles and
+deployment lessons for trustworthy human-LLM collaboration in structured data analysis.
+
