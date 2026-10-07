@@ -2969,3 +2969,22 @@ how deployment experience and iterative refinement shaped the current DataWeave
 architecture and its analytical workflow. Our findings distill design principles and
 deployment lessons for trustworthy human-LLM collaboration in structured data analysis.
 
+### 2026-10-07 - SPEAR: Five Principles for Interactive Human-Agent Alignment
+
+- **arXiv:** [2610.07204v1](http://arxiv.org/abs/2610.07204v1)
+- **PDF:** [2610.07204v1.pdf](https://arxiv.org/pdf/2610.07204v1)
+- **Authors:** Tao Long, Lydia B. Chilton
+- **Published:** 2026-10-05
+- **Categories:** cs.HC, cs.AI, cs.MA
+- **Summary:** Recent AI alignment work often frames alignment as a pre-deployment optimization
+problem: collect human feedback, learn preferences or principles, finetune the model,
+and deploy an aligned system. This framing has produced major progress, but it under-
+specifies what happens once AI systems act as agents on users' behalf in situated, long-
+term, and social contexts. This position paper reframes human-agent alignment as an
+ongoing interaction design problem. We propose SPEAR, five pillars of interactive
+alignment: Specification (how people express intent and establish shared understanding),
+Process (how agents decide when to act, ask, defer, or pause), Evaluation (how people
+judge whether agents succeeded), Adaptation (how agents adapt to users over repeated
+use), and Recalibration (how people adapt their trust, expectations, and behavior in
+response to agents).
+
