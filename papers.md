@@ -2988,3 +2988,33 @@ judge whether agents succeeded), Adaptation (how agents adapt to users over repe
 use), and Recalibration (how people adapt their trust, expectations, and behavior in
 response to agents).
 
+### 2026-10-08 - A Scoping Review and Experimental Study on Reinforcement Learning from Human Feedback for Human-Robot Collaboration
+
+- **arXiv:** [2610.09891v1](http://arxiv.org/abs/2610.09891v1)
+- **PDF:** [2610.09891v1.pdf](https://arxiv.org/pdf/2610.09891v1)
+- **Authors:** Alexandra Coroiu, Andrea Vogt, Viktor Werbilo, Andreas Poppele, Johann Christensen, Sven Hallerbach
+- **Published:** 2026-10-07
+- **Categories:** cs.HC, cs.AI, cs.RO
+- **Summary:** Human-Robot Collaboration (HRC) can facilitate mass customisation in Industry 4.0, with
+Reinforcement Learning from Human Feedback (RLHF) representing a promising approach for
+developing safe AI-based robots. Practical challenges remain regarding safety during AI
+development, human feedback quality, and bidirectional human-robot adaptation. We
+conducted a scoping review of RLHF in HRC systems, mapping methods that address these
+challenges. Following PRISMA guidelines, we screened 199 records and included 20 peer-
+reviewed publications (2020-2025) spanning multiple HRC domains. To our knowledge, this
+is the first review focused on the bidirectional, closed-loop design of RLHF. Our review
+found multiple feedback modalities enabling data collection in various feedback formats.
+Collected data can be integrated at different stages of AI training, resulting in a
+multi-step development process. Pilot experiments are commonly used to evaluate HRC
+systems based on both human and robot metrics. To empirically test a key gap identified
+in the review, we conducted a between-subjects VR experiment comparing system- and user-
+initiated feedback on robot proxemic behaviour for safe navigation. Using Bayesian
+models, we analysed the relation between the collected feedback and safety metrics:
+psychological safety (post-experiment questionnaire) and physical safety (inverse time-
+to-collision). Results show that user-initiated feedback captures perceived safety
+better than system-initiated feedback, indicating that feedback timing directly affects
+feedback quality. Our review and experiment findings show that RLHF relies on
+appropriate feedback methods to ensure AI safety in HRC, and future RLHF research should
+prioritise realistic HRC experiments evaluating the effects of feedback collection
+methods on relevant human and robot metrics.
+
