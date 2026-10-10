@@ -3018,3 +3018,25 @@ appropriate feedback methods to ensure AI safety in HRC, and future RLHF researc
 prioritise realistic HRC experiments evaluating the effects of feedback collection
 methods on relevant human and robot metrics.
 
+### 2026-10-10 - NeuroDivSim: An Interactive Tool for Model-Based Reflection on Cognitive Diversity in Interface Design
+
+- **arXiv:** [2610.11590v1](http://arxiv.org/abs/2610.11590v1)
+- **PDF:** [2610.11590v1.pdf](https://arxiv.org/pdf/2610.11590v1)
+- **Authors:** Eske Beckefeld, Henrik H. J. Detjen
+- **Published:** 2026-10-08
+- **Categories:** cs.HC
+- **Summary:** Recent approaches to simulated and synthetic users offer new ways to support design, but
+raise questions about how computational representations of users should contribute to
+design practice. We present NeuroDivSim, an interactive tool that explores simulation as
+an inspectable mechanism for reflecting on cognitive diversity during design and
+prototyping. Rather than using an LLM to act as a simulated user, NeuroDivSim uses
+generative AI to construct inspectable task, interface, and environment models from a
+usage scenario. After human review, these models are combined with explicit cognitive
+reference configurations and processed through deterministic simulation. This enables
+designers to hold a modeled usage situation constant while varying cognitive assumptions
+and tracing their consequences to interaction steps and rule-based design
+recommendations. We further report an exploratory pilot evaluation (N=10) that provided
+formative insights into how participants engaged with the workflow and informed
+subsequent refinements to the presentation of models, simulation results, and
+recommendations.
+
