@@ -3040,3 +3040,22 @@ formative insights into how participants engaged with the workflow and informed
 subsequent refinements to the presentation of models, simulation results, and
 recommendations.
 
+### 2026-10-11 - AI-Mediated Self: How HCI Defines and Relates to the Self
+
+- **arXiv:** [2610.10770v1](http://arxiv.org/abs/2610.10770v1)
+- **PDF:** [2610.10770v1.pdf](https://arxiv.org/pdf/2610.10770v1)
+- **Authors:** Jenny Xiyu Fu, Qian Yang, Malte Jung
+- **Published:** 2026-10-07
+- **Categories:** cs.HC, cs.AI
+- **Summary:** How might AI alter how we understand and experience the self? This scoping review
+analyzes 102 papers to examine how the self is defined in the field of human-computer
+interaction (HCI), how AI-self relationships are conceptualized, and what risks emerge
+when AI becomes entangled with selfhood. Our synthesis makes three contributions. First,
+we define AI-mediated self as a conceptual umbrella that connects dispersed work across
+education, workplace, health, and creative practices. Second, we consolidate six
+framings of the self with four domains of ethical risk-agency/autonomy,
+identity/authorship, relational capacity, and meaning-making-into a conceptual map that
+provides a reusable vocabulary across contexts. Third, we introduce the Inclusion of AI-
+Self framework, which situates AI-self relationships along a spectrum of proximity.
+Together, these contributions position selfhood as a central design space in HCI.
+
