@@ -3059,3 +3059,25 @@ provides a reusable vocabulary across contexts. Third, we introduce the Inclusio
 Self framework, which situates AI-self relationships along a spectrum of proximity.
 Together, these contributions position selfhood as a central design space in HCI.
 
+### 2026-10-12 - HoldLight: Making Indoor Climbing More Accessible for Blind and Low-Vision Climbers through Layered Route Preview and Real-Time Next-Hold Guidance
+
+- **arXiv:** [2610.13445v1](http://arxiv.org/abs/2610.13445v1)
+- **PDF:** [2610.13445v1.pdf](https://arxiv.org/pdf/2610.13445v1)
+- **Authors:** Chenyu Du, Junyan He, Jiafei Sun, Yue Li
+- **Published:** 2026-10-09
+- **Categories:** cs.HC
+- **Summary:** Indoor climbing creates access barriers for blind and low-vision (BLV) climbers because
+route understanding and in-climb next-hold localization are typically visually mediated
+and socially dependent. We present HoldLight, a workflow-centered accessibility system
+combining layered pre-climb route preview, concise real-time next-hold cueing, and
+explicit fallback under uncertainty. We grounded the design through formative inquiry
+with BLV climbers, refined the interaction via pilot testing, and conducted a controlled
+within-subjects evaluation comparing HoldLight with a controlled on-demand human-support
+condition derived from current support practices. Findings provide initial evidence that
+structured support can improve pre-climb route understanding, support recovery from
+next-hold uncertainty, and reduce immediate human re-entry for routine route-information
+clarification under controlled conditions. HoldLight contributes a bounded accessibility
+workflow, demonstrating where structured route-information is helpful, where explicit
+fallback is necessary, and how technical assistance can integrate with retained human
+safety oversight.
+
