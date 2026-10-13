@@ -3081,3 +3081,26 @@ workflow, demonstrating where structured route-information is helpful, where exp
 fallback is necessary, and how technical assistance can integrate with retained human
 safety oversight.
 
+### 2026-10-13 - Beyond the Monolithic Interface: A Research Agenda for Plural Conversational AI
+
+- **arXiv:** [2610.12878v1](http://arxiv.org/abs/2610.12878v1)
+- **PDF:** [2610.12878v1.pdf](https://arxiv.org/pdf/2610.12878v1)
+- **Authors:** Avijit Ghosh, Afifah Kashif, Isabelle Kohout, Zhenzhen Qi
+- **Published:** 2026-10-09
+- **Categories:** cs.HC, cs.CY
+- **Summary:** The current paradigm of artificial intelligence (AI) design elevates conversational
+chatbot interfaces, making them the default mode through which hundreds of millions of
+people interact with AI systems globally. This narrative review identifies three related
+harms produced by the single-voice chatbot interface, drawing on insights from
+literature in cognitive science, political studies, AI alignment, game design and human
+computer interaction. Firstly, cognitive offloading of user thinking, secondly,
+ideological narrowing of user beliefs, and thirdly, epistemic compression of cultural
+and value diversity. We then propose multi-persona interfaces, in which multiple
+personas are presented to the user simultaneously, as a cost-effective intervention that
+addresses all three harms at once. We ground this intervention in traditions the AI
+literature has largely overlooked, drawing on techniques from game design and
+participatory simulation, including the magic circle, role differentiation, and persona
+embodiment. We propose a taxonomy for the future design of multi-persona interfaces, and
+call for a research agenda that closes the gap between technical pluralistic alignment
+methods and empirical studies of human-AI interactions with pluralistic interfaces.
+
