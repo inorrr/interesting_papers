@@ -3104,3 +3104,31 @@ embodiment. We propose a taxonomy for the future design of multi-persona interfa
 call for a research agenda that closes the gap between technical pluralistic alignment
 methods and empirical studies of human-AI interactions with pluralistic interfaces.
 
+### 2026-10-14 - Communicating Uncertainty in AI-Supported Nurse Scheduling: Expert Co-Design and Evaluation of an Explainable AI Prototype
+
+- **arXiv:** [2610.18679v1](http://arxiv.org/abs/2610.18679v1)
+- **PDF:** [2610.18679v1.pdf](https://arxiv.org/pdf/2610.18679v1)
+- **Authors:** Alice Rollwagen, Emily Schiller, Anton Hummel, Kathrin Ebertsch, Andreas Riener, Jan-Philipp Steghöfer
+- **Published:** 2026-10-13
+- **Categories:** cs.HC
+- **Summary:** Nurse scheduling is a complex optimization problem in which nurses are assigned to
+shifts to meet staffing demands while complying with working-time limits, qualification
+requirements, and other operational and regulatory constraints. Artificial intelligence
+is increasingly being used to support this process by forecasting future staffing needs
+and providing advice on how to improve shift scheduling. Effective human-AI
+collaboration in nurse scheduling requires users to understand, interpret, and
+appropriately act on AI forecasts and advice. However, it remains insufficiently
+understood how healthcare professionals use transparency mechanisms like uncertainty
+communication and AI advice explanations when making staffing decisions. Applying a
+human-centered design approach, we iteratively developed a prototype decision support
+system for nurse scheduling and evaluated it through a mixed-methods user study with
+expert users. Using thematic analysis, questionnaire data, and eye tracking, we examine
+how healthcare professionals interact with the system and how uncertainty communication
+and explanations of AI advice influence understanding, decision confidence, trust, and
+usability. We found that the uncertainty communicated in AI forecasts was frequently
+misinterpreted and reduced decision confidence. Explanations were generally perceived
+positively, but did not significantly affect decision confidence or advice acceptance.
+We conclude with eight design implications derived from our findings, providing insights
+for the design of more transparent and effective AI-supported decision support tools in
+healthcare.
+
