@@ -3177,3 +3177,24 @@ useful but fallible, and their questioning behaviors varied in reasoning depth. 
 study contributes design insights for supporting children's critical, reflective, and
 evidence-based use of AI in collaborative tasks.
 
+### 2026-10-18 - Inflak: A Unified Orchestration Architecture for Human-Agent Interaction
+
+- **arXiv:** [2610.21972v1](http://arxiv.org/abs/2610.21972v1)
+- **PDF:** [2610.21972v1.pdf](https://arxiv.org/pdf/2610.21972v1)
+- **Authors:** Lin Gao, Li Chen, Jianxun Lian, Ji Li, Haotian Li
+- **Published:** 2026-10-15
+- **Categories:** cs.HC
+- **Summary:** LLM-powered agents increasingly support open-ended activities, yet orchestrating when
+and how agents interact with humans remains challenging. Existing approaches often
+provide interaction mechanisms tied to particular tasks or execution patterns, lacking a
+unified architecture for diverse and evolving interaction needs. We introduce Inflak, a
+unified four-layer architecture for human-agent interaction orchestration that separates
+state reconstruction and routing, interaction and execution planning, interaction
+design, and interface rendering. Its layered design with progressive resolution enables
+general applicability, runtime flexibility, module composability, and orchestration
+maintainability. We implement Inflak as agent-native, skill-based plugins within a
+general-purpose agent framework and evaluate it through a gallery of various application
+scenarios and interaction paradigms, technical performance testing, and a comparative
+implementation case study. The evaluations show that Inflak can serve as a general and
+extensible foundation for orchestrating diverse human-agent interaction flows.
+
