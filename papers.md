@@ -3198,3 +3198,25 @@ scenarios and interaction paradigms, technical performance testing, and a compar
 implementation case study. The evaluations show that Inflak can serve as a general and
 extensible foundation for orchestrating diverse human-agent interaction flows.
 
+### 2026-10-19 - Wait for It: A Component-Level Analysis of Latency Feedback Mechanisms for LLM Agents in VR
+
+- **arXiv:** [2610.23336v1](http://arxiv.org/abs/2610.23336v1)
+- **PDF:** [2610.23336v1.pdf](https://arxiv.org/pdf/2610.23336v1)
+- **Authors:** Pratham Arora, Abhinav Lodha, Siddharth Siddharth
+- **Published:** 2026-10-16
+- **Categories:** cs.HC
+- **Summary:** Delays in AI responses pose a significant challenge to immersive Virtual Reality
+experiences. While previous research demonstrates that feedback can reduce the
+perception of waiting, we lack understanding of which types work best and why. We
+conducted a within-subjects study with 18 participants to systematically compare three
+isolated feedback approaches during VR agent interactions: verbal fillers (e.g., um...,
+hmm...), visual indicators (loading spinners), and embodied gestures (thinking
+animations). Our results revealed that embodied gestures significantly outperformed
+visual loading indicators across multiple dimensions, making agents feel more lifelike
+and socially present. Interestingly, explicit visual feedback like loading spinners
+actually degraded perceived humanness and broke immersion by forcing users to shift from
+social to technical mental models. These findings suggest that natural, behavior-based
+feedback maintains the illusion of conversing with a thinking entity, while technical
+indicators expose the computational substrate. We present empirically-grounded design
+guidelines for creating more engaging AI-powered VR agents.
+
