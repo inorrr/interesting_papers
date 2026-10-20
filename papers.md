@@ -3220,3 +3220,30 @@ feedback maintains the illusion of conversing with a thinking entity, while tech
 indicators expose the computational substrate. We present empirically-grounded design
 guidelines for creating more engaging AI-powered VR agents.
 
+### 2026-10-20 - Remote Expert Evaluation of Tabletop Avatar Gaze Control in Asymmetric Multi-Scale MR--VR Collaboration
+
+- **arXiv:** [2610.26360v1](http://arxiv.org/abs/2610.26360v1)
+- **PDF:** [2610.26360v1.pdf](https://arxiv.org/pdf/2610.26360v1)
+- **Authors:** Carlos Mosquera, Neven Elsayed, Ernst Kruijff, Joseph Newman, Valeriya Lehrbaum, Eduardo Veas
+- **Published:** 2026-10-19
+- **Categories:** cs.HC
+- **Summary:** This paper proposes an integrated setup for a multi-scale asymmetric collaboration
+scenario in the context of a remote-expert use case, focusing on the expert side. In
+this system, the remote expert (with an exocentric view in Mixed Reality (MR)) uses a
+Tangible User Interface (TUI) to precisely position and rotate their avatar within a
+scaled tabletop World-in-Miniature (WIM). Inside the WIM, the expert's avatar and the
+operator share the same scale and egocentric view, while the expert retains a global
+tabletop overview of the plant to support collaboration. Interviews with industry
+experts during the participatory design phase revealed the need for an egocentric view
+inside the plant on the remote-expert side to enable full collaboration. We designed and
+studied three interaction-visualisation combinations to integrate and control the expert
+avatar's gaze: VR (fully immersive with direct head control), Head (floating screen with
+direct head control), and Touch (on-avatar screen with touchpad control). We evaluated
+these methods with 29 participants across two fault-detection tasks: Same Machine, where
+both collaborators inspect the same machine, and Twin Machine, where they inspect
+identical machines in separate locations. The VR condition, which combines immersion,
+direct head control, and a full-scale view, yielded the strongest overall performance
+and user experience, while the tabletop avatar setup was well received for
+collaboration. Our findings inform the design of gaze-control techniques for asymmetric
+MR-VR collaboration and reveal challenges and opportunities for future work.
+
