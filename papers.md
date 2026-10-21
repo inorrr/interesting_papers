@@ -3247,3 +3247,29 @@ and user experience, while the tabletop avatar setup was well received for
 collaboration. Our findings inform the design of gaze-control techniques for asymmetric
 MR-VR collaboration and reveal challenges and opportunities for future work.
 
+### 2026-10-21 - Relational Complexity: Making Sense of Social Companion AI Use
+
+- **arXiv:** [2610.27419v1](http://arxiv.org/abs/2610.27419v1)
+- **PDF:** [2610.27419v1.pdf](https://arxiv.org/pdf/2610.27419v1)
+- **Authors:** Sophie Elizabeth Klitgaard, Grace X. Wang, Daniel M. T. Fessler, Michelle H. Tang
+- **Published:** 2026-10-20
+- **Categories:** cs.HC
+- **Summary:** The adoption of social companion AI (SCAI) is often framed in terms of the positive
+features it offers users, including its nonjudgemental nature, agreeableness, and
+availability. Here, we argue the appeal of these features primarily arises from the
+difficulties inherent in human sociality. SCAI reduces what we term relational
+complexity, or the demands and risks inherent in human relationships. Drawing insights
+from studies of human cognition, communication, and human-computer interaction, we
+identify six distinct sites of relational complexity that we posit are integral to
+understanding SCAI adoption. These include: (i) relationship formation and dissolution;
+(ii) achieving mutual understanding; (iii) interpersonal motives and strategic
+uncertainty; (iv) social partner evaluation and self-presentation; (v) social
+embeddedness and information flow; and (vi) reciprocity and relationship maintenance. By
+attenuating relational complexity, SCAI offers users some of the experiences associated
+with companionship while reducing the demands intrinsic to obtaining such experiences
+from another person. However, the lower interpersonal risk and diminished cognitive load
+that attracts users to SCAI may contribute to myriad negative impacts, including
+relationship displacement, social demotivation, social deskilling, and risks to privacy.
+The concept of relational complexity thus provides a framework for studying both the
+appeal of artificial companionship and its implications for human wellbeing.
+
