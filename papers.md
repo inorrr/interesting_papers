@@ -3296,3 +3296,29 @@ central hypothesis: that combining collaborative transparency with scoped multi-
 assistance increases serendipitous cross-pollination between collaborators' research
 threads.
 
+### 2026-10-23 - Navigating human-robot interaction challenges in private and residential aged care homes
+
+- **arXiv:** [2610.31149v1](http://arxiv.org/abs/2610.31149v1)
+- **PDF:** [2610.31149v1.pdf](https://arxiv.org/pdf/2610.31149v1)
+- **Authors:** David Ahmedt-Aristizabal, Mohammad Ali Armin, Akila Pemasiri, Harshala Gammulle, Tharindu Fernando, David Silvera-Tawil, et al.
+- **Published:** 2026-10-22
+- **Categories:** cs.HC, cs.CV, cs.RO
+- **Summary:** This chapter explores how robotic systems and ambient intelligence can enhance care for
+older adults in residential aged care (RAC) homes and private homes. Although these
+settings differ, we frame both as extreme and challenging environments for human-robot
+interaction (HRI), characterised by cluttered and dynamic layouts, diverse resident
+needs, and limited on-site technical support. We review embodied and non-embodied
+systems that assist with daily living, safety monitoring, and social engagement,
+highlighting hybrid deployments where robots complement fixed and wearable sensors. To
+ensure these technologies are usable and effective, design considerations consider the
+cognitive, physical, and social needs of older adults. Interaction design prioritises
+accessibility for older adults with low digital literacy, using robust but simple voice
+interfaces, small sets of non-verbal cues, accessible screen-based companions, and safe
+object handovers. Privacy, trust, and acceptability are addressed via practical
+strategies such as on-device inference, data minimisation, visible consent controls, and
+transparent data handling aligned with emerging artificial intelligence (AI) and privacy
+regulation. Evaluation emphasises real-world metrics including false alarms per day,
+time to recover from faults, staff workload, and long-term system reliability. We close
+by outlining open research challenges and future directions for scalable, regulation-
+ready deployments that support aging with dignity, safety, and independence.
+
