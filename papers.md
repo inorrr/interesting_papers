@@ -3322,3 +3322,25 @@ time to recover from faults, staff workload, and long-term system reliability. W
 by outlining open research challenges and future directions for scalable, regulation-
 ready deployments that support aging with dignity, safety, and independence.
 
+### 2026-10-24 - Comparing Computer Use Behavior Across Multiple Levels of Abstraction
+
+- **arXiv:** [2610.26703v1](http://arxiv.org/abs/2610.26703v1)
+- **PDF:** [2610.26703v1.pdf](https://arxiv.org/pdf/2610.26703v1)
+- **Authors:** Ananya Gubbi Mohanbabu, Rosiana Natalie, Anhong Guo, Amy Pavel
+- **Published:** 2026-10-19
+- **Categories:** cs.HC
+- **Summary:** Interaction traces record how people and agents use computers, and comparing them can
+reveal usability barriers, differences in expertise, and human--agent similarity. Yet
+traces are recorded as low-level, interface-specific actions, making comparisons
+difficult across tasks, interfaces, and input modalities. Existing approaches either
+compare these actions directly, reduce traces to aggregate outcomes, or summarize them
+at higher-level goals, obscuring where behavior differs. We present MAP (Multi-level
+Action Parsing), a hierarchical semantic representation and annotation pipeline that
+maps traces into a common vocabulary across linked levels of abstraction. MAP compares
+traces by sequence, recurring patterns, and effort, localizing differences by type and
+abstraction level. A technical evaluation across three computer use datasets shows high
+agreement with manual annotations and broad coverage of behavior. Applying MAP shows
+that sighted and blind users increasingly converge at higher levels despite navigation
+differences, while agents omit corrective, help-seeking, and recovery behaviors present
+in human traces.
+
