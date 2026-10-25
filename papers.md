@@ -3344,3 +3344,27 @@ that sighted and blind users increasingly converge at higher levels despite navi
 differences, while agents omit corrective, help-seeking, and recovery behaviors present
 in human traces.
 
+### 2026-10-25 - CoWriter: Guiding Methodological and Synergetic Human-LLM Co-Authoring
+
+- **arXiv:** [2610.31277v1](http://arxiv.org/abs/2610.31277v1)
+- **PDF:** [2610.31277v1.pdf](https://arxiv.org/pdf/2610.31277v1)
+- **Authors:** Shmuel Amar, Benjamin Lieber, Ori Shapira, Debanjana Kar, Sebastian Maximilian Dennerlein, Yufang Hou, et al.
+- **Published:** 2026-10-22
+- **Categories:** cs.CL, cs.AI, cs.HC
+- **Summary:** While LLMs have transformed text generation, standard chat-and-canvas interfaces often
+reduce human authoring to quite passive supervision, causing review fatigue, over-
+reliance on AI, and the sidelining of the human role in long-form, source-grounded
+writing. Prior systems typically address isolated writing phases, leaving comprehensive
+end-to-end human-LLM collaboration largely unexplored. In this paper, we introduce
+CoWriter, a proactive agentic scheme that adapts expert human (co-)authoring
+methodologies from cognitive science to flexibly steer the entire writing workflow while
+actively encouraging the user to engage. In an exploratory user study, compared to a
+standard LLM baseline, authors using CoWriter better expressed their perspectives and
+maintained a higher sense of document ownership, supported quantitatively by $2.2\times$
+more successful agent engagements. Furthermore, external reader judges rated the
+resulting texts higher in "human touch" qualities like storytelling and integrating
+unique personal experiences. Overall, our results demonstrate that proactively engaging
+users through established human practices is beneficial for effective LLM-supported co-
+authoring, providing useful methodologies, techniques and insights for future research
+on collaborative agents.
+
