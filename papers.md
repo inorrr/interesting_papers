@@ -3427,3 +3427,25 @@ the operator's mental demand. These findings challenge existing teleoperation
 conventions and provide an empirically validated approach for designing robust remote
 piloting systems.
 
+### 2026-10-28 - Immersive Commons: Designing Ephemeral Spatial Dialogue for Co-Located Mixed Reality Environments
+
+- **arXiv:** [2610.36014v1](http://arxiv.org/abs/2610.36014v1)
+- **PDF:** [2610.36014v1.pdf](https://arxiv.org/pdf/2610.36014v1)
+- **Authors:** Wuwu Ran, Mohammed Faraj Al-Suwaidi
+- **Published:** 2026-10-26
+- **Categories:** cs.HC, cs.MM
+- **Summary:** Head-mounted mixed reality (MR) often prioritises individual immersion, potentially
+drawing attention away from others sharing the room. This paper asks how MR can support
+co-located spatial dialogue through embodied interaction and activity visible to non-
+headset observers. We introduce Immersive Commons, a design framework, and Atmos
+Messages, a prototype combining gesture-based, ephemeral spatial messages with voice
+transcription, preset text, and a public floor-plan overview. Following a Research
+through Design approach, fifteen participants created 236 messages across two sessions,
+including 48 voice-authored messages. Questionnaire responses highlighted playfulness
+and social awareness, while observations suggested opportunities for exchange grounded
+in the architectural setting. Interaction clustered near the public display, although
+this was also where participants put on their headsets. These findings suggest the
+potential of ephemeral spatial messaging to support co-located exchange, with
+playfulness, shared visibility, and architectural context informing the design of more
+social and situated MR experiences.
+
