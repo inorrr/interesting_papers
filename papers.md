@@ -3449,3 +3449,27 @@ potential of ephemeral spatial messaging to support co-located exchange, with
 playfulness, shared visibility, and architectural context informing the design of more
 social and situated MR experiences.
 
+### 2026-10-29 - Affective and Functional Needs in AI Use: User Patterns and Their Relation to Real-Life Support and Well-Being
+
+- **arXiv:** [2610.34732v1](http://arxiv.org/abs/2610.34732v1)
+- **PDF:** [2610.34732v1.pdf](https://arxiv.org/pdf/2610.34732v1)
+- **Authors:** Jessy Wang-Sun, Estelle Yiyuan Sun, Hualin Zhang, Zihan Xu
+- **Published:** 2026-10-26
+- **Categories:** cs.HC
+- **Summary:** Conversational AI systems are increasingly used to fulfill both functional and affective
+needs, yet how users perceive the AI-adoption effects varies. Existing research tends to
+treat these two needs as binary categories and to classify users by a single dominant
+need. However, this approach fails to capture users who engage with AI for both
+affective and functional purposes simultaneously, leaving it unclear how these needs
+combine in real-world AI use. To capture the multifaceted nature of users' AI
+engagement, we developed the AI-Support measurement with 1,090 participants, grounded in
+social support theory, which evaluates four dimensions of perceived AI support:
+emotional/esteem, social companionship, informational, and instrumental support. This
+study provided (1) an AI-Support Scale developed to measure the perceived support types
+from human-AI interaction, (2) evidence that users might adopt AI with a high level of
+both functional and affective use, and (3) exploratory indicators of users' real-life
+social support and well-being, enabling descriptive results aligning with theoretical
+expectations. Overall, this study highlights the importance of understanding individual
+differences in AI affordance use, enabling AI systems to be designed in alignment with
+different user adoption profiles rather than assuming uniform benefits across all users.
+
