@@ -3473,3 +3473,26 @@ expectations. Overall, this study highlights the importance of understanding ind
 differences in AI affordance use, enabling AI systems to be designed in alignment with
 different user adoption profiles rather than assuming uniform benefits across all users.
 
+### 2026-10-30 - Unlocking with the Heart: Investigating User Perceptions of ECG-Based Biometric Authentication
+
+- **arXiv:** [2610.39152v1](http://arxiv.org/abs/2610.39152v1)
+- **PDF:** [2610.39152v1.pdf](https://arxiv.org/pdf/2610.39152v1)
+- **Authors:** Farnaz Farid, Linet Momposhi, Tamara Watson, Alana Maurushat, Abubakar Bello, Farhad Ahamed
+- **Published:** 2026-10-29
+- **Categories:** cs.HC, cs.CR, cs.CY, cs.ET
+- **Summary:** Password-based authentication remains challenging for many users, especially for those
+who face usability and accessibility issues. The burden of maintaining security can
+cause user fatigue, frustration and non-engagement. To address these issues, we
+conducted a pilot study to assess ECG-based biometric authentication as a passwordless
+alternative and to gather adult participants' perspectives on this approach. The
+research consisted of a survey study, an authentication prototype and a follow-up
+usability experience questionnaire. Our approach combined an online survey of 337 adults
+examining authentication practices and perceptions, with a separate usability evaluation
+in which 49 participants interacted with a simulated ECG-authentication and password
+interface in a health-care application prototype, then completed a post-test usability
+test questionnaire. The survey examined how adults across age groups use and perceive
+various authentication techniques, their experiences with biometrics, their views on
+security and convenience, and their willingness to adopt ECG authentication. In
+parallel, the usability prototype and questionnaire captured participants' responses
+after hands-on interaction with an ECG authentication prototype.
+
