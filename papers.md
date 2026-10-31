@@ -3496,3 +3496,33 @@ security and convenience, and their willingness to adopt ECG authentication. In
 parallel, the usability prototype and questionnaire captured participants' responses
 after hands-on interaction with an ECG authentication prototype.
 
+### 2026-10-31 - Apple Vision Pro: The good, the bad, the ugly
+
+- **arXiv:** [2610.40108v1](http://arxiv.org/abs/2610.40108v1)
+- **PDF:** [2610.40108v1.pdf](https://arxiv.org/pdf/2610.40108v1)
+- **Authors:** Santiago Berrezueta-Guzman, Andrei Koshelev, Habiba-Loai Khalil, Stefan Wagner
+- **Published:** 2026-10-29
+- **Categories:** cs.HC
+- **Summary:** Apple Vision Pro (AVP), the headset Apple introduced as its first ``spatial computer,''
+built by a single, vertically integrated vendor, entered the market in February 2024 and
+has since accumulated a fast-growing body of primary research spanning surgery,
+education, accessibility, design, and human-computer interaction. In this paper, we
+adopt the tripartite structure of Leone's 1966 film to organize a systematic review of
+this literature: we cataloged the validated, working applications of AVP (the good), the
+persistent technical and ergonomic limitations of a still-early-generation headset (the
+bad), and the ethical concerns and structural harms that follow from deliberate design,
+marketing, and deployment choices (the ugly). The review is built from a Scopus export
+of 218 records mentioning AVP, which we narrowed to 104 papers (2024--2026) with a
+primary focus on AVP, using explicit inclusion/exclusion criteria that we report in
+full, alongside a PRISMA-informed flow diagram of the screening process. We find the
+corpus heavily skewed toward validating benefits (medicine and surgery, education, and
+software tooling account for over half of the included papers) and comparatively thin on
+documented risks or misuse, a pattern we treat as a finding in its own right rather than
+a limitation to be explained away. We further show that several recurring issues, namely
+price, simulated social presence, and the gaze-tracking privacy architecture, resist a
+clean separation into ``bad'' or ``ugly'' using the published evidence alone, since both
+readings remain compatible with the same data. We close by identifying where the
+evidence base most needs to grow: independent risk and ethics research, bystander- and
+equity-focused study designs, and disclosure that would let researchers distinguish an
+engineering backlog from a structural choice.
+
