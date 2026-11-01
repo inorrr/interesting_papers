@@ -3526,3 +3526,26 @@ evidence base most needs to grow: independent risk and ethics research, bystande
 equity-focused study designs, and disclosure that would let researchers distinguish an
 engineering backlog from a structural choice.
 
+### 2026-11-01 - The Artificial Personality Model: Theory, Implementation, Measurement and Experimental Validation in Conversational Agents
+
+- **arXiv:** [2610.38608v1](http://arxiv.org/abs/2610.38608v1)
+- **PDF:** [2610.38608v1.pdf](https://arxiv.org/pdf/2610.38608v1)
+- **Authors:** Alexander Dregger, Barbarella Petz, Erik Kuhn, Pia Volk, Andreas Oberweis, Stefan Hillmann, et al.
+- **Published:** 2026-10-28
+- **Categories:** cs.HC, cs.AI
+- **Summary:** Artificial personality shapes user experience (UX) in human-machine interaction, yet
+coherent theoretical frameworks and validated measurement instruments remain limited.
+This paper refines and empirically evaluates the Artificial Personality Model (APM), a
+hybrid framework integrating human-centred and machine-specific personality dimensions.
+Across three experiments (N = 395), the model was operationalised and evaluated using
+the Artificial Personality Questionnaire (APQ). Factor analyses revealed that some human
+personality dimensions (e.g., agreeableness, conscientiousness) are partially
+transferable, whereas others (e.g., extraversion) did not emerge as distinct dimensions.
+Additional machine-specific dimensions were identified. The APQ provided encouraging
+initial psychometric evidence, while the human-centred BFI-2 showed poor reliability and
+an uninterpretable factor structure in Experiment 3. Experimental manipulations
+demonstrated significant effects of artificial personality on user satisfaction,
+continuous use intention, and social presence. The findings contribute an empirically
+refined framework and a novel instrument for measuring perceived artificial personality,
+offering practical guidance for designing conversational agents.
+
