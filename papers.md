@@ -3576,3 +3576,34 @@ consistently outperform compared baselines in terms of both efficiency and task 
 highlighting the value of unified computer-use interfaces that allow flexible channel
 selection and combination.
 
+### 2026-11-03 - Reasoning Across Scales: Learning Challenges and Opportunities for Immersive Technologies in Chip Design Education
+
+- **arXiv:** [2611.01361v1](http://arxiv.org/abs/2611.01361v1)
+- **PDF:** [2611.01361v1.pdf](https://arxiv.org/pdf/2611.01361v1)
+- **Authors:** Satya Kamala Immidisetty, Dishita Turakhia
+- **Published:** 2026-10-31
+- **Categories:** cs.HC
+- **Summary:** As demand for semiconductor talent grows, education must prepare learners for the
+complexity of modern chip design. Instruction typically relies on lectures, textbooks,
+software exercises, and limited laboratory experiences. Although foundational, these
+approaches offer limited support for understanding the spatial, multi-scale, and
+interconnected nature of chip design. Virtual reality (VR) can help learners visualize
+and interact with complex structures and processes, but its educational opportunities
+remain underexplored. We examined this gap through chip design curriculum analysis and
+semi-structured interviews with five participants representing instructional and learner
+perspectives. We characterized four learning demands: descriptive knowledge, procedural
+knowledge, relational and design-focused reasoning, and strategic decision-making. We
+identified challenges in connecting abstraction levels, interpreting spatial structures
+and temporal behavior, bridging theory and practice, and reasoning about design trade-
+offs and downstream consequences. Drawing on these findings and prior research, we
+mapped learning demands to six immersive affordances: spatial visualization, multi-scale
+navigation, interactive manipulation, temporal dynamics visualization, immediate
+feedback, and collaboration. These findings motivate Cross-Scale Spatial Reasoning
+(CSSR) as a conceptual lens for understanding how learners connect physical structures,
+design representations, and engineering consequences across the chip design pipeline. We
+contribute an empirically informed account of learning challenges, a structured mapping
+of learning demands to immersive affordances, and concrete design opportunities for
+immersive semiconductor education. These contributions guide the development and
+evaluation of immersive environments that support reasoning across scales,
+representations, and design processes.
+
