@@ -3607,3 +3607,33 @@ immersive semiconductor education. These contributions guide the development and
 evaluation of immersive environments that support reasoning across scales,
 representations, and design processes.
 
+### 2026-11-04 - AI for eGovernance: Leveraging Language Technologies For Digital Inclusion
+
+- **arXiv:** [2611.04820v1](http://arxiv.org/abs/2611.04820v1)
+- **PDF:** [2611.04820v1.pdf](https://arxiv.org/pdf/2611.04820v1)
+- **Authors:** Cynthia Jayne Amol, Lilian Wanzare
+- **Published:** 2026-11-03
+- **Categories:** cs.HC
+- **Summary:** The Kenyan government has invested heavily in the digitisation of public service
+delivery, in line with the Kenya Digital Master Plan 2022-2032. The national eGovernment
+platform, eCitizen, hosts services that are vital to citizens' livelihoods, including
+business registration, youth enterprise lending, digital literacy and tax filing.
+However, the platform faces digital inclusion challenges that limit equitable access for
+marginalised groups, particularly youth in rural areas and persons with disabilities.
+This exclusion is driven by a language barrier, since the platform is primarily in
+English with limited Swahili support, and by a text-only interface that excludes low-
+literacy and visually impaired users. This paper reports findings from six one-on-one
+interviews and an eleven-person roundtable discussion across four platforms essential to
+youth livelihoods: Ajira Digital, Kenya Revenue Authority (KRA) iTax, Higher Education
+Loans Board (HELB) and the Youth Enterprise Development Fund (YEDF). Drawing on these
+findings, on Web Content Accessibility Guidelines (WCAG) 2.1 principles as a design lens
+for diagnosing eCitizen's accessibility gaps, and on comparator models such as Estonia's
+Bürokratt and India's Bhashini, the paper proposes a human-centred, systems-minded
+framework for embedding generative AI and language technologies into eCitizen, including
+text simplification, neural machine translation, text-to-speech and speech-to-text. The
+paper argues that, when deployed responsibly with appropriate human oversight, these
+interventions could meaningfully improve access to government services for
+linguistically excluded citizens. It also emphasises that AI alone cannot overcome the
+broader structural barriers, including unemployment and educational inequality, that
+shape digital exclusion.
+
