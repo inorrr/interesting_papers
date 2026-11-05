@@ -3637,3 +3637,31 @@ linguistically excluded citizens. It also emphasises that AI alone cannot overco
 broader structural barriers, including unemployment and educational inequality, that
 shape digital exclusion.
 
+### 2026-11-05 - Fluidic Body: Swarm Robots as a Fluid Extension of the Hand
+
+- **arXiv:** [2611.06068v1](http://arxiv.org/abs/2611.06068v1)
+- **PDF:** [2611.06068v1.pdf](https://arxiv.org/pdf/2611.06068v1)
+- **Authors:** Michikuni Eguchi, Shigeo Yoshida, Mai Nishimura, Takefumi Hiraki
+- **Published:** 2026-11-04
+- **Categories:** cs.HC, cs.RO
+- **Summary:** Swarm robots have attracted growing interest as a physical interface for human--computer
+interaction, since a swarm can reshape its formation to fit the objects and surroundings
+it works with. For a human operator, however, adapting the swarm's behavior remains
+difficult. Most existing methods require the user to specify where the swarm should go,
+and they offer no intuitive way to change the collective's behavior as each task
+demands. We present Fluidic Body, a system that lets a person operate a swarm of fluid-
+imitating robots as an extension of the hand. The system places a virtual fluid between
+the hand and the swarm, and the user adapts the swarm's behavior to each task by
+changing the fluid's properties through simple hand movements. When the user opens the
+hand, the swarm becomes soft enough to deform and flow around obstacles. Closing the
+hand turns it into a hard, cohesive body that can push objects. We evaluated the
+controller's performance and its operability in two simulation experiments and one
+demonstration with physical robots. First, our controller handled both obstacle
+avoidance and object transportation better than an existing method that behaves the same
+way in every task. Second, in a VR user study, 17 participants completed the combined
+avoidance-and-transportation task faster and more reliably than with that method. They
+also reported a lower workload and a stronger sense of agency. Finally, this experience
+carried over to physical robots in a real-world demonstration (88 participants). These
+results suggest that treating a swarm as a fluid, a material people already understand,
+allows a robot swarm to work as a deformable extension of the human body.
+
