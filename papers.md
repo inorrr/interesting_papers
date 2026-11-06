@@ -3665,3 +3665,22 @@ carried over to physical robots in a real-world demonstration (88 participants).
 results suggest that treating a swarm as a fluid, a material people already understand,
 allows a robot swarm to work as a deformable extension of the human body.
 
+### 2026-11-06 - Reflective Nature Experiences in Virtual Reality
+
+- **arXiv:** [2611.08167v1](http://arxiv.org/abs/2611.08167v1)
+- **PDF:** [2611.08167v1.pdf](https://arxiv.org/pdf/2611.08167v1)
+- **Authors:** Shiva Ghasemi, Maddie Oehler, Annie Xenakis, Jeffrey Jiarui Yang, Scott McCrickard
+- **Published:** 2026-11-05
+- **Categories:** cs.HC
+- **Summary:** This paper presents the design and evaluation of an accessible virtual reality (VR)
+nature experience developed to promote mindfulness, reduce stress, and support emotional
+well-being. The system immerses users in a calming natural environment through realistic
+landscapes, ambient soundscapes, guided breathing exercises, and interactive checkpoints
+that encourage reflection. Accessibility was a central design consideration,
+particularly for users with diverse physical and sensory abilities or limited access to
+natural environments and traditional mindfulness resources. A pilot study with 10
+participants indicated that the experience could support relaxation and emotional well-
+being. Participants also reported greater immersion with continuous movement than with
+teleportation, highlighting the importance of intuitive locomotion in designing
+inclusive, nature-based VR experiences for mindfulness and stress reduction.
+
