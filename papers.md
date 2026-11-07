@@ -3684,3 +3684,30 @@ being. Participants also reported greater immersion with continuous movement tha
 teleportation, highlighting the importance of intuitive locomotion in designing
 inclusive, nature-based VR experiences for mindfulness and stress reduction.
 
+### 2026-11-07 - Just Between Us? Exploring a Wearable-Mediated Channel for Discreet Human-Agent Interaction in a Shared Game Setting
+
+- **arXiv:** [2611.04692v1](http://arxiv.org/abs/2611.04692v1)
+- **PDF:** [2611.04692v1.pdf](https://arxiv.org/pdf/2611.04692v1)
+- **Authors:** Atikkhan Faridkhan Nilgar, Manuel Dietrich, Kristof Van Laerhoven
+- **Published:** 2026-11-03
+- **Categories:** cs.HC, cs.RO
+- **Summary:** In shared settings, social robots may need to exchange information with an individual
+while limiting co-present others' access to or interpretation of that information.
+Publicly observable speech and gestures may not adequately support such exchanges. We
+investigate a wearable-mediated channel for discreet interaction that combines in-ear
+audio messages with deliberate rightward head tilts as responses. To examine its
+feasibility and participants' experiences, we studied 20 pairs (40 participants) playing
+a card game with a screen-based conversational agent representing a social robot,
+controlled by a researcher in a Wizard-of-Oz setup. Each pair played with and without
+the channel. One participant wore the device (the wearer), while the other (the non-
+wearer) was informed about the channel after gameplay. The channel conveyed information
+that could help the wearer or robot character select an opponent they could defeat. The
+information exchange and subsequent opponent selection occurred as intended in 39 of 40
+channel-mediated turns. Wearers reported low perceived pressure/tension in both
+conditions, with no statistically significant difference between conditions, and
+favorable usability immediately after use. Retrospective interviews, however, revealed
+varied accounts of noticing the interaction among non-wearers and contrasting
+perceptions of teamwork and unfairness. These findings support the feasibility of
+wearable-mediated exchanges within this game and identify awareness and fairness as
+considerations for future designs.
+
