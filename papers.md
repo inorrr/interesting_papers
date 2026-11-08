@@ -3711,3 +3711,29 @@ perceptions of teamwork and unfairness. These findings support the feasibility o
 wearable-mediated exchanges within this game and identify awareness and fairness as
 considerations for future designs.
 
+### 2026-11-08 - ControlAnything: Generative UI and On-Demand Device Integration for Mixed-Reality Hand Interaction by a Coding Agent
+
+- **arXiv:** [2611.08321v1](http://arxiv.org/abs/2611.08321v1)
+- **PDF:** [2611.08321v1.pdf](https://arxiv.org/pdf/2611.08321v1)
+- **Authors:** Bektur Ryskeldiev
+- **Published:** 2026-11-05
+- **Categories:** cs.HC
+- **Summary:** Connecting hand input in mixed reality (MR) to a nearby physical device typically
+requires an integration written in advance for that device, its transport and the
+mapping. ControlAnything defers this integration to the moment of use and assigns it to
+a coding agent. On a Meta Quest 3, the wearer selects an object outlined by SAM 3.1 and
+states what their hands should control. An agent built on Meta's Muse Spark model then
+writes a connector program on the wearer's laptop, tests it against the live device
+through hand-written MIDI, Bluetooth and key-press transports, and returns augmented-
+reality (AR) controls, a per-frame hand program, or both. These outputs are a form of
+generative UI, interfaces created by an AI model; here, the agent also generates and
+tests the code that binds the interface to a physical device. In a single-session
+technical evaluation with the author as the only wearer, nine of ten requests addressing
+five targets reached a ready state, and the wearer stopped one. The median time to ready
+was 32.5 s (range 24.9-57.8 s, excluding speech transcription); sequential model calls
+accounted for a median of 89.9% of this time, and 91.7% of input tokens came from the
+prompt cache. The system's evidence of success extends to transport acknowledgements but
+not to physical effects. These findings point to connector reuse and the observation of
+effects through the headset's own sensors as next steps for on-demand device integration
+in MR. A user study with first-time wearers is planned.
+
