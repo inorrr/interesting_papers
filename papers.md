@@ -3737,3 +3737,30 @@ not to physical effects. These findings point to connector reuse and the observa
 effects through the headset's own sensors as next steps for on-demand device integration
 in MR. A user study with first-time wearers is planned.
 
+### 2026-11-09 - Navigating Complexity: A User-Centered Evaluation of Project Management Tools
+
+- **arXiv:** [2611.09260v1](http://arxiv.org/abs/2611.09260v1)
+- **PDF:** [2611.09260v1.pdf](https://arxiv.org/pdf/2611.09260v1)
+- **Authors:** Yasin Ghadimi Zaker, Hamid Reza Ghaeini
+- **Published:** 2026-11-06
+- **Categories:** cs.SE, cs.HC
+- **Summary:** In the age of digital transformation, companies are increasingly relying on specialized
+software to manage the complexity of projects. However, when selecting tools, features
+and costs often take precedence over user experience (UX), leading to low adoption
+rates, user frustration, and project delays. This study empirically evaluates the user
+experience of leading project management tools (Jira, Trello, Monday.com, Asana, and
+Microsoft Project) across various project scales using a mixed methods approach. The
+System Usability Scale (SUS) was used as the primary quantitative instrument, with data
+collected from 141 experienced professionals via online questionnaires. The results
+reveal a significant trade-off between functionality and usability. Trello achieved the
+highest SUS score (77.5), indicating a superior user experience for small projects and
+agile teams, while Microsoft Project scored the lowest (51.2), suggesting significant
+usability challenges despite its robust features. Jira demonstrated a balanced profile,
+offering powerful features with manageable complexity. Statistical analyses confirmed
+that the choice of the optimal tool is highly context dependent, with team size and
+project complexity influencing UX outcomes. The findings underscore that UX is not a
+secondary feature but a critical success factor for software acceptance and project
+effectiveness. This study provides an evidence-based framework for aligning tool
+selection with the project context, offers practitioners actionable insights, and
+identifies design opportunities for software developers.
+
