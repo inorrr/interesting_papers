@@ -3790,3 +3790,34 @@ proportion of the interaction. The results suggest that prior beliefs and first
 impressions continued to shape perceived agency, whereas social evaluations were more
 sensitive to the VH's actual behaviour over the interaction.
 
+### 2026-11-11 - Where do we Jam? - The Impact of Real and Virtual XR Spaces on Musical Creativity, Co-Presence, Affect, and Flow
+
+- **arXiv:** [2611.14029v1](http://arxiv.org/abs/2611.14029v1)
+- **PDF:** [2611.14029v1.pdf](https://arxiv.org/pdf/2611.14029v1)
+- **Authors:** Ruben Schlagowski, Jonas Bordewick, Luca Turchet, Hannes Ritschel, Elisabeth André
+- **Published:** 2026-11-10
+- **Categories:** cs.HC
+- **Summary:** Extended Reality (XR) technologies can place musicians in virtual, mixed, or real
+environments during networked music performance (NMP). To examine how NMP applications
+in XR should be positioned on the reality-virtuality continuum, we conducted a
+laboratory study (N = 28) comparing a simulated NMP experience in Virtual Reality (VR)
+with one in Augmented Reality (AR). In both conditions, musicians saw their remote
+partners in real time as 3D point clouds rendered with an optimized Gaussian Splatting
+shader. While VR allowed participants to select and customize fully virtual 3D
+environments, AR showed a pass-through view of the laboratory environment. We measured
+creativity support, flow, involvement, co-presence, and affect, and complemented these
+data with qualitative interviews on participants' preferences and requirements for
+creative environments. Our results show that participants felt significantly more
+involved by the immersive XR experience in VR than in AR. Positive affect, flow, and
+creativity support were strongly correlated in both conditions, whereas involvement
+correlated with flow and creativity support only in VR. Qualitative findings showed
+substantial variation in participants' preferences for AR or VR and also regarding the
+design of creative virtual environments. Together, these findings suggest that the
+surrounding environment is a critical design dimension in networked Musical XR, shaping
+collaborative musical experiences beyond merely representing remote collaborators and
+mitigating communication latency. Future XR-mediated NMP systems should therefore treat
+the surrounding space as an integral component of the collaborative musical experience,
+rather than as a mere visual backdrop. At the same time, they should support experiences
+across a broad spectrum of the reality-virtuality continuum to accommodate highly
+individual user requirements.
+
