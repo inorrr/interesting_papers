@@ -3843,3 +3843,25 @@ governance practices and varying attitudes within organizations toward P2dGens. 
 insights illuminate how P2dGens reshape UI design workflows and contribute to
 understanding human-AI collaboration in UI design.
 
+### 2026-11-13 - Neural Representations as New Modes of Interactivity
+
+- **arXiv:** [2611.17058v1](http://arxiv.org/abs/2611.17058v1)
+- **PDF:** [2611.17058v1.pdf](https://arxiv.org/pdf/2611.17058v1)
+- **Authors:** Stanley Huang, Anthony Baez, Catherine Yeh, Pat Pataranutaporn
+- **Published:** 2026-11-12
+- **Categories:** cs.HC
+- **Summary:** Human-AI interaction today runs almost entirely through prompts and outputs, keeping AI
+systems opaque to general users. We introduce Neural Representation Interaction (NRI), a
+paradigm that treats the internal representations of neural networks as an interaction
+material people can inspect, steer, and edit. Situating NRI alongside graphical,
+tangible, and bio-computer interaction, we argue that the concepts and algorithms models
+encode internally offer representational affordances for richer human-AI interaction. We
+synthesize actionable mechanistic interpretability methods and, drawing on General
+Morphological Analysis, construct a design space spanning Interaction, Target, Referent,
+and Purpose. Mapping existing interfaces onto this space reveals that most serve expert
+auditors, while few support lay users. We then present speculative applications in
+education, personal user modeling, and hiring audits, and discuss design principles,
+limitations, and sociotechnical risks. NRI offers HCI researchers abstractions for
+designing interactions that work with AI computation rather than only through its inputs
+and outputs.
+
