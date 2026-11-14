@@ -3865,3 +3865,30 @@ limitations, and sociotechnical risks. NRI offers HCI researchers abstractions f
 designing interactions that work with AI computation rather than only through its inputs
 and outputs.
 
+### 2026-11-14 - A Serious Game for Training Civil Participation in Flood Crisis Management
+
+- **arXiv:** [2611.16446v1](http://arxiv.org/abs/2611.16446v1)
+- **PDF:** [2611.16446v1.pdf](https://arxiv.org/pdf/2611.16446v1)
+- **Authors:** Solmaz Goodarzi, Arseni Ivanov, David Maruscsák, Diana Quitéria Sousa
+- **Published:** 2026-11-12
+- **Categories:** cs.HC
+- **Summary:** Floods are among the most frequent and destructive natural disasters, requiring citizens
+to make critical decisions under rapidly changing conditions. Most serious games related
+to flooding emphasize awareness, preparedness, and education in flood management, but
+there is still a research gap on how to train citizens to act under pressure,
+uncertainty, and stress. In this paper, we position Virtual Reality (VR) serious games
+as a promising approach to addressing this gap by providing experiential and immersive
+training opportunities for citizens. We propose a conceptual VR serious game that
+enables participants to experience realistic flood scenarios, practice decision-making,
+rehearse appropriate response behaviors, and develop response-related skills in a safe
+and controlled environment. In addition, we suggest a research agenda and an evaluation
+framework focused on flood risk awareness, response capabilities, and stress-related
+outcomes. The framework thoughtfully integrates subjective, objective, and physiological
+measures to assess the effectiveness of immersive flood-response training. Finally, we
+present design, methodological, ethical, and user-experience considerations in VR-based
+disaster training, and outline future research directions for the development and
+evaluation of immersive serious games for flood emergency response. The present study
+aims to contribute to the growing intersection of serious games, extended reality, and
+disaster risk reduction by establishing citizen-centered response training as a
+significant yet under-researched field.
+
