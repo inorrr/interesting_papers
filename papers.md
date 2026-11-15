@@ -3892,3 +3892,24 @@ aims to contribute to the growing intersection of serious games, extended realit
 disaster risk reduction by establishing citizen-centered response training as a
 significant yet under-researched field.
 
+### 2026-11-15 - MRxD: A Usage-Pattern Framework for Mixed-Reality Cross-Device Interaction
+
+- **arXiv:** [2611.16171v1](http://arxiv.org/abs/2611.16171v1)
+- **PDF:** [2611.16171v1.pdf](https://arxiv.org/pdf/2611.16171v1)
+- **Authors:** Yang Zhan, Yuxuan Huang, Yuchen Cai, Yichen Andy Yu, Xiaoran Yang, Ye Yuan, et al.
+- **Published:** 2026-11-12
+- **Categories:** cs.HC
+- **Summary:** Mixed reality (MR) cross-device experiences often combine MR headsets with non-immersive
+devices such as laptops, tablets, and phones. Yet such cross-device design remains
+challenging because users must coordinate workflows across heterogeneous devices with
+different roles. This motivates our focus on usage patterns: recurrent ways in which
+people distribute and coordinate work across devices. Through a systematic analysis of
+238 MR cross-device papers, we developed MRxD, a usage-pattern framework organized
+around three dimensions: user attention, task relatedness, and cognitive symmetry. Using
+these dimensions, we identified six usage patterns and synthesized the design strategies
+commonly used within each pattern. We further investigated the framework's application
+in design practice through a workshop (n=6) and the results suggest that MRxD can guide
+pattern-based design exploration and identify blind spots. We further discuss how usage
+patterns may shift or combine, and outline research gaps and design implications for
+future MR cross-device systems.
+
