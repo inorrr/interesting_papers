@@ -3913,3 +3913,30 @@ pattern-based design exploration and identify blind spots. We further discuss ho
 patterns may shift or combine, and outline research gaps and design implications for
 future MR cross-device systems.
 
+### 2026-11-16 - Voice-Based Conversational Agents as AI Care Assistants: Evaluating Personalization, Intervention Delivery Fidelity, and Privacy Expectations in Older Adults' Care
+
+- **arXiv:** [2611.18385v1](http://arxiv.org/abs/2611.18385v1)
+- **PDF:** [2611.18385v1.pdf](https://arxiv.org/pdf/2611.18385v1)
+- **Authors:** Thalia Viranda, Shupeng Wang, Jia Bo, Yuchen Yang, Hongjiao Zhang, Andrea Cuadra, et al.
+- **Published:** 2026-11-13
+- **Categories:** cs.HC
+- **Summary:** Generative AI enables voice-based conversational agents to play more active roles in
+older adults' care, including personalizing support and operating alongside clinicians
+and care partners. This shift creates two challenges: how to personalize support while
+faithfully delivering evidence-based interventions, and how to manage personal-data use
+and sharing across AI and care stakeholders. We designed and evaluated ARC, a voice-
+based conversational agent that operationalizes multidomain lifestyle intervention
+through sessions with predefined goals, participant context, and evidence-based
+components. In a 3-day remote study, 80 older adults completed 473 sessions across six
+session types (9,183 turns; averaging 19.4 turns and 6 minutes per session).
+Participants reported favorable usability, acceptability, and use intentions. System-
+level analyses showed strong domain-level but modest participant-specific contextual
+reuse, no significant personalization-fidelity association, and fidelity limitations
+centered on incomplete delivery of intervention components rather than off-protocol
+drift. Within care relationships, expectations for personal-data use and sharing varied
+by data type and recipient. Our findings support feasibility of conversational delivery
+of multidomain lifestyle intervention, offer methods and system-design insights for
+longitudinal evaluation, and motivate an evaluation agenda for generative AI health
+interventions: user-experience and outcome measures should be complemented by evidence
+of whether intended intervention processes were delivered as designed.
+
