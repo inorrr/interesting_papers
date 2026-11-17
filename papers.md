@@ -3940,3 +3940,27 @@ longitudinal evaluation, and motivate an evaluation agenda for generative AI hea
 interventions: user-experience and outcome measures should be complemented by evidence
 of whether intended intervention processes were delivered as designed.
 
+### 2026-11-17 - Semantic Validity vs. Graphical Arrangement in Visualization Grammars
+
+- **arXiv:** [2611.21073v1](http://arxiv.org/abs/2611.21073v1)
+- **PDF:** [2611.21073v1.pdf](https://arxiv.org/pdf/2611.21073v1)
+- **Authors:** Cynthia A. Huang, Matthew Kay
+- **Published:** 2026-11-16
+- **Categories:** cs.HC
+- **Summary:** Systems for modular, declarative and compositional specification for data
+visualizations, otherwise known as visualization grammars, often claim Wilkinson's
+Grammar of Graphics as motivation, inspiration or foundation. However, despite the
+shared intellectual lineage, visualization grammars can vary greatly in design scope and
+focus. In particular, systems that strongly adhere to domain-specific notions of
+correctness must trade-off expressivity for validity. This trade-off between semantics
+and graphical flexibility is currently under-articulated, leading to difficulty
+integrating various GoG-inspired visualization contributions, especially between InfoVis
+and Statistical Graphics. We propose three new types of visualization contributions to
+support such integration: Semantic Validity Theories, Semantic Visualization Systems and
+Graphical Arrangement Systems. The first two prioritize the adherence of data
+visualizations to correctness conditions, such as statistical or mathematical
+transformations and data semantics, whilst the third largely leave validity concerns to
+the user. We illustrate these new contribution types using examples from two recent
+grammar of graphics inspired papers, and show how they supported more nuanced notions of
+expressivity and usability in evaluation and design of visualization systems.
+
