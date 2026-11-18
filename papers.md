@@ -3964,3 +3964,30 @@ the user. We illustrate these new contribution types using examples from two rec
 grammar of graphics inspired papers, and show how they supported more nuanced notions of
 expressivity and usability in evaluation and design of visualization systems.
 
+### 2026-11-18 - Supporting Researcher Control in AI-Assisted Social Media Analysis: A Mixed-Methods Study of AI4OSN
+
+- **arXiv:** [2611.22006v1](http://arxiv.org/abs/2611.22006v1)
+- **PDF:** [2611.22006v1.pdf](https://arxiv.org/pdf/2611.22006v1)
+- **Authors:** Qile Wang, Abhishek Karwankar, Shukria Muhammadi, Srikanth Kumar Perumalla, Abhin Suresh, Sunita Chandrasekaran, et al.
+- **Published:** 2026-11-16
+- **Categories:** cs.HC
+- **Summary:** High-quality annotated datasets are critical for advancing computational social science
+(CSS) research, yet collecting, curating, and analyzing large-scale data from dynamic
+sources such as online social networks (OSNs) remains a persistent bottleneck.
+Researchers must also translate substantive questions into queries, relevance criteria,
+and defensible interpretations. Large language models (LLMs) can assist, but they can
+also obscure the judgments, potentially reducing researcher oversight and critical
+evaluation. We present AI4OSN, a mixed-initiative platform that keeps researchers in
+control of data collection, relevance labeling, and sensemaking while making AI
+assistance available as an inspectable advisory resource. In a systematic user study
+(N=18) using X/Twitter data, participants reported above-benchmark perceived usability
+(mean SUS score of 79.7), increased confidence in LLM-assisted annotation and analysis
+tasks, and low cognitive workload during AI-supported sensemaking. Notably, novice
+participants showed descriptively greater alignment and higher reported agreement with
+AI output than experienced participants, underscoring the need to support differentiated
+verification practices across expertise levels. Overall, this work contributes both a
+human-centered system for social data analysis and empirical insights into how AI-
+assisted interfaces shape researcher behavior, trust, and decision-making. Our findings
+highlight design opportunities and tensions in building accessible, transparent, and
+agentic AI systems for social media and web research.
+
