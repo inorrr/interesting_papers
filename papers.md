@@ -3991,3 +3991,26 @@ assisted interfaces shape researcher behavior, trust, and decision-making. Our f
 highlight design opportunities and tensions in building accessible, transparent, and
 agentic AI systems for social media and web research.
 
+### 2026-11-19 - An AI-Driven Assistant for Human-Centric Building Digital Twin Systems: Design, Implementation, and Comparative User Evaluation
+
+- **arXiv:** [2611.22350v1](http://arxiv.org/abs/2611.22350v1)
+- **PDF:** [2611.22350v1.pdf](https://arxiv.org/pdf/2611.22350v1)
+- **Authors:** Leonardo Messi, Erika Anneli Pärn, Juan Diego Castaño Molina, Oleksandr Anyshchenko, Dijar Selami, Peihang Luo, et al.
+- **Published:** 2026-11-17
+- **Categories:** cs.HC, cs.AI
+- **Summary:** Smart buildings generate streams of operational data, yet this richness rarely
+translates into accessible, decision-ready information for stakeholders who inhabit and
+manage them. Current Building Digital Twin Systems (BDTS) often remain oriented toward
+technical specialists and rely on static, one-size-fits-all interfaces. This paper
+presents the design, implementation, and comparative user evaluation of an AI-driven
+conversational assistant integrated into a human-centric BDTS for Indoor Environmental
+Quality monitoring, combined with adaptive information presentation and auto-suggest
+functionality. The prototype was deployed at New York University Abu Dhabi. A
+controlled, two-arm, between-subjects, quasi-experimental study with wave-based, non-
+randomized assignment compared the Baseline interface with the Experimental interface.
+Results showed significant reductions in task-completion time and perceived workload,
+while accuracy and usability improved but did not meet the adjusted significance
+criterion. The study contributes an implemented and empirically evaluated architecture
+that separates generative interaction from deterministic environmental assessment and
+coordinates conversational responses with adaptive visual presentation.
+
