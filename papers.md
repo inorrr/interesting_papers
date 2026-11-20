@@ -4014,3 +4014,33 @@ criterion. The study contributes an implemented and empirically evaluated archit
 that separates generative interaction from deterministic environmental assessment and
 coordinates conversational responses with adaptive visual presentation.
 
+### 2026-11-20 - Introducing ReTiNA-Cinema: Real-Time Neuro-Augmented Cinema via Generative AI
+
+- **arXiv:** [2611.26469v1](http://arxiv.org/abs/2611.26469v1)
+- **PDF:** [2611.26469v1.pdf](https://arxiv.org/pdf/2611.26469v1)
+- **Authors:** Antoine Bellemare-Pepin, Philipp Thölke, Yann Harel, Mar Estarellas, Karim Jerbi
+- **Published:** 2026-11-19
+- **Categories:** cs.HC
+- **Summary:** Generative artificial intelligence (AI) is currently revolutionizing content creation
+across various media. Between those who fear it will replace human creativity and those
+who regard it solely as a tool, many in the creative industries are beginning to view
+generative AI as a collaborator. Yet interaction with these systems often relies on
+discrete, turn-based prompting that can interrupt flow and constrain expression to
+symbolic text. We explore physiological signals as a source of continuous adaptation
+without explicit commands, as a path toward embodied co-creation. This paper presents
+ReTiNA-Cinema, a methodological proof-of-concept that integrates electroencephalography
+(EEG) with generative AI to enable physiologically guided visual modulation of cinematic
+material. By linking physiological activity to the evolving appearance of a film, the
+system provides a basis for exploring embodied sense-making, in which viewers' bodily
+responses contribute to shaping the sensory experience through which they interpret the
+unfolding scenes. The system combines real-time EEG signal processing with a generative
+AI pipeline based on Stable Diffusion Turbo for frame-level image transformation.
+Single-user and two-user configurations map EEG-derived features to prompt selection and
+transformation strength. ReTiNA-Cinema offers a framework for exploring how the
+physiology of viewers might influence a film's visual presentation, extending the
+possibilities for participation in cinematic experiences and storytelling. This system
+raises questions about the effects on engagement, perceived agency, and emotional
+response, which remain open to future empirical study. Video illustrations:
+https://www.youtube.com/playlist?list=PLMu36WzSQKiVeBnrUdwUAoUhqLqGX3_bw and
+implementation: https://github.com/KairosHive/retina-cinema.
+
