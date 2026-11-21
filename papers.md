@@ -4044,3 +4044,29 @@ response, which remain open to future empirical study. Video illustrations:
 https://www.youtube.com/playlist?list=PLMu36WzSQKiVeBnrUdwUAoUhqLqGX3_bw and
 implementation: https://github.com/KairosHive/retina-cinema.
 
+### 2026-11-21 - Modeling Learner-Technology Interaction Through Multilevel Gaze Transition Dynamics to Inform Usability in Online Learning
+
+- **arXiv:** [2611.25294v1](http://arxiv.org/abs/2611.25294v1)
+- **PDF:** [2611.25294v1.pdf](https://arxiv.org/pdf/2611.25294v1)
+- **Authors:** Yueqi Weng, Jie "Jennifer" Lu, fan Yang
+- **Published:** 2026-11-18
+- **Categories:** cs.HC
+- **Summary:** Gaze data provide fine-grained evidence of how learners engage with instructional
+content and interface elements, complementing conventional usability evaluation methods.
+However, eye-tracking analyses often examine within-slide visual attention and across-
+slide navigation separately, limiting understanding of learner interaction throughout
+extended learning experiences. This exploratory multi-method study integrated area-of-
+interest transitions, gaze entropy, slide-level navigation, and network-based
+representations to analyze seven eye-tracking recordings of high school students
+interacting with an AI-supported online biology lesson, complemented by three post-
+intervention focus groups. Results showed individual differences in within-slide gaze
+allocation and switching patterns. Learners followed shared navigation pathways but
+differed in revisiting and immediate return behaviors. The focus group findings
+highlighted positive perceptions of interactive materials and AI-generated feedback,
+alongside usability concerns related to navigation, interface clarity, and assessment
+guidance. Together, these outcomes show how integrating multilevel gaze analytics with
+learner perspectives can provide complementary evidence for identifying interaction
+trends relevant to usability evaluation. Future research should test this approach with
+larger, more diverse samples and examine relationships among gaze patterns, usability,
+and learning outcomes.
+
