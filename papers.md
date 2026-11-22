@@ -4070,3 +4070,31 @@ trends relevant to usability evaluation. Future research should test this approa
 larger, more diverse samples and examine relationships among gaze patterns, usability,
 and learning outcomes.
 
+### 2026-11-22 - Design and Evaluation of a Body-Machine Interface as an Alternative Control Paradigm for Pedal-based Sewing Machines
+
+- **arXiv:** [2611.25261v1](http://arxiv.org/abs/2611.25261v1)
+- **PDF:** [2611.25261v1.pdf](https://arxiv.org/pdf/2611.25261v1)
+- **Authors:** Ashrut Aryal, Rajiv Ranganathan, Ranjan Mukherjee
+- **Published:** 2026-11-18
+- **Categories:** cs.HC
+- **Summary:** Body-machine interfaces (BoMIs) exploit body movements to control assistive devices;
+they have been evaluated primarily in tasks such as cursor control or robotic
+manipulation where the entire movement repertoire is devoted toward device control.
+However, tasks with multiple concurrent processes require the user to share the movement
+repertoire used for device control with other body movements for task execution. This
+issue is examined here in the context of sewing, where the sewing machine is typically
+controlled by a pedal in coordination with hand movements for guiding the fabric. We
+evaluated the learning of a trunk-controlled BoMI for sewing machine control, and
+compared it with conventional pedal control. Twenty-four novice participants (12 BoMI,
+12 Pedal) completed 10 trials of a standardized sewing assessment followed by 3 trials
+of a transfer task. The BoMI mapped trunk movements to the sewing machine's full
+functional repertoire, which included continuous speed control of the needle, and
+discrete actions such as presser-foot and needle lifts. The two groups learned at
+comparable rates, showing similar completion times and error counts; for both groups,
+completion time reduced by approximately 30\%. Additional analyses showed that the BoMI
+group had fewer presser-foot lift errors during training and fewer errors on the first
+transfer trial. Both groups also exhibited similar subjective workload. These findings
+collectively demonstrate that a BoMI interface can support sewing-machine control during
+concurrent manual activity, highlighting the potential for using BoMIs for increasing
+accessibility in industrial workplace contexts.
+
