@@ -4182,3 +4182,28 @@ learning inclusive. Future evaluations should examine whether learners with diff
 prior experiences can obtain guidance, recover from difficulties, and demonstrate
 understanding independently across devices.
 
+### 2026-11-26 - COGENT: A Modular Cognitive Architecture for Agentic User Simulation
+
+- **arXiv:** [2611.31559v1](http://arxiv.org/abs/2611.31559v1)
+- **PDF:** [2611.31559v1.pdf](https://arxiv.org/pdf/2611.31559v1)
+- **Authors:** Yikun Chi, Adam Davies, Debarati Das, Lin Ai, Scott Counts
+- **Published:** 2026-11-23
+- **Categories:** cs.AI, cs.HC
+- **Summary:** LLM-based user simulation can support interface design, accessibility research, and
+interactive-agent evaluation, but standard computer-use agents are optimized for task
+completion rather than reproducing how people perceive, reason, and act. We introduce
+COGENT (COGnitive agENT), a modular cognitive architecture for simulating user
+interaction with desktop interfaces. COGENT draws on established cognitive theories,
+such as Norman's action cycle and ACT-R, to enable explainable, intervenable, and
+modular user simulation by decomposing the simulation process into cognitive modules
+with explicit representations of perception, memory, user state, intentions, and action
+selection. We begin by presenting six intervenability demonstrations, each tracing how a
+single edit to memory, a user attribute, or a processing module propagates through the
+cognitive pipeline to produce a behavioral change. We evaluate COGENT's behavioral and
+attributional fidelity across three benchmarks -- AgentNetBench, A11y-CUA, and SENSE-42
+-- finding that it achieves statistically significant fidelity gains over computer-use
+baselines in reproducing recorded human behavior and recovers the relational structure
+among human self-reported psychological states. Together, these demos and evaluations
+demonstrate COGENT's utility toward more faithful, explainable, intervenable, and
+modular LLM-based cognitive simulations.
+
